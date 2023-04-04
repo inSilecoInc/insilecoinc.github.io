@@ -4,6 +4,7 @@ title = 'inSileco'
 theme = ["github.com/StefMa/hugo-fresh"]
 googleAnalytics = ""
 defaultContentLanguage = "en"
+enableEmoji = true
 
 [module.imports]
 path = "github.com/StefMa/hugo-fresh"
@@ -24,29 +25,18 @@ title = "inSileco"
 
 [languages.fr.params.hero]
 title = "inSileco"
-subtitle = "Nous faisons ci ca et ca."
+subtitle = "Le site est actuellement en construction"
 buttontext = "Commencer"
 buttonlink = "#"
-image = "../img/logo.svg"
+image = "logo.svg"
 
 [[languages.fr.params.navbar]]
 title = "A propos"
-url = "/about"
+url = "/fr/about"
 
 [[languages.fr.params.navbar]]
 title = "Ateliers"
-url = "workshop"
-
-[[languages.fr.params.navbar]]
-title = "Langue"
-
-[[languages.fr.params.navbar.sublinks]]
-title = "Anglais"
-url = "/#"
-
-[[languages.fr.params.navbar.sublinks]]
-title = "Francais"
-url = "/fr/"
+url = "/fr/workshop"
 
 [[languages.fr.params.navbar]]
 title = "Blogue (en)"
@@ -58,7 +48,7 @@ url = "https://blog.insileco.io/"
 openGraph = true
 
 [params.navbarlogo]
-image = "../img/logo.svg"
+image = "logo.svg"
 link = "/"
 
 [params.font]
@@ -68,10 +58,10 @@ sizes = [400, 600]
 
 [params.hero]
 title = "inSileco"
-subtitle = "We do this that and that."
+subtitle = "This is work in progress"
 buttontext = "Get started"
 buttonlink = "#"
-image = "../img/logo.svg"
+image = "logo.svg"
 
 [[params.hero.clientlogos]]
 logo = "systek"
@@ -99,18 +89,7 @@ url = "/about"
 
 [[params.navbar]]
 title = "Workshops"
-url = "workshop"
-
-[[params.navbar]]
-title = "Language"
-
-[[params.navbar.sublinks]]
-title = "English"
-url = "#"
-
-[[params.navbar.sublinks]]
-title = "French"
-url = "/fr"
+url = "/workshop"
 
 [[params.navbar]]
 title = "Blog"
@@ -173,8 +152,8 @@ text = "App settings"
 url = "/"
 
 [params.section1]
-title = "Great power comes"
-subtitle = "with great responsibility"
+title = "Data Science"
+subtitle = ""
 
 [[params.section1.tiles]]
 title = "App builder"
@@ -196,6 +175,7 @@ icon = "plug-cloud"
 text = "This is some explanatory text that is on two rows"
 url = "/"
 buttonText = "Get started"
+
 
 [params.section2]
 title = "You're here because you want the best"
@@ -245,30 +225,29 @@ quote = "Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim
 job = "HR Manager"
 img = 3
 
-[params.section5]
-title = "Drop us a line or two"
-subtitle = "We'd love to hear from you"
-buttonText = "Send Message"
+# [params.section5]
+# title = "Drop us a line or two"
+# subtitle = "We'd love to hear from you"
+# buttonText = "Send Message"
+
+
 
 [params.footer]
-logo = "fresh-white-alt.svg"
+logo = "logo.svg"
 socialmediatitle = "Follow Us"
 bulmalogo = true
 
 [[params.footer.socialmedia]]
-link = "https://github.com/lucperkins/github-fresh"
+link = "https://github.com/inSilecoInc"
 icon = "github"
 
-[[params.footer.socialmedia]]
-link = "https://dribbble.com/#"
-icon = "dribbble"
 
 [[params.footer.socialmedia]]
 link = "https://facebook.com/#"
 icon = "facebook"
 
 [[params.footer.socialmedia]]
-link = "https://twitter.com/lucperkins"
+link = "https://twitter.com/insileco"
 icon = "twitter"
 
 [[params.footer.socialmedia]]
@@ -276,54 +255,45 @@ link = "https://bitbucket.org/#"
 icon = "bitbucket"
 
 [params.footer.quicklinks.column1]
-title = "Product"
+title = "Projects"
 
 [[params.footer.quicklinks.column1.links]]
-text = "Discover features"
+text = "Data pipelines"
 link = "/"
 
 [[params.footer.quicklinks.column1.links]]
-text = "Why choose our product?"
+text = "Statistical analysis"
 link = "/"
 
 [[params.footer.quicklinks.column1.links]]
-text = "Compare features"
+text = "Teaching materials"
 link = "/"
 
-[[params.footer.quicklinks.column1.links]]
-text = "Our roadmap"
-link = "/"
-
-[[params.footer.quicklinks.column1.links]]
-text = "AGB"
-link = "/agb"
 
 [params.footer.quicklinks.column2]
-title = "Docs"
+title = "Workshops"
 
 [[params.footer.quicklinks.column2.links]]
-text = "Get started"
+text = "Learning git"
 link = "/"
 
 [[params.footer.quicklinks.column2.links]]
-text = "User guides"
+text = "R as a GIS"
 link = "/"
 
-[[params.footer.quicklinks.column2.links]]
-text = "Admin guide"
-link = "/"
-
-[[params.footer.quicklinks.column2.links]]
-text = "Developers"
-link = "/"
 
 [params.footer.quicklinks.column3]
 title = "Blog"
 
 [[params.footer.quicklinks.column3.links]]
-text = "Latest news"
-link = "/blog/first"
+text = "Latest posts"
+link = "https://blog.insileco.io/post/"
 
 [[params.footer.quicklinks.column3.links]]
-text = "Tech articles"
-link = "/blog/second"
+text = "Resources"
+link = "https://blog.insileco.io/resource/"
+
+[[params.footer.quicklinks.column3.links]]
+icon = "github"
+link = "https://github.com/inSileco"
+

@@ -1,6 +1,7 @@
 ---
 title: A propos de nous 
+layout: about
 ---
 
+{{< team >}}
 
-Nous sommes trois

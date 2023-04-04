@@ -53,10 +53,9 @@
 
         {{- if .IsTranslated }}
             {{- range .Translations }}
-                <a href="{{ .Permalink }}" class="navbar-item is-secondary">
-                    {{ .Language.Lang }}
-                </a>
-                | &nbsp;
+            <a href="{{ .Permalink }}" class="navbar-item is-secondary">
+                {{ .Language.Lang }}
+            </a>
             {{- end }}
         {{ end }}
             

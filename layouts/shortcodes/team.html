@@ -1,0 +1,10 @@
+
+<div class="content">
+    {{ $data := index .Site.Data .Site.Language.Lang }}
+    {{ range $data.members }}
+    <p>
+    <h3>{{ .name.given }} {{ .name.family }} ({{ .role }})</h3>
+    </p>
+    {{ .bio }}
+    {{ end }}
+</div>
