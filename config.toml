@@ -35,8 +35,12 @@ title = "A propos"
 url = "/fr/about"
 
 [[languages.fr.params.navbar]]
-title = "Ateliers"
-url = "/fr/workshop"
+title = "Éducation"
+url = "/fr/education"
+
+[[languages.fr.params.navbar]]
+title = "Éducation"
+url = "/fr/education"
 
 [[languages.fr.params.navbar]]
 title = "Blogue (en)"
@@ -88,8 +92,12 @@ title = "About"
 url = "/about"
 
 [[params.navbar]]
-title = "Workshops"
-url = "/workshop"
+title = "Education"
+url = "/education"
+
+[[params.navbar]]
+title = "Projects"
+url = "/projects"
 
 [[params.navbar]]
 title = "Blog"
