@@ -1,9 +1,10 @@
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 
 <div class="content">
     {{ $data := index .Site.Data .Site.Language.Lang }}
     {{ range $data.education }}
     <p>
-    <h3>{{ .name }}</h3>
+    <h3>{{ .name }} ({{ .year }})</h3>
     </p>
     <div class="columns">
       <div class="column is-one-quarter">
@@ -11,8 +12,11 @@
       </div>
       <div class="column">
         {{ .client }}
-        {{ .url }}
+        <span class="icon">
+          <a href="{{ .url }}"><i class="fas fa-globe-americas"></i></a>
+        </span>
       </div>
     </div>
     {{ end }}
 </div>
+

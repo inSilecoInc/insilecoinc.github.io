@@ -2,14 +2,13 @@
 <div class="content">
   <div class="columns">
     {{ $data := index .Site.Data .Site.Language.Lang }}
-    {{ range $data.members }}
+    {{ range $data.workshops }}
       <div class="column is-one-third">
         <img src="{{ .picture }}" style="width:75%">
         <p>
-          <h3>{{ .name.given }}</h3>
-          <h4>{{ .role }}</h4>
+          <h3>{{ .name }}</h3>
         </p>
-        {{ .bio }}
+        {{ .description }}
       </div>
     {{ end }}
   </div>
