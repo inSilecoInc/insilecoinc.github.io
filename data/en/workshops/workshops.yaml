@@ -1,0 +1,18 @@
+- name: Introduction to R
+  picture: https://posit.co/wp-content/uploads/2023/03/home-hero-connect.jpg
+  description: The Introduction to R Workshop is designed to introduce participants to the fundamentals of the R programming language for statistical computing and data analysis. The workshop covers a range of essential topics that will equip participants to confidently manipulate and analyze data, create visualizations, and perform statistical operations using R. Participants will also gain exposure to additional learning resources and best practices to continue their journey in data science and analysis.
+- name: Git & GitHub
+  picture: https://editor.analyticsvidhya.com/uploads/18288git.jpg
+  description: The Git and GitHub Workshop is designed to equip participants with essential skills and knowledge to effectively use Git and GitHub for version control and collaborative development. This workshop aims to enhance your understanding and proficiency in using these powerful tools to streamline your development process, enhance collaboration, and ensure the integrity of your code. Participants will engage in hands-on activities like initializing repositories, creating branches, making commits, resolving conflicts, and pushing changes to remote repositories. They will also practice collaborating with others by forking repositories, creating pull requests, and merging code changes. 
+- name: R Markdown
+  picture: 
+  description: The R Markdown Workshop is designed to familiarize participants with the power of R Markdown for generating dynamic and reproducible documents, reports, and presentations with embedded R code and visualizations. During this workshop, participants will delve into the   fundamentals of R Markdown, learning how to integrate text, code chunks, and visual outputs seamlessly. Furthermore, participants will discover how to leverage R Markdown to generate reproducible analyses and automate the reporting process. Participants will also explore methods for integrating version control systems like Git to ensure transparency and collaboration in the documentation workflow.
+- name: Reproducibility
+  picture: https://insileco.io/workshop_reproducibility/img/spectrum.png
+  description:  In an era where transparency and replicability are paramount, this workshop aims to empower researchers with the skills to ensure the transparency and replicability of their computational processes, from data management to reporting. The workshop covers a range of essential topics, including data management, code organization, version control, and documentation practices. Participants will gain insights into best practices for structuring their projects, organizing data and code files, and adopting rigorous version control techniques using platforms such as Git and GitHub.
+- name: Shiny
+  picture: 
+  description: The Shiny Workshop is an immersive session designed to introduce participants to the power of Shiny, a web application framework for creating interactive data visualizations and dashboards using R. The workshop covers a range of essential topics to transform their R code into interactive web-based applications, including user interface (UI) design, reactive programming, and data visualization. Participants will learn how to create responsive and visually appealing interfaces and discover how to leverage reactive programming concepts to build interactive elements that dynamically update based on user input or data changes. They will also learn how to deploy their applications locally or on web servers, allowing others to access and interact with their application.
+- name: 
+  picture:
+  description: 
