@@ -13,6 +13,18 @@
 - name: Shiny
   picture: 
   description: The Shiny Workshop is an immersive session designed to introduce participants to the power of Shiny, a web application framework for creating interactive data visualizations and dashboards using R. The workshop covers a range of essential topics to transform their R code into interactive web-based applications, including user interface (UI) design, reactive programming, and data visualization. Participants will learn how to create responsive and visually appealing interfaces and discover how to leverage reactive programming concepts to build interactive elements that dynamically update based on user input or data changes. They will also learn how to deploy their applications locally or on web servers, allowing others to access and interact with their application.
+- name: R in Space
+  picture:
+  description: 
+- name: R packages
+  picture:
+  description: 
+- name: 
+  picture:
+  description: 
+- name: 
+  picture:
+  description: 
 - name: 
   picture:
   description: 
