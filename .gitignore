@@ -20,6 +20,9 @@
 # Go workspace file
 go.work
 
-# Node
+# Ignore node module
 node_modules/*
+
+# Ignore hugo build
 .hugo_build.lock
+public/

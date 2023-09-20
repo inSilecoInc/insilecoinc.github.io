@@ -1,9 +1,10 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ block "title" . }}</title>
-    <!-- resources.Get "style.css" will fetch the style.css file. 
-    It will not work if you mention the exact location like "./assets/style.css".-->
-    {{ $style := resources.Get "style.css" }} 
-    <link rel="stylesheet" href="{{ $style.Permalink }}"> 
+    <title> {{ .Site.title }}</title>
+    <!-- load bulma css compiled with our customizations from scss -->
+    {{ $cssOpts := (dict "includePaths" (slice "node_modules/bulma" "assets/scss")) }}
+    {{ with $styles := resources.Get "scss/main.scss" | toCSS $cssOpts }}
+    <style> {{ .Content | safeCSS }} </style>
+    {{ end }}
 </head>

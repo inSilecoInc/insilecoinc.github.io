@@ -11,13 +11,13 @@
     "url": "git+https://github.com/inSilecoInc/website-v2.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Insileco",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/inSilecoInc/website-v2/issues"
   },
   "homepage": "https://github.com/inSilecoInc/website-v2#readme",
-  "devDependencies": {
-    "tailwindcss": "^3.3.3"
+  "dependencies": {
+    "bulma": "^0.9.4"
   }
 }

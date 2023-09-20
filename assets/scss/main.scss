@@ -1,0 +1,14 @@
+@import 'sass/utilities/initial-variables.sass';
+
+$scheme-main: $grey-darker;
+$scheme-invert: $white;
+$scheme-main-bis: $grey-dark;
+
+$text: $grey-light; // normal text
+$text-strong: $green; // header tags
+$link: $green;
+$link-hover: $grey-light;
+$footer-background-color: $grey-dark;
+$footer-color: $grey-light;
+
+@import 'bulma.sass';
