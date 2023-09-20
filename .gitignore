@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+# Node
+node_modules/*
+.hugo_build.lock
