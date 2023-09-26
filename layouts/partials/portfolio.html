@@ -3,22 +3,21 @@
         <h2>Portfolio</h2>
         <p>Nos réalisations</p>
     </div>
+    {{ $data := index .Site.Data .Site.Language.Lang "portfolio"}}
+    {{ $labels := slice }}
+    {{ range $data }}
+        {{ $labels = $labels | append .labels }}
+    {{ end }}
+    {{ $labels := (uniq $labels) }}
     <div class="column is-full has-text-centered content-text">
-        <label class="checkbox ml-4">
+        {{ range $labels }}
+        <label id="{{ . | lower }}" class="checkbox ml-4">
             <input type="checkbox">
-            Développement d'applicatifs
+            {{ . }}
         </label>
-        <label class="checkbox ml-4">
-            <input type="checkbox">
-            Formations
-        </label>
-        <label class="checkbox ml-4">
-            <input type="checkbox">
-            Gouvernance des données
-        </label>
+        {{ end }}
     </div>
-    {{ $data := index .Site.Data .Site.Language.Lang }}
-    {{ range $data.portfolio }}
+    {{ range $data }}
     <div class="column is-3">
             <div class="card">
                 <header class="card-header approach-box">
