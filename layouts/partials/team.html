@@ -9,8 +9,25 @@
         <figure class="image is-128x128 is-inline-block">
             <img class="is-rounded img-member" src="{{ .picture }}"/>
         </figure>
-        <h6>{{ .name.given }}{{ .name.family }}, {{ .title }}</h6>
-        <p>{{ .en.bio }}</p>
+        <h6 class="my-0">{{ .name.given }} {{ .name.family }}, {{ .title }}</h6>
+        <p class="is-size-6 mt-0">{{ .en.role }}</p>
+        <p class="is-size-6 my-4">{{ .en.short_bio }}</p>
+        <p class="is-size-6">
+            {{with .social }}
+                {{ if .mail }}
+                    <a href="mailto:{{ .mail }}"><ion-icon name="mail-outline"></ion-icon></a>
+                {{ end }}
+                {{ if .website }}
+                    <a href="{{ .website }}"><ion-icon name="globe-outline"></ion-icon></a>
+                {{ end }}
+                {{ if .github }}
+                    <a href="https://github.com/{{ .github }}"><ion-icon name="logo-github"></ion-icon></a>
+                {{ end }}
+                {{ if .linkedin }}
+                    <a href="https://www.linkedin.com/in/{{ .linkedin }}"><ion-icon name="logo-linkedin"></ion-icon></a>
+                {{ end }}
+            {{ end }}
+        </p>
     </div>
-    {{end}}
+    {{ end }}
 </div>

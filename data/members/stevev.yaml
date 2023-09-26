@@ -5,7 +5,7 @@ name:
 title: MSc.
 social:
   mail: svissault@insileco.io
-  html: http://steveviss.github.io/
+  website: http://steveviss.github.io/html_resume
   github: SteveViss
   twitter: SVissault
   researchgate: Steve-Vissault
@@ -13,10 +13,12 @@ social:
   orcid: 0000-0002-0866-4376
   linkedin: steve-vissault-66602946
 fr:
-  role: cofondateur
+  role: Cofondateur
   skill:
+  short_bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis nunc semper ultricies aliquet.
   bio: "Co-fondateur de inSileco et scientifique des données chez Omnimed."
 en:
-  role: co-founder
+  role: Co-founder
   skill:
+  short_bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis nunc semper ultricies aliquet.
   bio: "Co-fonder of inSileco and data scientist @Omnimed."
