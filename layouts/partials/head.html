@@ -1,0 +1,15 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> {{ .Site.title }}</title>
+    <!-- load bulma css compiled with our customizations from scss -->
+    {{ $cssOpts := (dict "includePaths" (slice "node_modules/bulma" "assets/scss")) }}
+    {{ with $bulma := resources.Get "scss/main.scss" | toCSS $cssOpts }}
+        <style> {{ .Content | safeCSS }} </style>
+    {{ end }}
+    {{ with $customCSS := resources.Get "css/insileco.css" }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{ end }}
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</head>

@@ -1,0 +1,15 @@
+name:
+  given: David
+  family: Beauchesne
+social:
+- mail: dbeauchesne@insileco.io
+  html: https://github.com/david-beauchesne/david-beauchesne.github.io
+  github: david-beauchesne
+  twitter: d_beauchesne
+  researchgate: David_Beauchesne
+  orcid: 0000-0002-3590-8161
+  linkedin: david-beauchesne-16683353
+role: co-founder
+skill:
+bio: "I am one of the founders of inSileco and a postdoctoral researcher at Université Laval. I am an ecologist working on ecosystem-based management in general and cumulative effects assessments in particular, with a focus on open science, reproducibility and computational tools."
+picture: david.jpg
