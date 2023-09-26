@@ -17,94 +17,30 @@
             Gouvernance des données
         </label>
     </div>
+    {{ $data := index .Site.Data .Site.Language.Lang }}
+    {{ range $data.portfolio }}
     <div class="column is-3">
-        <div class="card">
-            <header class="card-header approach-box">
-                <p class="card-header-title has-text-white">
-                Card header
-                </p>
-            </header>
-            <div class="card-content">
-                <div class="content">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-                    <a href="#">#css</a> <a href="#">#responsive</a>
-                    <br>
-                    <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-                <div class="tags">
-                    <span class="tag is-primary">Micro-applications</span>
-                    <span class="tag is-primary">Shiny</span>
+            <div class="card">
+                <header class="card-header approach-box">
+                    <p class="card-header-title has-text-white">
+                    {{ .name }}
+                    </p>
+                </header>
+                <div class="card-content">
+                    <div class="content">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                        <a href="#">#css</a> <a href="#">#responsive</a>
+                        <br>
+                        <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+                    </div>
+                    <div class="tags">
+                        {{ range .labels}}
+                        <span class="tag is-primary">{{ . }}</span>
+                        {{ end }}
+                    </div>
                 </div>
             </div>
-        </div>
     </div>
-    <div class="column is-3">
-        <div class="card">
-            <header class="card-header approach-box">
-                <p class="card-header-title has-text-white">
-                Card header
-                </p>
-            </header>
-            <div class="card-content">
-                <div class="content">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-                    <a href="#">#css</a> <a href="#">#responsive</a>
-                    <br>
-                    <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-                <div class="tags">
-                    <span class="tag is-primary">Formations</span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="column is-3">
-        <div class="card">
-            <header class="card-header approach-box">
-                <p class="card-header-title has-text-white">
-                Card header
-                </p>
-            </header>
-            <div class="card-content">
-                <div class="content">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-                    <a href="#">#css</a> <a href="#">#responsive</a>
-                    <br>
-                    <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                    <br>
-                    {{ $imgClient1 := resources.Get "/img/portfolio/mpo.png" }}
-                    <img src="{{ $imgClient1.RelPermalink }}" style="max-height:3rem"/>
-                </div>
-                <div class="tags">
-                    <span class="tag is-primary">Développement méthodologique</span>
-                    <span class="tag is-primary">Statistiques</span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="column is-3">
-        <div class="card">
-            <header class="card-header approach-box">
-                <p class="card-header-title has-text-white">
-                Card header
-                </p>
-            </header>
-            <div class="card-content">
-                <div class="content">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-                    <a href="#">#css</a> <a href="#">#responsive</a>
-                    <br>
-                    <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                </div>
-                <div class="tags">
-                    <span class="tag is-primary">Développement méthodologique</span>
-                    <span class="tag is-primary">Statistiques</span>
-                </div>
-            </div>
-        </div>
-    </div>
+    {{ end }}
 </div>
