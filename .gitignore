@@ -26,3 +26,4 @@ node_modules/*
 # Ignore hugo build
 .hugo_build.lock
 public/
+_gen
