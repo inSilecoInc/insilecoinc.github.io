@@ -1,14 +1,10 @@
 {{ define "main" }}
-
-<section class="hero is-primary">
-    <div class="hero-body">
-      <p class="title">
-        Primary hero
-      </p>
-      <p class="subtitle">
-        Primary subtitle
-      </p>
+    {{ partial "navbar.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "mission.html" . }}
+    <div class="content mx-6">
+            {{ partial "team.html"  . }}
+            {{ partial "portfolio.html" . }}
+            {{ partial "approach.html" .  }}
     </div>
-</section>
-
 {{ end }}

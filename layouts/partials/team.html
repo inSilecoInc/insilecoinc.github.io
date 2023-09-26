@@ -1,0 +1,30 @@
+<div class="columns is-multiline is-vcentered is-mobile mx-6">
+    <div class="column is-full has-text-centered content-text">
+        <h2>Notre équipe</h2>
+        <p>À votre service</p>
+    </div>
+    <div class="column is-4 has-text-centered">
+        <figure class="image is-128x128 is-inline-block">
+            {{ $imgKev := resources.Get "/img/team/kev.jpg" }}
+            <img class="is-rounded img-member" src="{{ $imgKev.RelPermalink }}"/>
+        </figure>
+        <h6>Kevin Cazelles, PhD.</h6>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum enim, efficitur sed suscipit ut, feugiat eget leo. Nulla at suscipit lorem. Praesent sed nunc sapien. Praesent at dui est. Nunc ac arcu mauris.</p>
+    </div>
+    <div class="column is-4 has-text-centered">
+        <figure class="image is-128x128 is-inline-block">
+            {{ $imgDavid := resources.Get "/img/team/david.jpg" }}
+            <img class="is-rounded img-member" src="{{ $imgDavid.RelPermalink }}"/>
+        </figure>
+        <h6>David Beauchesne, PhD.</h6>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum enim, efficitur sed suscipit ut, feugiat eget leo. Nulla at suscipit lorem. Praesent sed nunc sapien. Praesent at dui est. Nunc ac arcu mauris.</p>
+    </div>
+    <div class="column is-4 has-text-centered">
+        <figure class="image is-128x128 is-inline-block">
+            {{ $imgSteve := resources.Get "/img/team/steve.jpg" }}
+            <img class="is-rounded img-member" src="{{ $imgSteve.RelPermalink }}"/>
+        </figure>
+        <h6>Steve Vissault, MSc.</h6>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum enim, efficitur sed suscipit ut, feugiat eget leo. Nulla at suscipit lorem. Praesent sed nunc sapien. Praesent at dui est. Nunc ac arcu mauris.</p>
+    </div>
+</div>
