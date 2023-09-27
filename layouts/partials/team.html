@@ -15,19 +15,25 @@
         {{ else if eq $.Site.Language.Lang "fr" }}
             <p class="is-size-6 mb-0">{{ .fr.role }}</p>
         {{ end }}
-        <p class="is-size-6">   
+        <p class="is-size-6">
             {{with .social }}
                 {{ if .mail }}
-                    <a href="mailto:{{ .mail }}"><ion-icon name="mail-outline"></ion-icon></a>
+                    <a href="mailto:{{ .mail }}" target="_blank"><ion-icon name="mail-outline"></ion-icon></a>
                 {{ end }}
                 {{ if .website }}
-                    <a href="{{ .website }}"><ion-icon name="globe-outline"></ion-icon></a>
+                    <a href="{{ .website }}" target="_blank"><ion-icon name="globe-outline"></ion-icon></a>
                 {{ end }}
                 {{ if .github }}
-                    <a href="https://github.com/{{ .github }}"><ion-icon name="logo-github"></ion-icon></a>
+                    <a href="https://github.com/{{ .github }}" target="_blank"><ion-icon name="logo-github"></ion-icon></a>
                 {{ end }}
                 {{ if .linkedin }}
-                    <a href="https://www.linkedin.com/in/{{ .linkedin }}"><ion-icon name="logo-linkedin"></ion-icon></a>
+                    <a href="https://www.linkedin.com/in/{{ .linkedin }}" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
+                {{ end }}
+                {{ if .researchgate }}
+                    <a href="https://www.researchgate.net/profile/{{ .researchgate }}" target="_blank"><ion-icon class="ai ai-researchgate-square"></ion-icon></a>
+                {{ end }}
+                {{ if .orcid }}
+                    <a href="https://orcid.org/{{ .orcid }}" target="_blank"><ion-icon class="ai ai-orcid"></ion-icon></a>
                 {{ end }}
             {{ end }}
         </p>
