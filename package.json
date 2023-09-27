@@ -5,15 +5,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inSilecoInc/website-v2.git"
+    "url": "git+https://github.com/inSilecoInc/insilecoinc.github.io.git"
   },
   "keywords": [],
   "author": "Insileco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inSilecoInc/website-v2/issues"
+    "url": "https://github.com/inSilecoInc/insilecoinc.github.io/issues"
   },
-  "homepage": "https://github.com/inSilecoInc/website-v2#readme",
+  "homepage": "https://github.com/inSilecoInc/insilecoinc.github.io#readme",
   "dependencies": {
     "bulma": "^0.9.4"
   }
