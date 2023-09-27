@@ -10,8 +10,7 @@
             <img class="is-rounded img-member" src="{{ .picture }}"/>
         </figure>
         <h6 class="my-0">{{ .name.given }} {{ .name.family }}, {{ .title }}</h6>
-        <p class="is-size-6 mt-0">{{ .en.role }}</p>
-        <p class="is-size-6 my-4">{{ .en.short_bio }}</p>
+        <p class="is-size-6 mb-0">{{ .en.role }}</p>
         <p class="is-size-6">
             {{with .social }}
                 {{ if .mail }}
@@ -28,6 +27,7 @@
                 {{ end }}
             {{ end }}
         </p>
+        <p class="is-size-6 my-4">{{ .en.short_bio }}</p>
     </div>
     {{ end }}
 </div>
