@@ -1,0 +1,15 @@
+name: Interactive Raster Visualization with R
+client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
+labels: 
+  - Workshop
+date:
+  - 2021-01-12
+  - 2021-01-13
+instructors:
+  - David Beauchesne
+  - Kevin Cazelles
+location: remote
+url: 
+  - https://github.com/inSilecoInc/workshop_raster
+  - https://github.com/inSilecoInc/interactiveRaster
+picture:

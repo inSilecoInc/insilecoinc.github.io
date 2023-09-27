@@ -1,0 +1,14 @@
+{{ define "main" }}
+    {{ partial "navbar.html" . }}
+    {{ partial "header.html" . }}
+    {{ partial "mission.html" . }}
+    <div class="content mx-6">
+        {{ partial "portfolio.html" . }}
+        {{ partial "team.html" . }}
+        {{ partial "approach.html" . }}
+    </div>
+{{ end }}
+
+{{ define "footer" }}
+    {{ partial "footer.html" . }}
+{{ end }}
