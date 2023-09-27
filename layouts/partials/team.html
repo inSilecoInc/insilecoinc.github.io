@@ -1,4 +1,4 @@
-<div class="columns is-multiline is-vcentered is-mobile mx-6">
+<div id="team" class="columns is-multiline is-vcentered is-mobile mx-6">
     <div class="column is-full has-text-centered content-text">
         <h2>Notre équipe</h2>
         <p>À votre service</p>
@@ -10,8 +10,12 @@
             <img class="is-rounded img-member" src="{{ .picture }}"/>
         </figure>
         <h6 class="my-0">{{ .name.given }} {{ .name.family }}, {{ .title }}</h6>
-        <p class="is-size-6 mb-0">{{ .en.role }}</p>
-        <p class="is-size-6">
+        {{ if eq $.Site.Language.Lang "en" }}
+            <p class="is-size-6 mb-0">{{ .en.role }}</p>
+        {{ else if eq $.Site.Language.Lang "fr" }}
+            <p class="is-size-6 mb-0">{{ .fr.role }}</p>
+        {{ end }}
+        <p class="is-size-6">   
             {{with .social }}
                 {{ if .mail }}
                     <a href="mailto:{{ .mail }}"><ion-icon name="mail-outline"></ion-icon></a>
@@ -27,7 +31,11 @@
                 {{ end }}
             {{ end }}
         </p>
-        <p class="is-size-6 my-4">{{ .en.short_bio }}</p>
+        {{ if eq $.Site.Language.Lang "en" }}
+            <p class="is-size-6 my-4">{{ .en.short_bio }}</p>
+        {{ else if eq $.Site.Language.Lang "fr" }}
+            <p class="is-size-6 my-4">{{ .fr.short_bio }}</p>
+        {{ end }}
     </div>
     {{ end }}
 </div>
