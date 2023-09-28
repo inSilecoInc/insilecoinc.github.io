@@ -1,3 +1,10 @@
+# editor(s) 
+.vscode
+
+# MacOS
+.DS_Store
+
+
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
@@ -28,5 +35,3 @@ node_modules/*
 public/
 _gen
 
-# MacOS
-.DS_Store

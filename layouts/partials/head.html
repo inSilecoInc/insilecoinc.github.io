@@ -7,8 +7,17 @@
     {{ with $bulma := resources.Get "scss/main.scss" | toCSS $cssOpts }}
         <style> {{ .Content | safeCSS }} </style>
     {{ end }}
+
     <link rel="stylesheet" href="css/insileco.css">
-    <script defer language="javascript" type="text/javascript"  src="{{ "js/navbar.js" | urlize | relURL }}"></script>
+
+    {{/*  files in js/  */}}
+    {{ range os.ReadDir "static/js" }}
+        {{ $path := printf "%s%s" "js/" .Name }}
+        <script defer language="javascript" type="text/javascript" 
+            src="{{ $path | urlize | relURL }}">
+        </script>
+    {{ end }}
+
 
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>

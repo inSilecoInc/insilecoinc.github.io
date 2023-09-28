@@ -8,37 +8,43 @@
         {{ $labels = $labels | append .labels }}
     {{ end }}
     {{ $labels := (uniq $labels) }}
-    <div class="column is-full has-text-centered content-text">
+    <div id = "projects_checkboxes" class="column is-full has-text-centered content-text">
         {{ range $labels }}
         <label id="{{ . | lower }}" class="checkbox ml-4">
-            <input type="checkbox">
-            {{ . }}
+            <input type="checkbox" checked name="{{ . | lower }}" onchange="filterProjectCards(getProjectTagsChecked())" />   {{ . }}
         </label>
         {{ end }}
     </div>
     {{ range $data }}
-    <div class="column is-3">
-            <div class="card">
-                <header class="card-header approach-box">
-                    <p class="card-header-title has-text-white">
-                    {{ .name }}
-                    </p>
-                </header>
-                <div class="card-content">
-                    <div class="content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-                        <a href="#">#css</a> <a href="#">#responsive</a>
-                        <br>
-                        <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-                    </div>
-                    <div class="tags">
-                        {{ range .labels}}
-                        <span class="tag is-warning">{{ . }}</span>
-                        {{ end }}
+        {{ $card_class := delimit 
+            (apply 
+                (apply .labels "printf" "project_card_%s" ".") 
+                "lower" "."
+            ) " " 
+        }}
+        <div class="column is-one-quarter-desktop is-half-tablet is-full-mobile">
+                
+                <div class="card project_card {{ $card_class }}">
+                    <header class="card-header approach-box">
+                        <p class="card-header-title has-text-white">
+                        {{ .name }}
+                        </p>
+                    </header>
+                    <div class="card-content">
+                        <div class="content">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                            <a href="#">#css</a> <a href="#">#responsive</a>
+                            <br>
+                            <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+                        </div>
+                        <div class="tags">
+                            {{ range .labels}}
+                            <span class="tag is-warning">{{ . }}</span>
+                            {{ end }}
+                        </div>
                     </div>
                 </div>
-            </div>
-    </div>
+        </div>
     {{ end }}
 </div>
