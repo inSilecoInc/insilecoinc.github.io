@@ -33,6 +33,10 @@ body {
     border: 4px solid #00b5b5;
 }
 
+.card {
+    display: inline;
+}
+
 .approach-box {
     background: #37abc8;  /* fallback for old browsers */
     background: -webkit-linear-gradient(300deg, #00b5b5, #37abc8);  /* Chrome 10-25, Safari 5.1-6 */

@@ -7,3 +7,4 @@ Our website built with [Hugo](https://gohugo.io/).
 ```sh
 npm install
 ```
+

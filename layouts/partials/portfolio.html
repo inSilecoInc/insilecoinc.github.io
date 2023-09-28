@@ -11,13 +11,18 @@
     <div class="column is-full has-text-centered content-text">
         {{ range $labels }}
         <label id="{{ . | lower }}" class="checkbox ml-4">
-            <input type="checkbox">
+            <input type="checkbox" checked name="{{ . | lower }}" onchange="filterCards(this)" onfocus="filterCards(this)" />
             {{ . }}
         </label>
         {{ end }}
     </div>
     {{ range $data }}
-    <div class="column is-3">
+    {{ $card_class := "" }}
+    {{ range .labels }}
+    {{ $card_class = (printf "%s card_%s" $card_class (. | lower ) ) }}
+    {{ end }}
+    <div class="column is-one-quarter-desktop is-half-tablet is-full-mobile {{ $card_class }}">
+            
             <div class="card">
                 <header class="card-header approach-box">
                     <p class="card-header-title has-text-white">
