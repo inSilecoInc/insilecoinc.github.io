@@ -1,0 +1,24 @@
+picture: img/team/david.jpg
+name:
+  given: David
+  family: Beauchesne
+title: PhD.
+social:
+  mail: dbeauchesne@insileco.io
+  website: https://david-beauchesne.github.io
+  github: david-beauchesne
+  twitter: d_beauchesne
+  researchgate: David_Beauchesne
+  orcid: 0000-0002-3590-8161
+  linkedin: david-beauchesne-16683353
+skills:
+  - R
+  - Data wrangling 
+  - Data visualization
+role: Co-founder and data scientist
+bio:
+  short: |
+    David Beauchesne holds a PhD in oceanography focused on cumulative effects assessments and ecosystem-based management in general, with a strong emphasis on data science and reproducibility.
+  long: |
+    David Beauchesne holds a PhD in oceanography focused on cumulative effects assessments and ecosystem-based management in general, with a strong emphasis on data science and reproducibility. 2Bcompleted.
+

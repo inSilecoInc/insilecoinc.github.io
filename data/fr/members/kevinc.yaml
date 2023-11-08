@@ -1,0 +1,24 @@
+picture: img/team/kev.jpg
+name:
+  given: Kevin
+  family: Cazelles
+title: PhD.
+social:
+  mail: kcazelles@insileco.io
+  website: https://kevcaz.insileco.io/
+  github: KevCaz
+  twitter: KCazelles
+  researchgate: Kevin_Cazelles
+  website: https://kevcaz.github.io/
+  orcid: 0000-0001-6619-9874
+  linkedin: kevin-cazelles-51552283
+skills:
+  - R
+  - Manipulation de données
+  - Visualitsation de données
+role: Co-fondateur et scientifique de données
+bio:
+  short: |
+    Kevin Cazelles holds a PhD in biogeography with a strong emphasis on data science and reproducibility.
+  long: |
+    Co-fondateur de inSileco, associé de recherche à l'Université de Guelph et défenseur d'une recherche ouverte et reproductible. Depuis presque dix ans maintenant, je m'intéresse à de nombreux problèmes en écologie, principalement autour d'enjeux théoriques en macro-écologie et en théorie des réseaux écologiques. J'ai aussi travaillé dans d'autres domaines comme l'épidémiologie, la dynamique forestière, les méta-écosystèmes, la sécurité alimentaire, etc. Je me suis confronté à une large palette de problèmes techniques, ce qui m'a permis d'acquérir de nombreuses compétences quantitatives et computationnelles.
