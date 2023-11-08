@@ -1,4 +1,4 @@
-picture: img/team/steve.jpg
+picture: /img/team/steve.jpg
 name:
   given: Steve
   family: Vissault
@@ -19,6 +19,6 @@ skills:
 role: Co-fondateur et scientifique de données
 bio:
   short: |
-    Steve Vissault holds a MSc with a focus on forest dynamics in the context of climate change. His decade of experience as a data scientist in academia and the private sectors gives him a unique and diversified skillset quantitative and computational science.
+    Steve Vissault a une maîtrise en biologie avec une expertise sur les dynamiques forestières en contexte de changements climatiques.
   long: |
     Steve Vissault is a founder of inSileco. He holds a MSc with a focus on forest dynamics in the context of climate change. His decade of experience as a data scientist in academia and the private sectors gives him a unique and diversified skillset quantitative and computational science.

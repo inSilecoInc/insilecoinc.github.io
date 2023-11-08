@@ -3,18 +3,14 @@
         <h2>Notre équipe</h2>
         <p>À votre service</p>
     </div>
-    {{ $members := index .Site.Data "members"}}
+    {{ $members := index .Site.Data .Site.Language.Lang "members"}}
     {{ range $members }}
     <div class="column is-4 has-text-centered">
         <figure class="image is-128x128 is-inline-block">
             <img class="is-rounded img-member" src="{{ .picture }}"/>
         </figure>
         <h6 class="my-0">{{ .name.given }} {{ .name.family }}, {{ .title }}</h6>
-        {{ if eq $.Site.Language.Lang "en" }}
-            <p class="is-size-6 mb-0">{{ .en.role }}</p>
-        {{ else if eq $.Site.Language.Lang "fr" }}
-            <p class="is-size-6 mb-0">{{ .fr.role }}</p>
-        {{ end }}
+        <p class="is-size-6 mb-0">{{ .role }}</p>
         <p class="is-size-6">
             {{with .social }}
                 {{ if .mail }}
@@ -37,11 +33,7 @@
                 {{ end }}
             {{ end }}
         </p>
-        {{ if eq $.Site.Language.Lang "en" }}
-            <p class="is-size-6 my-4">{{ .en.short_bio }}</p>
-        {{ else if eq $.Site.Language.Lang "fr" }}
-            <p class="is-size-6 my-4">{{ .fr.short_bio }}</p>
-        {{ end }}
+        <p class="is-size-6 mb-0">{{ .bio.short }}</p>
     </div>
     {{ end }}
 </div>

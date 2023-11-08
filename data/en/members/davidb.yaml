@@ -1,4 +1,4 @@
-picture: img/team/david.jpg
+picture: /img/team/david.jpg
 name:
   given: David
   family: Beauchesne
@@ -18,7 +18,7 @@ skills:
 role: Co-founder and data scientist
 bio:
   short: |
-    David Beauchesne holds a PhD in oceanography focused on cumulative effects assessments and ecosystem-based management in general, with a strong emphasis on data science and reproducibility.
+    David Beauchesne holds a PhD in oceanography focused on cumulative effects assessments and ecosystem-based management in general.
   long: |
     David Beauchesne holds a PhD in oceanography focused on cumulative effects assessments and ecosystem-based management in general, with a strong emphasis on data science and reproducibility. 2Bcompleted.
 

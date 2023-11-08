@@ -1,3 +1,62 @@
 baseURL = 'https://insileco.io/'
 languageCode = 'en'
-title = 'InSileco'
+title = 'inSileco'
+
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-ca"
+    weight = 1
+    contentDir = "content/fr"
+    [[languages.fr.menu.main]]
+        name = "Mission"
+        url = "#mission"
+        weight = 1
+    [[languages.fr.menu.main]]
+        name = "Nos réalisation"
+        url = "#portfolio"
+        weight = 2
+    [[languages.fr.menu.main]]
+        name = "Équipe"
+        url = "#team"
+        weight = 3
+    [[languages.fr.menu.main]]
+        name = "Démarche"
+        url = "#approach"
+        weight = 4
+    [[languages.fr.menu.main]]
+        name = "Blogue"
+        url = "https://blog.insileco.io"
+        weight = 5
+    [[languages.fr.menu.main]]
+        name = "Contactez-nous"
+        url = "#contact"
+        weight = 6
+  [languages.en]
+    languageCode = "en-ca"
+    weight = 2
+    contentDir = "content/en"
+    [[languages.en.menu.main]]
+        name = "Mission"
+        url = "#mission"
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "Our work"
+        url = "#portfolio"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "Team"
+        url = "#team"
+        weight = 3
+    [[languages.en.menu.main]]
+        name = "Apporach"
+        url = "#approach"
+        weight = 4
+    [[languages.en.menu.main]]
+        name = "Blog"
+        url = "https://blog.insileco.io"
+        weight = 5
+    [[languages.en.menu.main]]
+        name = "Contact us"
+        url = "#contact"
+        weight = 6

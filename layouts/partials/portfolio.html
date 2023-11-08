@@ -2,7 +2,7 @@
     <div class="column is-full has-text-centered content-text">
         <h2>Nos réalisations</h2>
     </div>
-    {{ $data := index .Site.Data .Site.Language.Lang "portfolio"}}
+    {{ $data := index .Site.Data .Site.Language.Lang "portfolio" }}
     {{ $labels := slice }}
     {{ range $data }}
         {{ $labels = $labels | append .labels }}
