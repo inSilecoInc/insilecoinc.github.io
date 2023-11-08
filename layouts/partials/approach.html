@@ -1,6 +1,8 @@
 <div id ="approach" class="columns is-multiline is-mobile is-vcentered is-narrow">
+    {{ $appr := index .Site.Data .Site.Language.Lang "home" "approach" }}
+    {{ with $appr }}
     <div class="column is-full has-text-centered content-text">
-        <h2>Notre démarche</h2>
+        <h2>{{ .title }}</h2>
     </div>
     <div class="column is-3 is-offset-3">
         <img style="float: right;" src="/img/digital-product-manager.svg"/> 
@@ -8,23 +10,20 @@
     <div class="column is-3">
         <article class="message is-primary">
             <div class="message-header">
-              <h5 class="has-text-white mb-0">Prise de contact</h5>
+              <h5 class="has-text-white mb-0">{{ .step1.name }}</h5>
             </div>
             <div class="message-body">
-                Vous avez un besoin en traitement et analyse de données? 
-                Écrivez-nous à <a href="mailto:info@insileco.io">info@insileco.io</a>.
-                Nous vous offrons 30 minutes pour discuter afin de bien cerner votre besoin.
+                {{ .step1.description | safeHTML }}
             </div>
           </article>
     </div>
     <div class="column is-3 is-offset-3">
         <article class="message is-primary">
             <div class="message-header">
-              <h5 class="has-text-white mb-0">Analyse et propose</h5>
+              <h5 class="has-text-white mb-0">{{ .step2.name }}</h5>
             </div>
             <div class="message-body">
-                On analyse votre besoin et nous vous proposons une solution adaptée pour y répondre.
-                Cette proposition s'appuie sur un cahier des charges et des dates de livraison précises.
+                {{ .step2.description | safeHTML }}
             </div>
         </article>
     </div>
@@ -37,26 +36,25 @@
     <div class="column is-3">
         <article class="message is-primary">
             <div class="message-header">
-              <h5 class="has-text-white mb-0">Analyse et propose</h5>
+              <h5 class="has-text-white mb-0">{{ .step3.name }}</h5>
             </div>
             <div class="message-body">
-                On analyse votre besoin et nous vous proposons une solution adaptée pour y répondre.
-                Cette proposition s'appuie sur un cahier des charges et des dates de livraison précises.
+                {{ .step3.description | safeHTML }}
             </div>
         </article>
     </div>
     <div class="column is-3 is-offset-3">
         <article class="message is-primary">
             <div class="message-header">
-              <h5 class="has-text-white mb-0">Analyse et propose</h5>
+              <h5 class="has-text-white mb-0">{{ .step4.name }}</h5>
             </div>
             <div class="message-body">
-                On analyse votre besoin et nous vous proposons une solution adaptée pour y répondre.
-                Cette proposition s'appuie sur un cahier des charges et des dates de livraison précises.
+                {{ .step4.description | safeHTML }}
             </div>
         </article>
     </div>
     <div class="column is-3">
         <img style="float: left;" src="/img/operations-engineer.svg"/> 
     </div>
+    {{ end }}
 </div>

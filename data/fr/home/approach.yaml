@@ -1,0 +1,23 @@
+title: "Notre démarche"
+
+step1: 
+  name: Prise de contact
+  description: | 
+    Vous avez un besoin en traitement et analyse de données? 
+    Écrivez-nous à <a href="mailto:info@insileco.io">info@insileco.io</a>.
+    Nous vous offrons 30 minutes pour discuter afin de bien cerner votre besoin.
+
+step2: 
+  name: Analyse et propose
+  description: | 
+    On analyse votre besoin et nous vous proposons une solution adaptée pour y répondre. Cette proposition s'appuie sur un cahier des charges et des dates de livraison précises.
+
+step3: 
+  name: Etape 3
+  description: | 
+    Description de l'étape 3
+
+step4: 
+  name: Etape 4
+  description: | 
+    Description de l'étape 4

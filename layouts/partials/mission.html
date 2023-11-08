@@ -5,11 +5,12 @@
                 <img src="/img/data-scientist2.svg" style="max-height:20rem" /> 
             </div>
             <div class="column is-4">
-                <h1 class="content-text is-size-3">Mission</h1>
+                {{ with index .Site.Data .Site.Language.Lang "home" "mission" }}
+                <h1 class="content-text is-size-3">{{ .title }}</h1>
                 <p class="has-text-weight-light content-text is-size-5">
-                    On vous accompagne au mieux de nos capacités dans la gestion, 
-                    l'intégration et l'exploitation de vos données.
+                    {{ .description }}
                 </p>
+                {{ end }}
             </div>
         </div>
     </div>
