@@ -6,8 +6,8 @@
     {{ $members := index .Site.Data "members"}}
     {{ range $members }}
     <div class="column is-4 has-text-centered">
-        <figure class="image is-128x128 is-inline-block">
-            <img class="is-rounded img-member" src="{{ .picture }}"/>
+        <figure class="image is-inline-block">
+            <img class="is-rounded img-member" style="max-height:13rem" src="{{ .picture }}"/>
         </figure>
         <h6 class="my-0">{{ .name.given }} {{ .name.family }}, {{ .title }}</h6>
         {{ if eq $.Site.Language.Lang "en" }}

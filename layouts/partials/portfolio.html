@@ -23,7 +23,6 @@
             ) " " 
         }}
         <div class="column is-one-quarter-desktop is-half-tablet is-full-mobile">
-                
                 <div class="card project_card {{ $card_class }}">
                     <header class="card-header approach-box">
                         <p class="card-header-title has-text-white">
@@ -31,12 +30,14 @@
                         </p>
                     </header>
                     <div class="card-content">
+                        <div class="card-image  mb-3">
+                            <figure class="image is-4by3">
+                              <img src="https://images.squarespace-cdn.com/content/v1/642b03cefb8ada280f4cdd20/1682615563196-HLX9587CP1AJEHIM4WBM/charlie-deets-QNwET9cMlJU-unsplash.jpg?format=2500w" alt="Placeholder image">
+                            </figure>
+                          </div>
                         <div class="content">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                            {{ .description }}
                             <a href="#">#css</a> <a href="#">#responsive</a>
-                            <br>
-                            <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
                         </div>
                         <div class="tags">
                             {{ range .labels}}
