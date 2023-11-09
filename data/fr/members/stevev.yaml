@@ -1,0 +1,24 @@
+picture: /img/team/steve.jpg
+name:
+  given: Steve
+  family: Vissault
+title: MSc.
+social:
+  mail: svissault@insileco.io
+  website: http://steveviss.github.io/html_resume
+  github: SteveViss
+  twitter: SVissault
+  researchgate: Steve-Vissault
+  website: http://steveviss.github.io
+  orcid: 0000-0002-0866-4376
+  linkedin: steve-vissault-66602946
+skills:
+  - R
+  - Manipulation de données
+  - Visualitsation de données
+role: Co-fondateur et scientifique de données
+bio:
+  short: |
+    Steve Vissault a une maîtrise en biologie avec une expertise sur les dynamiques forestières en contexte de changements climatiques.
+  long: |
+    Steve Vissault is a founder of inSileco. He holds a MSc with a focus on forest dynamics in the context of climate change. His decade of experience as a data scientist in academia and the private sectors gives him a unique and diversified skillset quantitative and computational science.

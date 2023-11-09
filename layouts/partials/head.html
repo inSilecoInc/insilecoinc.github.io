@@ -8,10 +8,10 @@
         <style> {{ .Content | safeCSS }} </style>
     {{ end }}
 
-    <link rel="stylesheet" href="css/insileco.css">
+    <link rel="stylesheet" href="/css/insileco.css">
 
     {{/*  files in js/  */}}
-    {{ range os.ReadDir "static/js" }}
+    {{ range os.ReadDir "/static/js" }}
         {{ $path := printf "%s%s" "js/" .Name }}
         <script defer language="javascript" type="text/javascript" 
             src="{{ $path | urlize | relURL }}">
