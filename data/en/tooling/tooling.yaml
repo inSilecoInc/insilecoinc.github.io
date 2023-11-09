@@ -1,0 +1,6 @@
+- name: R
+  logo: R_logo.svg
+  url: https://www.r-project.org/
+- name: java
+  logo: java_logo.svg
+  url: https://www.oracle.com/ca-fr/java/technologies/javase/jdk11-archive-downloads.html
