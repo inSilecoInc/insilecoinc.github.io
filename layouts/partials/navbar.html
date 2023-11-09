@@ -16,7 +16,9 @@
             {{ end }}
 
             {{ range .Site.Menus.main }}
-                <a class="navbar-item" href="{{ .URL }}">{{ .Name }}</a>
+                <a class="navbar-item" href="{{ relLangURL .URL }}">
+                    {{ .Name }}
+                </a>
             {{ end }}
 
     </div>
