@@ -1,0 +1,25 @@
+picture: /img/team/david.jpg
+name:
+  given: David
+  family: Beauchesne
+title: PhD.
+social:
+  mail: dbeauchesne@insileco.io
+  website: https://david-beauchesne.github.io
+  github: david-beauchesne
+  twitter: d_beauchesne
+  researchgate: David_Beauchesne
+  orcid: 0000-0002-3590-8161
+  linkedin: david-beauchesne-16683353
+skills:
+  - R
+  - Manipulation de données
+  - Visualitsation de données
+role: Co-fondateur et scientifique de données
+bio:
+  short: |
+    David Beauchesne a un doctorat en océanographie avec une expertise sur les effets cumulées et la gestion écosystémique en générale.
+  long: |
+    Je suis l'un des fondateurs de inSileco and un chercheur postdoctoral à l'Université de Toronto. Je suis un écologiste qui travaille sur la gestion écosystémique en général et l'évaluation des effets cumulatifs en particulier, avec un focus sur la science ouverte, la reproductibilité and les outils computationnels.
+
+
