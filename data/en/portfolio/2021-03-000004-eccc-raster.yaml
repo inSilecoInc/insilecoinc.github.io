@@ -1,0 +1,14 @@
+name: Manipulet et visualiser des données spatiales avec R
+client: Canadian Wildlife Service, Environment and Climate Change Canada
+labels: 
+  - Workshop
+  - Spatial
+date:
+  - 2021-03-23
+  - 2021-03-24
+instructors:
+  - David Beauchesne
+  - Kevin Cazelles
+location: remote
+url: https://insilecoinc.github.io/wksh_raster_CWS/
+picture:

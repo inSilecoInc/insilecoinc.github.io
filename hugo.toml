@@ -8,6 +8,13 @@ title = 'inSileco'
     languageCode = "fr-ca"
     weight = 1
     contentDir = "content/fr"
+    [languages.fr.params]
+        subtitle = "Cabinet de consultants en science des données"
+        keywords = ["Solutions", "Accompagnement", "Formations"]
+        title_portfolio = "Nos Réalisations"
+        title_team = "Notre équipe"
+        subtitle_team = "Prête à vous accompagner pour relever vos défis en science des données"
+        footer = 'Le code source de ce site est sous licence <a href="http://opensource.org/licenses/mit-license.php">MIT</a> et disponible sur <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco 2023'
     [[languages.fr.menu.main]]
         name = "Mission"
         url = "#mission"
@@ -36,6 +43,13 @@ title = 'inSileco'
     languageCode = "en-ca"
     weight = 2
     contentDir = "content/en"
+    [languages.en.params]
+        subtitle = "Data science consulting"
+        keywords = ["Solutions", "Support", "Trainings"]
+        title_portfolio = "Our work"
+        title_team = "Our team"
+        subtitle_team = "Ready to support you in meeting your data science challenges"
+        footer = 'The source code of this website is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a> and available on <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco 2023.'
     [[languages.en.menu.main]]
         name = "Mission"
         url = "#mission"

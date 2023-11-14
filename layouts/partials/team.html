@@ -1,7 +1,7 @@
 <div id="team" class="columns is-multiline is-vcentered is-mobile mx-6">
     <div class="column is-full has-text-centered content-text">
-        <h2>Notre équipe</h2>
-        <p>À votre service</p>
+        <h2>{{ .Site.Params.title_team }}</h2>
+        <p>{{ .Site.Params.subtitle_team }}</p>
     </div>
     {{ $members := index .Site.Data .Site.Language.Lang "members"}}
     {{ range $members }}
