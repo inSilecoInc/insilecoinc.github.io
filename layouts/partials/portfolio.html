@@ -1,6 +1,6 @@
 <div id="portfolio" class="columns is-multiline is-mobile">
     <div class="column is-full has-text-centered content-text">
-        <h2>Nos réalisations</h2>
+        <h2>{{ .Site.Params.title_portfolio }}</h2>
     </div>
     {{ $data := index .Site.Data .Site.Language.Lang "portfolio" }}
     {{ $labels := slice }}
@@ -30,7 +30,7 @@
                         </p>
                     </header>
                     <div class="card-content">
-                        <div class="card-image  mb-3">
+                        <div class="card-image mb-3">
                             <figure class="image is-4by3">
                               <img src="https://images.squarespace-cdn.com/content/v1/642b03cefb8ada280f4cdd20/1682615563196-HLX9587CP1AJEHIM4WBM/charlie-deets-QNwET9cMlJU-unsplash.jpg?format=2500w" alt="Placeholder image">
                             </figure>
