@@ -1,14 +1,18 @@
-name: Mieux collaborer avec git et GitHub
+name: Work more collaboratively in T with git & GitHub
 client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-labels: 
+categories:
   - Workshop
+tags: 
+  - git 
+  - GitHub
 date:
-  - January
-  - February
-  - March
+  - 18-02-2022
 instructors:
   - David Beauchesne
   - Kevin Cazelles
 location: remote
-url: https://github.com/inSilecoInc/learning_git
-picture:
+description: | 
+  During this workshop, we showed how to collaborate concretely and efficiently on projects with git and GitHub.
+url: https://insileco.io/learning_git/#1
+gh: inSilecoInc/learning_git
+pict: /img/portfolio/gitflow.png

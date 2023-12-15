@@ -1,7 +1,11 @@
 name: Développer des applications Shiny
 client: Canadian Wildlife Service, Environment and Climate Change Canada
-labels: 
+categories:
   - Workshop
+  - Shiny
+tags: 
+  - R 
+  - shiny app
 date:
   - 2022-03-23
   - 2022-03-25
@@ -9,5 +13,8 @@ instructors:
   - David Beauchesne
   - Kevin Cazelles
 location: remote
-url: https://github.com/inSilecoInc/cws-shiny-workshop
-picture:
+description: | 
+  During this workshop we showed how to build Shiny web applications.
+url: https://insileco.io/cws-shiny-workshop/#1
+gh: inSilecoInc/cws-shiny-workshop
+pict: 

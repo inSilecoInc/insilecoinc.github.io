@@ -1,14 +1,18 @@
-name: Augmneter votre collaborativité avec git et GitHub
+name: Augmenter votre collaborativité avec git et GitHub
 client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-labels: 
-  - Workshop
+categories:
+  - Atelier
+tags: 
+  - git 
+  - GitHub
 date:
-  - January
-  - February
-  - March
+  - 18-02-2022
 instructors:
   - David Beauchesne
   - Kevin Cazelles
 location: remote
-url: https://github.com/inSilecoInc/learning_git
-picture:
+description: | 
+  Lors de cet atelier, nous avons montré comment collaborer concrètement et efficacement sur des projets avec git et GitHub.
+url: https://insileco.io/learning_git/#1
+gh: inSilecoInc/learning_git
+pict: /img/portfolio/gitflow.png
