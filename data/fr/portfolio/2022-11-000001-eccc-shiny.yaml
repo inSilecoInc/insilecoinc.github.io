@@ -14,7 +14,7 @@ instructors:
   - Kevin Cazelles
 location: remote
 description: | 
-  Lors de cette atelier nous avons montré comment construire des applications 
+  Lors de cette atelier nous avons montré comment construire des applications.
   web Shiny.
 url: https://insileco.io/cws-shiny-workshop/#1
 gh: inSilecoInc/cws-shiny-workshop
