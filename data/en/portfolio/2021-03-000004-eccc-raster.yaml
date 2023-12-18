@@ -1,8 +1,12 @@
-name: Manipuler et visualiser des données spatiales avec R
+name: Rasters with R
 client: Canadian Wildlife Service, Environment and Climate Change Canada
-labels: 
+categories:
   - Workshop
-  - Spatial
+tags: 
+  - R 
+  - raster
+  - geocomputation
+  - visualisation
 date:
   - 2021-03-23
   - 2021-03-24
@@ -10,5 +14,8 @@ instructors:
   - David Beauchesne
   - Kevin Cazelles
 location: remote
+description: | 
+  During this workshop, we showed, using concrete examples, how to manipulate and visualize spatial data with R.
 url: https://insilecoinc.github.io/wksh_raster_CWS/
-picture:
+gh: inSilecoInc/wksh_raster_CWS
+pict: /img/portfolio/mapworld.jpg

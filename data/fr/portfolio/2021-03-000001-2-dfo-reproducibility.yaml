@@ -1,7 +1,11 @@
-name: Flux de travail reproductibles
+name: Rendre vos processus de travail reproductibles
 client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-labels: 
-  - Workshop
+categories:
+  - Atelier
+tags: 
+  - R 
+  - R Markdown
+  - reproductibilité 
 date:
   - 2021-03-01
   - 2021-03-02
@@ -9,5 +13,8 @@ instructors:
   - David Beauchesne
   - Kevin Cazelles
 location: remote
+description: | 
+  Lors de cet atelier, nous avons disctuté des enjeux liés à la reproductibilité et nous avons montré comment organiser son processus de travail avec R.
 url: https://insilecoinc.github.io/workshop_reproducibility/ 
-picture:
+gh: inSilecoInc/wksh_raster_CWS
+pict: 
