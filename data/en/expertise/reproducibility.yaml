@@ -1,0 +1,20 @@
+name: Reproducibility
+client: ""
+categories:
+  - "Data-science"
+tags: 
+  - Data management
+  - Analytical pipelines
+  - Reporting
+date:
+  - 2021-01-12
+  - 2021-01-13
+instructors:
+  - David Beauchesne
+  - Kevin Cazelles
+location: remote
+description: | 
+  We build or assist you in building standardized, documented workflows and scripts to manage, analyze and model your data, and create interactive reporting tools to promote transparency, reproducibility, consistency and reliability in your work.
+url:
+gh: 
+pict: /img/portfolio/mapworld.jpg
