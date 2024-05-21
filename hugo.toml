@@ -2,6 +2,10 @@ baseURL = 'https://insileco.io/'
 languageCode = 'en'
 title = 'inSileco'
 
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
+custom_css = ["perso.css"]
+custom_js = []
 
 [languages]
   [languages.fr]
@@ -68,10 +72,17 @@ title = 'inSileco'
         url = "#approach"
         weight = 4
     [[languages.en.menu.main]]
+        name = "Publications"
+        url = "/publications/"
+        weight = 5
+    [[languages.en.menu.main]]
         name = "Blog"
         url = "https://blog.insileco.io"
-        weight = 5
+        weight = 6
     [[languages.en.menu.main]]
         name = "Contact us"
         url = "#contact"
-        weight = 6
+        weight = 7
+
+[params]
+col_emphase = "#b4637a"
