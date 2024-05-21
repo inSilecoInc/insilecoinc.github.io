@@ -1,0 +1,20 @@
+name: Ecology
+client: ""
+categories:
+  - "Environment"
+tags: 
+  - Biogeography
+  - Trophic ecology
+  - Population dynamics
+date:
+  - 2021-01-12
+  - 2021-01-13
+instructors:
+  - David Beauchesne
+  - Kevin Cazelles
+location: remote
+description: | 
+  We provide expert advice and consulting services on species distributions, food web interactions and species population trends through the analysis of ecological patterns, changes in biodiversity, assessments of environmental health in terrestrial, marine and freshwater ecosystems.
+url:
+gh: 
+pict: /img/portfolio/mapworld.jpg
