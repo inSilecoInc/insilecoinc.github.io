@@ -1,0 +1,31 @@
+
+<ol>
+  {{ $letk := "Kevin" | truncate 1 "." }}
+  {{ range .Site.Data.pubs.references }}
+  <li>
+    {{ $len := len .author }}
+    {{ $len2 := sub $len 1 }}
+    {{ range $i, $e := .author}}
+      {{ $let := .given | truncate 1 "." }}
+      {{ if (and (eq .family "Cazelles") (eq $let $letk)) }}
+        <b><span style="color: {{ $.Site.Params.col_emphase }};">
+          {{ .family }} {{ $let }}</span></b>{{ if eq $len2 $i }}.{{ else }},{{ end }}
+      {{ else }}
+        {{ .family }} {{ $let }}{{ if eq $len2 $i }}{{ else }},{{ end }}
+      {{ end }}
+    {{ end }}
+    {{ with .issued }}
+      ({{ substr . 0 4 }}).
+    {{ end }}
+    <b>{{ .title }}</b>
+    {{ if .container }}
+      {{ .container }}.
+    {{ end }}
+    {{ if .volume }}
+      <em>{{ .volume }}</em>{{ if .issue }}({{ .issue }}){{ end }}
+    {{ end }}
+    {{ if .doi }}<i class='ai ai-doi'></i> <a href="{{ .url }}">{{ .doi }}</a>{{ end }}
+    <a href="mailto:kevin.cazelles@gmail.com?subject=Paper%20Request&amp;body=Dear%20Kevin%2C%20%0A%0AI%20would%20like%20to%20have%20a%20copy%20of%20the%20following%20paper%3A%20%22{{ .title }}%22.%0A%0ASincerely%2C"><i class='far fa-envelope'></i></a>
+  </li>
+  {{ end }}
+</ol>
