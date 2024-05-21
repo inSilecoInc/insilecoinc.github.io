@@ -1,0 +1,20 @@
+name: Data management
+client: ""
+categories:
+  - "Data-science"
+tags: 
+  - Data
+  - Storage
+  - Best practices
+date:
+  - 2021-01-12
+  - 2021-01-13
+instructors:
+  - David Beauchesne
+  - Kevin Cazelles
+location: remote
+description: | 
+  We provide expert advice on data governance, scalable storage solutions, and efficient workflows to ensure the integrity, security, and accessibility of your data through standardized protocols. 
+url:
+gh: 
+pict: /img/portfolio/mapworld.jpg
