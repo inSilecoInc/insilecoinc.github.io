@@ -1,0 +1,1131 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - family: Cazelles
+    given: Kevin
+  container-title: Nature Ecology &amp; Evolution
+  doi: 10.1038/s41559-023-02245-z
+  id: Cazelles_2023
+  issn: 2397-334X
+  issue: 2
+  issued: 2023-11
+  page: 184-185
+  publisher: Springer Science; Business Media LLC
+  title: Isolating interactions from co-occurrences
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41559-023-02245-z"
+  volume: 8
+- author:
+  - family: Harvey
+    given: Eric
+  - family: Marleau
+    given: Justin N.
+  - family: Gounand
+    given: Isabelle
+  - family: Leroux
+    given: Shawn J.
+  - family: Firkowski
+    given: Carina R.
+  - family: Altermatt
+    given: Florian
+  - family: Guillaume Blanchet
+    given: F.
+  - family: Cazelles
+    given: Kevin
+  - family: Chu
+    given: Cindy
+  - family: D'Aloia
+    given: Cassidy C.
+  - family: Donelle
+    given: Louis
+  - family: Gravel
+    given: Dominique
+  - family: Guichard
+    given: Frédéric
+  - family: McCann
+    given: Kevin
+  - family: Ruppert
+    given: Jonathan L. W.
+  - family: Ward
+    given: Colette
+  - family: Fortin
+    given: Marie‐Josée
+  container-title: Ecography
+  doi: 10.1111/ecog.06790
+  id: Harvey_2023
+  issn: 1600-0587
+  issue: 11
+  issued: 2023-09
+  publisher: Wiley
+  title: A general meta‐ecosystem model to predict ecosystem functions
+    at landscape extents
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/ecog.06790"
+  volume: 2023
+- author:
+  - family: Cazelles
+    given: Bernard
+  - family: Cazelles
+    given: Kévin
+  - family: Tian
+    given: Huaiyu
+  - family: Chavez
+    given: Mario
+  - family: Pascual
+    given: Mercedes
+  container-title: Science Advances
+  doi: 10.1126/sciadv.adf7202
+  id: Cazelles_2023
+  issn: 2375-2548
+  issue: 39
+  issued: 2023-09
+  publisher: American Association for the Advancement of Science (AAAS)
+  title: Disentangling local and global climate drivers in the
+    population dynamics of mosquito-borne infections
+  type: article-journal
+  url: "http://dx.doi.org/10.1126/sciadv.adf7202"
+  volume: 9
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Cazelles
+    given: Kevin
+  - family: Daigle
+    given: Rémi
+  - family: Gravel
+    given: Dominique
+  - family: Archambault
+    given: Philippe
+  doi: 10.21203/rs.3.rs-3296860/v1
+  id: Beauchesne_2023
+  issued: 2023-09
+  publisher: Research Square Platform LLC
+  title: Ecological interactions amplify cumulative effects in marine
+    ecosystems
+  type: article-journal
+  url: "http://dx.doi.org/10.21203/rs.3.rs-3296860/v1"
+- author:
+  - family: Saulnier-Talbot
+    given: Émilie
+  - family: Duchesne
+    given: Eliane
+  - family: Antoniades
+    given: Dermot
+  - family: Arseneault
+    given: Dominique
+  - family: Barnard
+    given: Christine
+  - family: Berteaux
+    given: Dominique
+  - family: Bhiry
+    given: Najat
+  - family: Bouchard
+    given: Frédéric
+  - family: Boudreau
+    given: Stéphane
+  - family: Cazelles
+    given: Kevin
+  - family: Comte
+    given: Jérôme
+  - family: Corbeil-Robitaille
+    given: Madeleine-Zoé
+  - family: Côté
+    given: Steeve
+  - family: Couture
+    given: Raoul-Marie
+  - family: Fontaine
+    given: Guillaume de la
+  - family: Domine
+    given: Florent
+  - family: Fauteux
+    given: Dominique
+  - family: Fortier
+    given: Daniel
+  - family: Garneau
+    given: Michelle
+  - family: Gauthier
+    given: Gilles
+  - family: Gravel
+    given: Dominique
+  - family: Laurion
+    given: Isabelle
+  - family: Lavoie
+    given: Martin
+  - family: Lecomte
+    given: Nicolas
+  - family: Legagneux
+    given: Pierre
+  - family: Lévesque
+    given: Esther
+  - family: Naud
+    given: Marie-José
+  - family: Paquette
+    given: Michel
+  - family: Payette
+    given: Serge
+  - family: Pienitz
+    given: Reinhard
+  - family: Rautio
+    given: Milla
+  - family: Roy
+    given: Alexandre
+  - family: Royer
+    given: Alain
+  - family: Simard
+    given: Martin
+  - family: Vincent
+    given: Warwick
+  - family: Bêty
+    given: Joël
+  doi: 10.21203/rs.3.rs-3026284/v1
+  id: Saulnier_Talbot_2023
+  issued: 2023-08
+  publisher: Research Square Platform LLC
+  title: State shifts and divergent sensitivities to climate warming
+    across northern ecosystems
+  type: article-journal
+  url: "http://dx.doi.org/10.21203/rs.3.rs-3026284/v1"
+- author:
+  - family: Gutgesell
+    given: Marie K
+  - family: McCann
+    given: Kevin S
+  - family: Gellner
+    given: Gabriel
+  - family: Cazelles
+    given: Kevin
+  - family: Greyson-Gaito
+    given: Christopher J
+  - family: Bieg
+    given: Carling
+  - family: Guzzo
+    given: Matthew M
+  - family: Warne
+    given: Connor P K
+  - family: Ward
+    given: Charlotte A
+  - family: O'Connor
+    given: Reilly F
+  - family: Scott
+    given: Alexa M
+  - family: Graham
+    given: Brandon C
+  - family: Champagne
+    given: Emily J
+  - family: McMeans
+    given: Bailey C
+  container-title: BioScience
+  doi: 10.1093/biosci/biab144
+  id: Gutgesell_2022
+  issn: 1525-3244
+  issue: 5
+  issued: 2022-02
+  page: 416-430
+  publisher: Oxford University Press (OUP)
+  title: On the dynamic nature of omnivory in a changing world
+  type: article-journal
+  url: "http://dx.doi.org/10.1093/biosci/biab144"
+  volume: 72
+- author:
+  - family: Galiana
+    given: Núria
+  - family: Lurgi
+    given: Miguel
+  - family: Bastazini
+    given: Vinicius A. G.
+  - family: Bosch
+    given: Jordi
+  - family: Cagnolo
+    given: Luciano
+  - family: Cazelles
+    given: Kevin
+  - family: Claramunt-López
+    given: Bernat
+  - family: Emer
+    given: Carine
+  - family: Fortin
+    given: Marie-Josée
+  - family: Grass
+    given: Ingo
+  - family: Hernández-Castellano
+    given: Carlos
+  - family: Jauker
+    given: Frank
+  - family: Leroux
+    given: Shawn J.
+  - family: McCann
+    given: Kevin
+  - family: McLeod
+    given: Anne M.
+  - family: Montoya
+    given: Daniel
+  - family: Mulder
+    given: Christian
+  - family: Osorio-Canadas
+    given: Sergio
+  - family: Reverté
+    given: Sara
+  - family: Rodrigo
+    given: Anselm
+  - family: Steffan-Dewenter
+    given: Ingolf
+  - family: Traveset
+    given: Anna
+  - family: Valverde
+    given: Sergi
+  - family: Vázquez
+    given: Diego P.
+  - family: Wood
+    given: Spencer A.
+  - family: Gravel
+    given: Dominique
+  - family: Roslin
+    given: Tomas
+  - family: Thuiller
+    given: Wilfried
+  - family: Montoya
+    given: José M.
+  container-title: Nature Ecology &amp; Evolution
+  doi: 10.1038/s41559-021-01644-4
+  id: Galiana_2022
+  issn: 2397-334X
+  issue: 3
+  issued: 2022-01
+  page: 307-314
+  publisher: Springer Science; Business Media LLC
+  title: Ecological network complexity scales with area
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41559-021-01644-4"
+  volume: 6
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Cazelles
+    given: Kevin
+  - family: Archambault
+    given: Philippe
+  - family: Dee
+    given: Laura E.
+  - family: Gravel
+    given: Dominique
+  container-title: Ecology Letters
+  doi: 10.1111/ele.13841
+  editor:
+  - family: Wootton
+    given: Tim
+  id: Beauchesne_2021
+  issn: 1461-0248
+  issue: 10
+  issued: 2021-07
+  page: 2219-2237
+  publisher: Wiley
+  title: On the sensitivity of food webs to multiple stressors
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/ele.13841"
+  volume: 24
+- author:
+  - family: Poisot
+    given: Timothée
+  - family: Bergeron
+    given: Gabriel
+  - family: Cazelles
+    given: Kevin
+  - family: Dallas
+    given: Tad
+  - family: Gravel
+    given: Dominique
+  - family: MacDonald
+    given: Andrew
+  - family: Mercier
+    given: Benjamin
+  - family: Violet
+    given: Clément
+  - family: Vissault
+    given: Steve
+  container-title: Journal of Biogeography
+  doi: 10.1111/jbi.14127
+  id: Poisot_2021
+  issn: 1365-2699
+  issue: 7
+  issued: 2021-04
+  page: 1552-1563
+  publisher: Wiley
+  title: Global knowledge gaps in species interaction networks data
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/jbi.14127"
+  volume: 48
+- author:
+  - family: McCann
+    given: Kevin S.
+  - family: MacDougall
+    given: A. S
+  - family: Fussmann
+    given: G. F.
+  - family: Bieg
+    given: C.
+  - family: Cazelles
+    given: K.
+  - family: Cristescu
+    given: M. E.
+  - family: Fryxell
+    given: J. M.
+  - family: Gellner
+    given: G.
+  - family: Lapointe
+    given: B.
+  - family: Gonzalez
+    given: A.
+  doi: 10.1101/2020.04.20.050302
+  id: McCann_2020
+  issued: 2020-04
+  publisher: Cold Spring Harbor Laboratory
+  title: Ecosystem entanglement and the propagation of nutrient-driven
+    instability
+  type: article-journal
+  url: "http://dx.doi.org/10.1101/2020.04.20.050302"
+- author:
+  - family: McCann
+    given: Kevin S.
+  - family: Cazelles
+    given: Kevin
+  - family: MacDougall
+    given: Andrew S.
+  - family: Fussmann
+    given: Gregor F.
+  - family: Bieg
+    given: Carling
+  - family: Cristescu
+    given: Melania
+  - family: Fryxell
+    given: John M.
+  - family: Gellner
+    given: Gabriel
+  - family: Lapointe
+    given: Brian
+  - family: Gonzalez
+    given: Andrew
+  container-title: Ecology Letters
+  doi: 10.1111/ele.13644
+  editor:
+  - family: Drake
+    given: John
+  id: McCann_2020
+  issn: 1461-0248
+  issue: 3
+  issued: 2020-11
+  page: 398-414
+  publisher: Wiley
+  title: Landscape modification and nutrient‐driven instability at a
+    distance
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/ele.13644"
+  volume: 24
+- author:
+  - family: Cazelles
+    given: Kevin
+  - family: Zemlak
+    given: Tyler Stephen
+  - family: Gutgesell
+    given: Marie
+  - family: Myles-Gonzalez
+    given: Emelia
+  - family: Hanner
+    given: Robert
+  - family: Shear McCann
+    given: Kevin
+  container-title: Foods
+  doi: 10.3390/foods10040717
+  id: Cazelles_2021
+  issn: 2304-8158
+  issue: 4
+  issued: 2021-03
+  page: 717
+  publisher: MDPI AG
+  title: "Spatial fingerprinting: Horizontal fusion of multi-dimensional
+    bio-tracers as solution to global food provenance problems"
+  title-short: Spatial fingerprinting
+  type: article-journal
+  url: "http://dx.doi.org/10.3390/foods10040717"
+  volume: 10
+- author:
+  - family: Blanchet
+    given: F. Guillaume
+  - family: Cazelles
+    given: Kevin
+  - family: Gravel
+    given: Dominique
+  container-title: Ecology Letters
+  doi: 10.1111/ele.13525
+  editor:
+  - family: Jeffers
+    given: Elizabeth
+  id: Blanchet_2020
+  issn: 1461-0248
+  issue: 7
+  issued: 2020-05
+  page: 1050-1063
+  publisher: Wiley
+  title: Co‐occurrence is not evidence of ecological interactions
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/ele.13525"
+  volume: 23
+- author:
+  - family: Warne
+    given: Connor P. K.
+  - family: McCann
+    given: Kevin S.
+  - family: Rooney
+    given: Neil
+  - family: Cazelles
+    given: Kevin
+  - family: Guzzo
+    given: Matthew M.
+  container-title: Geophysical Research Letters
+  doi: 10.1029/2020gl087953
+  id: Warne_2020
+  issn: 1944-8007
+  issue: 12
+  issued: 2020-06
+  publisher: American Geophysical Union (AGU)
+  title: Geography and morphology affect the ice duration dynamics of
+    northern hemisphere lakes worldwide
+  type: article-journal
+  url: "http://dx.doi.org/10.1029/2020GL087953"
+  volume: 47
+- author:
+  - family: Solarik
+    given: Kevin A.
+  - family: Cazelles
+    given: Kevin
+  - family: Messier
+    given: Christian
+  - family: Bergeron
+    given: Yves
+  - family: Gravel
+    given: Dominique
+  container-title: Journal of Ecology
+  doi: 10.1111/1365-2745.13311
+  editor:
+  - family: Gilliam
+    given: Frank
+  id: Solarik_2019
+  issn: 1365-2745
+  issue: 3
+  issued: 2019-11
+  page: 1155-1173
+  publisher: Wiley
+  title: Priority effects will impede range shifts of temperate tree
+    species into the boreal forest
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/1365-2745.13311"
+  volume: 108
+- author:
+  - family: Poisot
+    given: Timothée
+  - family: Bergeron
+    given: Gabriel
+  - family: Cazelles
+    given: Kevin
+  - family: Dallas
+    given: Tad
+  - family: Gravel
+    given: Dominique
+  - family: Macdonald
+    given: Andrew
+  - family: Mercier
+    given: Benjamin
+  - family: Violet
+    given: Clément
+  - family: Vissault
+    given: Steve
+  doi: 10.1101/2020.01.27.921429
+  id: Poisot_2020
+  issued: 2020-01
+  publisher: Cold Spring Harbor Laboratory
+  title: Environmental biases in the study of ecological networks at the
+    planetary scale
+  type: article-journal
+  url: "http://dx.doi.org/10.1101/2020.01.27.921429"
+- author:
+  - family: Brice
+    given: Marie‐Hélène
+  - family: Cazelles
+    given: Kevin
+  - family: Legendre
+    given: Pierre
+  - family: Fortin
+    given: Marie‐Josée
+  container-title: Global Ecology and Biogeography
+  doi: 10.1111/geb.12971
+  editor:
+  - family: Boucher‐Lalonde
+    given: Véronique
+  id: Brice_2019
+  issn: 1466-8238
+  issue: 11
+  issued: 2019-07
+  page: 1668-1681
+  publisher: Wiley
+  title: Disturbances amplify tree community responses to climate change
+    in the temperate--boreal ecotone
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/geb.12971"
+  volume: 28
+- author:
+  - family: Cazelles
+    given: Kevin
+  - family: Vissault
+    given: Steve
+  doi: 10.59350/51nby-5v347
+  id: Cazelles_2019
+  issued: 2019-10
+  publisher: Front Matter
+  title: "Rmangal: Making ecological networks easily accessible"
+  title-short: Rmangal
+  type: article-journal
+  url: "http://dx.doi.org/10.59350/51nby-5v347"
+- author:
+  - family: Cazelles
+    given: Kevin
+  - family: Bartley
+    given: Timothy
+  - family: Guzzo
+    given: Matthew M.
+  - family: Brice
+    given: Marie‐Hélène
+  - family: MacDougall
+    given: Andrew S.
+  - family: Bennett
+    given: Joseph R.
+  - family: Esch
+    given: Ellen H.
+  - family: Kadoya
+    given: Taku
+  - family: Kelly
+    given: Jocelyn
+  - family: Matsuzaki
+    given: Shin‐ichiro
+  - family: Nilsson
+    given: Karin A.
+  - family: McCann
+    given: Kevin S.
+  container-title: Global Change Biology
+  doi: 10.1111/gcb.14829
+  id: Cazelles_2019
+  issn: 1365-2486
+  issue: 12
+  issued: 2019-10
+  page: 4222-4233
+  publisher: Wiley
+  title: "Homogenization of freshwater lakes: Recent compositional
+    shifts in fish communities are explained by gamefish movement and
+    not climate change"
+  title-short: Homogenization of freshwater lakes
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/gcb.14829"
+  volume: 25
+- author:
+  - family: Albouy
+    given: Camille
+  - family: Archambault
+    given: Philippe
+  - family: Appeltans
+    given: Ward
+  - family: Araújo
+    given: Miguel B.
+  - family: Beauchesne
+    given: David
+  - family: Cazelles
+    given: Kevin
+  - family: Cirtwill
+    given: Alyssa R.
+  - family: Fortin
+    given: Marie-Josée
+  - family: Galiana
+    given: Nuria
+  - family: Leroux
+    given: Shawn J.
+  - family: Pellissier
+    given: Loïc
+  - family: Poisot
+    given: Timothée
+  - family: Stouffer
+    given: Daniel B.
+  - family: Wood
+    given: Spencer A.
+  - family: Gravel
+    given: Dominique
+  container-title: Nature Ecology &amp; Evolution
+  doi: 10.1038/s41559-019-0950-y
+  id: Albouy_2019
+  issn: 2397-334X
+  issue: 8
+  issued: 2019-07
+  page: 1153-1161
+  publisher: Springer Science; Business Media LLC
+  title: The marine fish food web is globally connected
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41559-019-0950-y"
+  volume: 3
+- author:
+  - family: Cazelles
+    given: Kevin
+  - family: McCann
+    given: Kevin S
+  container-title: Peer Community In Ecology
+  doi: 10.24072/pci.ecology.100017
+  id: Cazelles_2019
+  issn: 2606-4979
+  issued: 2019-04
+  page: 100017
+  publisher: Peer Community In
+  title: Diversity-stability and the structure of perturbations
+  type: article-journal
+  url: "http://dx.doi.org/10.24072/pci.ecology.100017"
+- author:
+  - family: Bartley
+    given: Timothy J.
+  - family: Guzzo
+    given: Matthew M.
+  - family: Cazelles
+    given: Kevin
+  - family: Verville
+    given: Alex
+  - family: McMeans
+    given: Bailey C.
+  - family: McCann
+    given: Kevin S.
+  doi: 10.1101/572925
+  id: Bartley_2019
+  issued: 2019-03
+  publisher: Cold Spring Harbor Laboratory
+  title: Thermal preference influences depth use but not biomass of
+    predatory fishes in response to lake morphometry
+  type: article-journal
+  url: "http://dx.doi.org/10.1101/572925"
+- author:
+  - family: Bartley
+    given: Timothy J.
+  - family: McCann
+    given: Kevin S.
+  - family: Bieg
+    given: Carling
+  - family: Cazelles
+    given: Kevin
+  - family: Granados
+    given: Monica
+  - family: Guzzo
+    given: Matthew M.
+  - family: MacDougall
+    given: Andrew S.
+  - family: Tunney
+    given: Tyler D.
+  - family: McMeans
+    given: Bailey C.
+  container-title: Nature Ecology &amp; Evolution
+  doi: 10.1038/s41559-018-0772-3
+  id: Bartley_2019
+  issn: 2397-334X
+  issue: 3
+  issued: 2019-02
+  page: 345-354
+  publisher: Springer Science; Business Media LLC
+  title: Food web rewiring in a changing world
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41559-018-0772-3"
+  volume: 3
+- author:
+  - family: Bartomeus
+    given: Ignasi
+  - family: Cazelles
+    given: Kevin
+  - family: Geschke
+    given: Jonas
+  doi: 10.59350/4q40p-bxr56
+  id: Bartomeus_2018
+  issued: 2018-12
+  publisher: Front Matter
+  title: Rcites - the story behind the package
+  type: article-journal
+  url: "http://dx.doi.org/10.59350/4q40p-bxr56"
+- author:
+  - family: Wheeler
+    given: Helen C.
+  - family: Berteaux
+    given: Dominique
+  - family: Furgal
+    given: Chris
+  - family: Cazelles
+    given: Kevin
+  - family: Yoccoz
+    given: Nigel G.
+  - family: Grémillet
+    given: David
+  container-title: Conservation Biology
+  doi: 10.1111/cobi.13257
+  id: Wheeler_2019
+  issn: 1523-1739
+  issue: 4
+  issued: 2019-01
+  page: 861-872
+  publisher: Wiley
+  title: Identifying key needs for the integration of social--ecological
+    outcomes in arctic wildlife monitoring
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/cobi.13257"
+  volume: 33
+- author:
+  - family: Geschke
+    given: Jonas
+  - family: Cazelles
+    given: Kevin
+  - family: Bartomeus
+    given: Ignasi
+  container-title: Journal of Open Source Software
+  doi: 10.21105/joss.01091
+  id: Geschke_2018
+  issn: 2475-9066
+  issue: 31
+  issued: 2018-11
+  page: 1091
+  publisher: The Open Journal
+  title: "Rcites: An r package to access the CITES speciesplus database"
+  title-short: Rcites
+  type: article-journal
+  url: "http://dx.doi.org/10.21105/joss.01091"
+  volume: 3
+- author:
+  - family: Galiana
+    given: Nuria
+  - family: Lurgi
+    given: Miguel
+  - family: Claramunt-López
+    given: Bernat
+  - family: Fortin
+    given: Marie-Josée
+  - family: Leroux
+    given: Shawn
+  - family: Cazelles
+    given: Kevin
+  - family: Gravel
+    given: Dominique
+  - family: Montoya
+    given: José M.
+  container-title: Nature Ecology &amp; Evolution
+  doi: 10.1038/s41559-018-0517-3
+  id: Galiana_2018
+  issn: 2397-334X
+  issue: 5
+  issued: 2018-04
+  page: 782-790
+  publisher: Springer Science; Business Media LLC
+  title: The spatial scaling of species interaction networks
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41559-018-0517-3"
+  volume: 2
+- author:
+  - family: MacDougall
+    given: Andrew S.
+  - family: Harvey
+    given: Eric
+  - family: McCune
+    given: Jenny L.
+  - family: Nilsson
+    given: Karin A.
+  - family: Bennett
+    given: Joseph
+  - family: Firn
+    given: Jennifer
+  - family: Bartley
+    given: Timothy
+  - family: Grace
+    given: James B.
+  - family: Kelly
+    given: Jocelyn
+  - family: Tunney
+    given: Tyler D.
+  - family: McMeans
+    given: Bailey
+  - family: Matsuzaki
+    given: Shin-Ichiro S.
+  - family: Kadoya
+    given: Taku
+  - family: Esch
+    given: Ellen
+  - family: Cazelles
+    given: Kevin
+  - family: Lester
+    given: Nigel
+  - family: McCann
+    given: Kevin S.
+  container-title: Nature Communications
+  doi: 10.1038/s41467-018-03419-1
+  id: MacDougall_2018
+  issn: 2041-1723
+  issue: 1
+  issued: 2018-03
+  publisher: Springer Science; Business Media LLC
+  title: Context-dependent interactions and the regulation of species
+    richness in freshwater fish
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41467-018-03419-1"
+  volume: 9
+- author:
+  - family: Legagneux
+    given: Pierre
+  - family: Casajus
+    given: Nicolas
+  - family: Cazelles
+    given: Kevin
+  - family: Chevallier
+    given: Clément
+  - family: Chevrinais
+    given: Marion
+  - family: Guéry
+    given: Lorelei
+  - family: Jacquet
+    given: Claire
+  - family: Jaffré
+    given: Mikael
+  - family: Naud
+    given: Marie-José
+  - family: Noisette
+    given: Fanny
+  - family: Ropars
+    given: Pascale
+  - family: Vissault
+    given: Steve
+  - family: Archambault
+    given: Philippe
+  - family: Bêty
+    given: Joel
+  - family: Berteaux
+    given: Dominique
+  - family: Gravel
+    given: Dominique
+  container-title: Frontiers in Ecology and Evolution
+  doi: 10.3389/fevo.2017.00175
+  id: Legagneux_2018
+  issn: 2296-701X
+  issued: 2018-01
+  publisher: Frontiers Media SA
+  title: "Our house is burning: Discrepancy in climate change vs.
+    Biodiversity coverage in the media as compared to scientific
+    literature"
+  title-short: Our house is burning
+  type: article-journal
+  url: "http://dx.doi.org/10.3389/fevo.2017.00175"
+  volume: 5
+- author:
+  - family: Kopelke
+    given: Jens‐Peter
+  - family: Nyman
+    given: Tommi
+  - family: Cazelles
+    given: Kévin
+  - family: Gravel
+    given: Dominique
+  - family: Vissault
+    given: Steve
+  - family: Roslin
+    given: Tomas
+  container-title: Ecology
+  doi: 10.1002/ecy.1832
+  id: Kopelke_2017
+  issn: 1939-9170
+  issue: 6
+  issued: 2017-05
+  page: 1730-1730
+  publisher: Wiley
+  title: Food‐web structure of willow‐galling sawflies and their natural
+    enemies across europe
+  type: article-journal
+  url: "http://dx.doi.org/10.1002/ecy.1832"
+  volume: 98
+- author:
+  - family: Massol
+    given: F.
+  - family: Dubart
+    given: M.
+  - family: Calcagno
+    given: V.
+  - family: Cazelles
+    given: K.
+  - family: Jacquet
+    given: C.
+  - family: Kéfi
+    given: S.
+  - family: Gravel
+    given: D.
+  container-title: Advances in ecological research
+  doi: 10.1016/bs.aecr.2016.10.004
+  id: Massol_2017
+  isbn: 9780128043387
+  issn: 0065-2504
+  issued: 2017
+  page: 183-262
+  publisher: Elsevier
+  title: Island biogeography of food webs
+  type: chapter
+  url: "http://dx.doi.org/10.1016/bs.aecr.2016.10.004"
+- author:
+  - family: Cazelles
+    given: Kévin
+  - family: Mouquet
+    given: Nicolas
+  - family: Mouillot
+    given: David
+  - family: Gravel
+    given: Dominique
+  container-title: Ecography
+  doi: 10.1111/ecog.01714
+  id: Cazelles_2016
+  issn: 1600-0587
+  issue: 10
+  issued: 2016-01
+  page: 921-931
+  publisher: Wiley
+  title: On the integration of biotic interaction and environmental
+    constraints at the biogeographical scale
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/ecog.01714"
+  volume: 39
+- author:
+  - family: Poisot
+    given: Timothée
+  - family: Cirtwill
+    given: Alyssa R.
+  - family: Cazelles
+    given: Kévin
+  - family: Gravel
+    given: Dominique
+  - family: Fortin
+    given: Marie‐Josée
+  - family: Stouffer
+    given: Daniel B.
+  container-title: Methods in Ecology and Evolution
+  doi: 10.1111/2041-210x.12468
+  editor:
+  - family: Vamosi
+    given: Jana
+  id: Poisot_2015
+  issn: 2041-210X
+  issue: 3
+  issued: 2015-10
+  page: 303-312
+  publisher: Wiley
+  title: The structure of probabilistic networks
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/2041-210X.12468"
+  volume: 7
+- author:
+  - family: Cazelles
+    given: Kévin
+  - family: Araújo
+    given: Miguel B.
+  - family: Mouquet
+    given: Nicolas
+  - family: Gravel
+    given: Dominique
+  container-title: Theoretical Ecology
+  doi: 10.1007/s12080-015-0281-9
+  id: Cazelles_2015
+  issn: 1874-1746
+  issue: 1
+  issued: 2015-10
+  page: 39-48
+  publisher: Springer Science; Business Media LLC
+  title: A theory for species co-occurrence in interaction networks
+  type: article-journal
+  url: "http://dx.doi.org/10.1007/s12080-015-0281-9"
+  volume: 9
+- author:
+  - family: Le Stradic
+    given: Soizig
+  - family: Silveira
+    given: Fernando A. O.
+  - family: Buisson
+    given: Elise
+  - family: Cazelles
+    given: Kévin
+  - family: Carvalho
+    given: Vanessa
+  - family: Fernandes
+    given: G. Wilson
+  container-title: Austral Ecology
+  doi: 10.1111/aec.12221
+  id: Le_Stradic_2015
+  issn: 1442-9993
+  issue: 5
+  issued: 2015-02
+  page: 537-546
+  publisher: Wiley
+  title: Diversity of germination strategies and seed dormancy in
+    herbaceous species of campo rupestre grasslands
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/aec.12221"
+  volume: 40
+- author:
+  - family: Cazelles
+    given: B.
+  - family: Cazelles
+    given: K.
+  container-title: International Journal of Infectious Diseases
+  doi: 10.1016/j.ijid.2014.03.873
+  id: Cazelles_2014
+  issn: 1201-9712
+  issued: 2014-04
+  page: 217
+  publisher: Elsevier BV
+  title: Major urban centers have weak influence on the timing of dengue
+    epidemics in southeast asia
+  type: article-journal
+  url: "http://dx.doi.org/10.1016/j.ijid.2014.03.873"
+  volume: 21
+- author:
+  - family: Cazelles
+    given: Bernard
+  - family: Cazelles
+    given: Kévin
+  - family: Chavez
+    given: Mario
+  container-title: Journal of The Royal Society Interface
+  doi: 10.1098/rsif.2013.0585
+  id: Cazelles_2014
+  issn: 1742-5662
+  issue: 91
+  issued: 2014-02
+  page: 20130585
+  publisher: The Royal Society
+  title: "Wavelet analysis in ecology and epidemiology: Impact of
+    statistical tests"
+  title-short: Wavelet analysis in ecology and epidemiology
+  type: article-journal
+  url: "http://dx.doi.org/10.1098/rsif.2013.0585"
+  volume: 11
+- author:
+  - family: Cazelles
+    given: K.
+  - family: Otten
+    given: W.
+  - family: Baveye
+    given: P. C.
+  - family: Falconer
+    given: R. E.
+  container-title: Ecological Modelling
+  doi: 10.1016/j.ecolmodel.2012.08.008
+  id: Cazelles_2013
+  issn: 0304-3800
+  issued: 2013-01
+  page: 165-173
+  publisher: Elsevier BV
+  title: "Soil fungal dynamics: Parameterisation and sensitivity
+    analysis of modelled physiological processes, soil architecture and
+    carbon distribution"
+  title-short: Soil fungal dynamics
+  type: article-journal
+  url: "http://dx.doi.org/10.1016/j.ecolmodel.2012.08.008"
+  volume: 248
+---
+
