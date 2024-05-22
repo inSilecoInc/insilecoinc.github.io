@@ -41,6 +41,10 @@ custom_js = []
         url = "/publications/"
         weight = 5
     [[languages.fr.menu.main]]
+        name = "Publications"
+        url = "/publications/"
+        weight = 5
+    [[languages.fr.menu.main]]
         name = "Blogue"
         url = "https://blog.insileco.io"
         weight = 6
