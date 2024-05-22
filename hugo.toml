@@ -13,19 +13,20 @@ custom_js = []
     weight = 1
     contentDir = "content/fr"
     [languages.fr.params]
-        subtitle = "Cabinet de consultants en science des données"
+        subtitle = "Gestion écosystémique & Science des données"
         keywords = ["Solutions", "Accompagnement", "Formations"]
-        title_portfolio = "Nos Réalisations"
+        title_expertise = "Notre expertise"
+        subtitle_expertise = "Quand la science des données rencontre la gestion environnementale"
         title_team = "Notre équipe"
-        subtitle_team = "Prête à vous accompagner pour relever vos défis en science des données"
+        subtitle_team = ""
         footer = 'Le code source de ce site est sous licence <a href="http://opensource.org/licenses/mit-license.php">MIT</a> et disponible sur <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco 2023'
     [[languages.fr.menu.main]]
         name = "Mission"
         url = "#mission"
         weight = 1
-    [[languages.fr.menu.main]]
-        name = "Nos réalisations"
-        url = "#portfolio"
+    [[languages.en.menu.main]]
+        name = "Notre expertise"
+        url = "#expertise"
         weight = 2
     [[languages.fr.menu.main]]
         name = "Équipe"
@@ -35,14 +36,18 @@ custom_js = []
         name = "Démarche"
         url = "#approach"
         weight = 4
+    [[languages.en.menu.main]]
+        name = "Publications"
+        url = "/publications/"
+        weight = 5
     [[languages.fr.menu.main]]
         name = "Blogue"
         url = "https://blog.insileco.io"
-        weight = 5
+        weight = 6
     [[languages.fr.menu.main]]
         name = "Contactez-nous"
         url = "#contact"
-        weight = 6
+        weight = 7
   [languages.en]
     languageCode = "en-ca"
     weight = 2
