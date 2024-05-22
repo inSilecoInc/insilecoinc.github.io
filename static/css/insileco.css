@@ -62,3 +62,8 @@ body {
 .card .card-image .image img {
   height: 200px;
 }
+
+.pubs {
+    padding-bottom: 2rem;
+    padding-top: 0.25rem;
+}
