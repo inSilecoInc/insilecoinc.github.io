@@ -1,0 +1,21 @@
+name: Statistical analyses
+client: ""
+categories:
+  - Data-science
+  - Environment
+tags: 
+  - Hypothesis testing
+  - Probabilities
+  - Bayesian
+date:
+  - 2021-01-12
+  - 2021-01-13
+instructors:
+  - David Beauchesne
+  - Kevin Cazelles
+location: remote
+description: | 
+  We provide expert services on frequentist and bayesian statistical methods to analyze data, estimate parameters, and make predictions for scientific research and data-driven decision-making
+url:
+gh: 
+pict: /img/portfolio/mapworld.jpg
