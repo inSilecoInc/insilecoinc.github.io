@@ -1,14 +1,29 @@
 {{ define "main" }}
-{{ partial "header.html" . }}
+
+<div class="columns is-spaced is-mobile is-centered" style="margin-top:5%">
+    <div class="column is-half has-text-centered">
+        <img src="/img/logo.png" style="max-height:8rem;" />
+        <h1 class="is-size-3 has-text-weight-bold">inSileco</h1>
+        <h4 class="subtitle mb-0">{{ .Site.Params.subtitle }}</h4>
+        <p>
+            <span class="icon-text">
+                {{ $list := .Site.Params.keywords }}
+                {{ $len := len $list }}
+                {{ range $index, $element := .Site.Params.keywords }}
+                    <span>{{ $element }}</span>
+                    {{ if ne (add $index 1) $len }}
+                        <span class="icon icon-seperator-inline">
+                            <ion-icon class="icon-seperator-inline" name="ellipse"></ion-icon>
+                        </span>
+                    {{ end }}
+                {{ end }}
+            </span>
+        </p>
+    </div>
+</div>
 
 <div class="content mx-auto" style="width: 70%;">
-  <h1>Publications</h1>
-  <!-- </div> -->
-
-  <!-- <div class="listings"> -->
-  <div class="pubs">
-    {{ partial "pubs" . }}
-  </div>
+    {{ .Content }}
 </div>
 
 {{ end }}

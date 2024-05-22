@@ -4,7 +4,7 @@ references:
 - author:
   - family: Cazelles
     given: Kevin
-  container-title: Nature Ecology &amp; Evolution
+  container: Nature Ecology &amp; Evolution
   doi: 10.1038/s41559-023-02245-z
   id: Cazelles_2023
   issn: 2397-334X
@@ -51,7 +51,7 @@ references:
     given: Colette
   - family: Fortin
     given: Marie‐Josée
-  container-title: Ecography
+  container: Ecography
   doi: 10.1111/ecog.06790
   id: Harvey_2023
   issn: 1600-0587
@@ -74,7 +74,7 @@ references:
     given: Mario
   - family: Pascual
     given: Mercedes
-  container-title: Science Advances
+  container: Science Advances
   doi: 10.1126/sciadv.adf7202
   id: Cazelles_2023
   issn: 2375-2548
@@ -215,7 +215,7 @@ references:
     given: Emily J
   - family: McMeans
     given: Bailey C
-  container-title: BioScience
+  container: BioScience
   doi: 10.1093/biosci/biab144
   id: Gutgesell_2022
   issn: 1525-3244
@@ -286,7 +286,7 @@ references:
     given: Wilfried
   - family: Montoya
     given: José M.
-  container-title: Nature Ecology &amp; Evolution
+  container: Nature Ecology &amp; Evolution
   doi: 10.1038/s41559-021-01644-4
   id: Galiana_2022
   issn: 2397-334X
@@ -317,7 +317,7 @@ references:
     given: Clément
   - family: Vissault
     given: Steve
-  container-title: Journal of Biogeography
+  container: Journal of Biogeography
   doi: 10.1111/jbi.14127
   id: Poisot_2021
   issn: 1365-2699
@@ -379,7 +379,7 @@ references:
     given: Brian
   - family: Gonzalez
     given: Andrew
-  container-title: Ecology Letters
+  container: Ecology Letters
   doi: 10.1111/ele.13644
   editor:
   - family: Drake
@@ -408,7 +408,7 @@ references:
     given: Robert
   - family: Shear McCann
     given: Kevin
-  container-title: Foods
+  container: Foods
   doi: 10.3390/foods10040717
   id: Cazelles_2021
   issn: 2304-8158
@@ -429,7 +429,7 @@ references:
     given: Kevin
   - family: Gravel
     given: Dominique
-  container-title: Ecology Letters
+  container: Ecology Letters
   doi: 10.1111/ele.13525
   editor:
   - family: Jeffers
@@ -455,7 +455,7 @@ references:
     given: Kevin
   - family: Guzzo
     given: Matthew M.
-  container-title: Geophysical Research Letters
+  container: Geophysical Research Letters
   doi: 10.1029/2020gl087953
   id: Warne_2020
   issn: 1944-8007
@@ -478,7 +478,7 @@ references:
     given: Yves
   - family: Gravel
     given: Dominique
-  container-title: Journal of Ecology
+  container: Journal of Ecology
   doi: 10.1111/1365-2745.13311
   editor:
   - family: Gilliam
@@ -530,7 +530,7 @@ references:
     given: Pierre
   - family: Fortin
     given: Marie‐Josée
-  container-title: Global Ecology and Biogeography
+  container: Global Ecology and Biogeography
   doi: 10.1111/geb.12971
   editor:
   - family: Boucher‐Lalonde
@@ -584,7 +584,7 @@ references:
     given: Karin A.
   - family: McCann
     given: Kevin S.
-  container-title: Global Change Biology
+  container: Global Change Biology
   doi: 10.1111/gcb.14829
   id: Cazelles_2019
   issn: 1365-2486
@@ -630,7 +630,7 @@ references:
     given: Spencer A.
   - family: Gravel
     given: Dominique
-  container-title: Nature Ecology &amp; Evolution
+  container: Nature Ecology &amp; Evolution
   doi: 10.1038/s41559-019-0950-y
   id: Albouy_2019
   issn: 2397-334X
@@ -647,7 +647,7 @@ references:
     given: Kevin
   - family: McCann
     given: Kevin S
-  container-title: Peer Community In Ecology
+  container: Peer Community In Ecology
   doi: 10.24072/pci.ecology.100017
   id: Cazelles_2019
   issn: 2606-4979
@@ -697,7 +697,7 @@ references:
     given: Tyler D.
   - family: McMeans
     given: Bailey C.
-  container-title: Nature Ecology &amp; Evolution
+  container: Nature Ecology &amp; Evolution
   doi: 10.1038/s41559-018-0772-3
   id: Bartley_2019
   issn: 2397-334X
@@ -736,7 +736,7 @@ references:
     given: Nigel G.
   - family: Grémillet
     given: David
-  container-title: Conservation Biology
+  container: Conservation Biology
   doi: 10.1111/cobi.13257
   id: Wheeler_2019
   issn: 1523-1739
@@ -756,7 +756,7 @@ references:
     given: Kevin
   - family: Bartomeus
     given: Ignasi
-  container-title: Journal of Open Source Software
+  container: Journal of Open Source Software
   doi: 10.21105/joss.01091
   id: Geschke_2018
   issn: 2475-9066
@@ -786,7 +786,7 @@ references:
     given: Dominique
   - family: Montoya
     given: José M.
-  container-title: Nature Ecology &amp; Evolution
+  container: Nature Ecology &amp; Evolution
   doi: 10.1038/s41559-018-0517-3
   id: Galiana_2018
   issn: 2397-334X
@@ -833,7 +833,7 @@ references:
     given: Nigel
   - family: McCann
     given: Kevin S.
-  container-title: Nature Communications
+  container: Nature Communications
   doi: 10.1038/s41467-018-03419-1
   id: MacDougall_2018
   issn: 2041-1723
@@ -878,7 +878,7 @@ references:
     given: Dominique
   - family: Gravel
     given: Dominique
-  container-title: Frontiers in Ecology and Evolution
+  container: Frontiers in Ecology and Evolution
   doi: 10.3389/fevo.2017.00175
   id: Legagneux_2018
   issn: 2296-701X
@@ -904,7 +904,7 @@ references:
     given: Steve
   - family: Roslin
     given: Tomas
-  container-title: Ecology
+  container: Ecology
   doi: 10.1002/ecy.1832
   id: Kopelke_2017
   issn: 1939-9170
@@ -932,7 +932,7 @@ references:
     given: S.
   - family: Gravel
     given: D.
-  container-title: Advances in ecological research
+  container: Advances in ecological research
   doi: 10.1016/bs.aecr.2016.10.004
   id: Massol_2017
   isbn: 9780128043387
@@ -952,7 +952,7 @@ references:
     given: David
   - family: Gravel
     given: Dominique
-  container-title: Ecography
+  container: Ecography
   doi: 10.1111/ecog.01714
   id: Cazelles_2016
   issn: 1600-0587
@@ -978,7 +978,7 @@ references:
     given: Marie‐Josée
   - family: Stouffer
     given: Daniel B.
-  container-title: Methods in Ecology and Evolution
+  container: Methods in Ecology and Evolution
   doi: 10.1111/2041-210x.12468
   editor:
   - family: Vamosi
@@ -1002,7 +1002,7 @@ references:
     given: Nicolas
   - family: Gravel
     given: Dominique
-  container-title: Theoretical Ecology
+  container: Theoretical Ecology
   doi: 10.1007/s12080-015-0281-9
   id: Cazelles_2015
   issn: 1874-1746
@@ -1027,7 +1027,7 @@ references:
     given: Vanessa
   - family: Fernandes
     given: G. Wilson
-  container-title: Austral Ecology
+  container: Austral Ecology
   doi: 10.1111/aec.12221
   id: Le_Stradic_2015
   issn: 1442-9993
@@ -1045,7 +1045,7 @@ references:
     given: B.
   - family: Cazelles
     given: K.
-  container-title: International Journal of Infectious Diseases
+  container: International Journal of Infectious Diseases
   doi: 10.1016/j.ijid.2014.03.873
   id: Cazelles_2014
   issn: 1201-9712
@@ -1064,7 +1064,7 @@ references:
     given: Kévin
   - family: Chavez
     given: Mario
-  container-title: Journal of The Royal Society Interface
+  container: Journal of The Royal Society Interface
   doi: 10.1098/rsif.2013.0585
   id: Cazelles_2014
   issn: 1742-5662
@@ -1087,7 +1087,7 @@ references:
     given: P. C.
   - family: Falconer
     given: R. E.
-  container-title: Ecological Modelling
+  container: Ecological Modelling
   doi: 10.1016/j.ecolmodel.2012.08.008
   id: Cazelles_2013
   issn: 0304-3800
@@ -1116,7 +1116,7 @@ references:
     given: Christopher W.
   - family: Archambault
     given: Philippe
-  container-title: Elem Sci Anth
+  container: Elem Sci Anth
   doi: 10.1525/elementa.2023.00024
   id: Dreujou_2023
   issn: 2325-1026
@@ -1140,7 +1140,7 @@ references:
     given: Michel
   - family: Archambault
     given: Philippe
-  container-title: Frontiers in Remote Sensing
+  container: Frontiers in Remote Sensing
   doi: 10.3389/frsen.2023.1135501
   id: Huot_2023
   issn: 2673-6187
@@ -1160,7 +1160,7 @@ references:
     given: Chris
   - family: Archambault
     given: Philippe
-  container-title: Frontiers in Marine Science
+  container: Frontiers in Marine Science
   doi: 10.3389/fmars.2021.720710
   id: Isabel_2021
   issn: 2296-7745
@@ -1182,7 +1182,7 @@ references:
     given: Laura E.
   - family: Gravel
     given: Dominique
-  container-title: Ecology Letters
+  container: Ecology Letters
   doi: 10.1111/ele.13841
   editor:
   - family: Wootton
@@ -1218,7 +1218,7 @@ references:
     given: María Yolanda
   - family: Christofoletti
     given: Ronaldo A.
-  container-title: PeerJ
+  container: PeerJ
   doi: 10.7717/peerj.9616
   id: Fajardo_2021
   issn: 2167-8359
@@ -1251,7 +1251,7 @@ references:
     given: Rémi M.
   - family: Beauchesne
     given: David
-  container-title: PeerJ
+  container: PeerJ
   doi: 10.7717/peerj.8171
   id: Dreujou_2020
   issn: 2167-8359
@@ -1304,7 +1304,7 @@ references:
     given: Anne-Sophie
   - family: Archambault
     given: Philippe
-  container-title: Frontiers in Marine Science
+  container: Frontiers in Marine Science
   doi: 10.3389/fmars.2020.00383
   id: Beauchesne_2020
   issn: 2296-7745
@@ -1324,7 +1324,7 @@ references:
     given: Dominique
   - family: Archambault
     given: Philippe
-  container-title: Conservation/Développement durable
+  container: Conservation/Développement durable
   doi: 10.7202/1036503ar
   id: Beauchesne_2016
   issn: 0028-0798
@@ -1347,7 +1347,7 @@ references:
     given: Jochen A. G.
   - family: St-Laurent
     given: Martin-Hugues
-  container-title: Biological Conservation
+  container: Biological Conservation
   doi: 10.1016/j.biocon.2014.03.002
   id: Beauchesne_2014
   issn: 0006-3207
@@ -1368,7 +1368,7 @@ references:
     given: Jochen AG.
   - family: St-Laurent
     given: Martin-Hugues
-  container-title: PLoS ONE
+  container: PLoS ONE
   doi: 10.1371/journal.pone.0077514
   editor:
   - family: Russo
@@ -1393,7 +1393,7 @@ references:
     given: Mathieu
   - family: Beauchesne
     given: David
-  container-title: Le Naturaliste canadien
+  container: Le Naturaliste canadien
   doi: 10.7202/1009105ar
   id: St_Laurent_2012
   issn: 0028-0798

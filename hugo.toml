@@ -19,12 +19,12 @@ custom_js = []
         subtitle_expertise = "Quand la science des données rencontre la gestion environnementale"
         title_team = "Notre équipe"
         subtitle_team = ""
-        footer = 'Le code source de ce site est sous licence <a href="http://opensource.org/licenses/mit-license.php">MIT</a> et disponible sur <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco 2023'
+        footer = 'Le code source de ce site est sous licence <a href="http://opensource.org/licenses/mit-license.php">MIT</a> et disponible sur <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco Inc. 2024'
     [[languages.fr.menu.main]]
         name = "Mission"
         url = "#mission"
         weight = 1
-    [[languages.en.menu.main]]
+    [[languages.fr.menu.main]]
         name = "Notre expertise"
         url = "#expertise"
         weight = 2
@@ -36,10 +36,6 @@ custom_js = []
         name = "Démarche"
         url = "#approach"
         weight = 4
-    [[languages.en.menu.main]]
-        name = "Publications"
-        url = "/publications/"
-        weight = 5
     [[languages.fr.menu.main]]
         name = "Publications"
         url = "/publications/"
@@ -63,7 +59,7 @@ custom_js = []
         subtitle_expertise = "Where data science meets environmental management"
         title_team = "Our team"
         subtitle_team = ""
-        footer = 'The source code of this website is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a> and available on <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco 2023.'
+        footer = 'The source code of this website is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a> and available on <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco Inc. 2024.'
     [[languages.en.menu.main]]
         name = "Mission"
         url = "#mission"
