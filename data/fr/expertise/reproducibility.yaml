@@ -1,0 +1,20 @@
+name: Reproductibilité
+client: ""
+categories:
+  - Science-des-données
+tags: 
+  - Gestion des données
+  - Flux analytiques
+  - Rapports
+date:
+  - 2021-01-12
+  - 2021-01-13
+instructors:
+  - David Beauchesne
+  - Kevin Cazelles
+location: remote
+description: | 
+  Nous construisons ou vous assistons dans la création de flux de travail et de code standardisés et documentés pour gérer, analyser et modéliser vos données, et créons des outils de production de rapports interactifs pour promouvoir la transparence, la reproductibilité, la cohérence et la fiabilité de votre travail.
+url:
+gh: 
+pict: /img/portfolio/mapworld.jpg
