@@ -1,0 +1,372 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Cazelles
+    given: Kevin
+  - family: Daigle
+    given: Rémi
+  - family: Gravel
+    given: Dominique
+  - family: Archambault
+    given: Philippe
+  doi: 10.21203/rs.3.rs-3296860/v1
+  id: Beauchesne_2023
+  issued: 2023-09
+  publisher: Research Square Platform LLC
+  title: Ecological interactions amplify cumulative effects in marine
+    ecosystems
+  type: article-journal
+  url: "http://dx.doi.org/10.21203/rs.3.rs-3296860/v1"
+- author:
+  - family: Dreujou
+    given: Elliot
+  - family: Beauchesne
+    given: David
+  - family: Daigle
+    given: Rémi M.
+  - family: Carrière
+    given: Julie
+  - family: Noisette
+    given: Fanny
+  - family: McKindsey
+    given: Christopher W.
+  - family: Archambault
+    given: Philippe
+  container-title: Elem Sci Anth
+  doi: 10.1525/elementa.2023.00024
+  id: Dreujou_2023
+  issn: 2325-1026
+  issue: 1
+  issued: 2023
+  publisher: University of California Press
+  title: "Multiple human activities in coastal benthic ecosystems:
+    Introducing a metric of cumulative exposure"
+  title-short: Multiple human activities in coastal benthic ecosystems
+  type: article-journal
+  url: "http://dx.doi.org/10.1525/elementa.2023.00024"
+  volume: 11
+- author:
+  - family: Huot
+    given: Matthieu
+  - family: Dalgleish
+    given: Fraser
+  - family: Beauchesne
+    given: David
+  - family: Piché
+    given: Michel
+  - family: Archambault
+    given: Philippe
+  container-title: Frontiers in Remote Sensing
+  doi: 10.3389/frsen.2023.1135501
+  id: Huot_2023
+  issn: 2673-6187
+  issued: 2023-06
+  publisher: Frontiers Media SA
+  title: Machine learning for underwater laser detection and
+    differentiation of macroalgae and coral
+  type: article-journal
+  url: "http://dx.doi.org/10.3389/frsen.2023.1135501"
+  volume: 4
+- author:
+  - family: Isabel
+    given: Laurie
+  - family: Beauchesne
+    given: David
+  - family: McKindsey
+    given: Chris
+  - family: Archambault
+    given: Philippe
+  container-title: Frontiers in Marine Science
+  doi: 10.3389/fmars.2021.720710
+  id: Isabel_2021
+  issn: 2296-7745
+  issued: 2021-10
+  publisher: Frontiers Media SA
+  title: Detection of ecological thresholds and selection of indicator
+    taxa for epibenthic communities exposed to multiple pressures
+  type: article-journal
+  url: "http://dx.doi.org/10.3389/fmars.2021.720710"
+  volume: 8
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Cazelles
+    given: Kevin
+  - family: Archambault
+    given: Philippe
+  - family: Dee
+    given: Laura E.
+  - family: Gravel
+    given: Dominique
+  container-title: Ecology Letters
+  doi: 10.1111/ele.13841
+  editor:
+  - family: Wootton
+    given: Tim
+  id: Beauchesne_2021
+  issn: 1461-0248
+  issue: 10
+  issued: 2021-07
+  page: 2219-2237
+  publisher: Wiley
+  title: On the sensitivity of food webs to multiple stressors
+  type: article-journal
+  url: "http://dx.doi.org/10.1111/ele.13841"
+  volume: 24
+- author:
+  - family: Fajardo
+    given: Paola
+  - family: Beauchesne
+    given: David
+  - family: Carbajal-López
+    given: Alberto
+  - family: Daigle
+    given: Rémi M.
+  - family: Fierro-Arcos
+    given: L. Denisse
+  - family: Goldsmit
+    given: Jesica
+  - family: Zajderman
+    given: Sabine
+  - family: Valdez-Hernández
+    given: Juan I.
+  - family: Terán Maigua
+    given: María Yolanda
+  - family: Christofoletti
+    given: Ronaldo A.
+  container-title: PeerJ
+  doi: 10.7717/peerj.9616
+  id: Fajardo_2021
+  issn: 2167-8359
+  issued: 2021-01
+  page: e9616
+  publisher: PeerJ
+  title: "Aichi target 18 beyond 2020: Mainstreaming traditional
+    biodiversity knowledge in the conservation and sustainable use of
+    marine and coastal ecosystems"
+  title-short: Aichi target 18 beyond 2020
+  type: article-journal
+  url: "http://dx.doi.org/10.7717/peerj.9616"
+  volume: 9
+- author:
+  - family: Dreujou
+    given: Elliot
+  - family: Carrier-Belleau
+    given: Charlotte
+  - family: Goldsmit
+    given: Jesica
+  - family: Fiorentino
+    given: Dario
+  - family: Ben-Hamadou
+    given: Radhouane
+  - family: Muelbert
+    given: Jose H.
+  - family: Godbold
+    given: Jasmin A.
+  - family: Daigle
+    given: Rémi M.
+  - family: Beauchesne
+    given: David
+  container-title: PeerJ
+  doi: 10.7717/peerj.8171
+  id: Dreujou_2020
+  issn: 2167-8359
+  issued: 2020-02
+  page: e8171
+  publisher: PeerJ
+  title: "Holistic environmental approaches and aichi biodiversity
+    targets: Accomplishments and perspectives for marine ecosystems"
+  title-short: Holistic environmental approaches and aichi biodiversity
+    targets
+  type: article-journal
+  url: "http://dx.doi.org/10.7717/peerj.8171"
+  volume: 8
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Daigle
+    given: Rémi M.
+  - family: Vissault
+    given: Steve
+  - family: Gravel
+    given: Dominique
+  - family: Bastien
+    given: Andréane
+  - family: Bélanger
+    given: Simon
+  - family: Bernatchez
+    given: Pascal
+  - family: Blais
+    given: Marjolaine
+  - family: Bourdages
+    given: Hugo
+  - family: Chion
+    given: Clément
+  - family: Galbraith
+    given: Peter S.
+  - family: Halpern
+    given: Benjamin S.
+  - family: Lavoie
+    given: Camille
+  - family: McKindsey
+    given: Christopher W.
+  - family: Mucci
+    given: Alfonso
+  - family: Pineault
+    given: Simon
+  - family: Starr
+    given: Michel
+  - family: Ste-Marie
+    given: Anne-Sophie
+  - family: Archambault
+    given: Philippe
+  container-title: Frontiers in Marine Science
+  doi: 10.3389/fmars.2020.00383
+  id: Beauchesne_2020
+  issn: 2296-7745
+  issued: 2020-06
+  publisher: Frontiers Media SA
+  title: Characterizing exposure to and sharing knowledge of drivers of
+    environmental change in the st. Lawrence system in canada
+  type: article-journal
+  url: "http://dx.doi.org/10.3389/fmars.2020.00383"
+  volume: 7
+- author:
+  - family: Albouy
+    given: Camille
+  - family: Archambault
+    given: Philippe
+  - family: Appeltans
+    given: Ward
+  - family: Araújo
+    given: Miguel B.
+  - family: Beauchesne
+    given: David
+  - family: Cazelles
+    given: Kevin
+  - family: Cirtwill
+    given: Alyssa R.
+  - family: Fortin
+    given: Marie-Josée
+  - family: Galiana
+    given: Nuria
+  - family: Leroux
+    given: Shawn J.
+  - family: Pellissier
+    given: Loïc
+  - family: Poisot
+    given: Timothée
+  - family: Stouffer
+    given: Daniel B.
+  - family: Wood
+    given: Spencer A.
+  - family: Gravel
+    given: Dominique
+  container-title: Nature Ecology &amp; Evolution
+  doi: 10.1038/s41559-019-0950-y
+  id: Albouy_2019
+  issn: 2397-334X
+  issue: 8
+  issued: 2019-07
+  page: 1153-1161
+  publisher: Springer Science; Business Media LLC
+  title: The marine fish food web is globally connected
+  type: article-journal
+  url: "http://dx.doi.org/10.1038/s41559-019-0950-y"
+  volume: 3
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Grant
+    given: Cindy
+  - family: Gravel
+    given: Dominique
+  - family: Archambault
+    given: Philippe
+  container-title: Conservation/Développement durable
+  doi: 10.7202/1036503ar
+  id: Beauchesne_2016
+  issn: 0028-0798
+  issue: 2
+  issued: 2016-06
+  page: 45-55
+  publisher: Consortium Erudit
+  title: "L'évaluation des impacts cumulés dans l'estuaire et le golfe
+    du saint-laurent : Vers une planification systémique de
+    l'exploitation des ressources"
+  title-short: L'évaluation des impacts cumulés dans l'estuaire et le
+    golfe du saint-laurent 
+  type: article-journal
+  url: "http://dx.doi.org/10.7202/1036503ar"
+  volume: 140
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Jaeger
+    given: Jochen A. G.
+  - family: St-Laurent
+    given: Martin-Hugues
+  container-title: Biological Conservation
+  doi: 10.1016/j.biocon.2014.03.002
+  id: Beauchesne_2014
+  issn: 0006-3207
+  issued: 2014-04
+  page: 190-199
+  publisher: Elsevier BV
+  title: "Thresholds in the capacity of boreal caribou to cope with
+    cumulative disturbances: Evidence from space use patterns"
+  title-short: Thresholds in the capacity of boreal caribou to cope with
+    cumulative disturbances
+  type: article-journal
+  url: "http://dx.doi.org/10.1016/j.biocon.2014.03.002"
+  volume: 172
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Jaeger
+    given: Jochen AG.
+  - family: St-Laurent
+    given: Martin-Hugues
+  container-title: PLoS ONE
+  doi: 10.1371/journal.pone.0077514
+  editor:
+  - family: Russo
+    given: Danilo
+  id: Beauchesne_2013
+  issn: 1932-6203
+  issue: 11
+  issued: 2013-11
+  page: e77514
+  publisher: Public Library of Science (PLoS)
+  title: Disentangling woodland caribou movements in response to
+    clearcuts and roads across temporal scales
+  type: article-journal
+  url: "http://dx.doi.org/10.1371/journal.pone.0077514"
+  volume: 8
+- author:
+  - family: St-Laurent
+    given: Martin-Hugues
+  - family: Renaud
+    given: Limoilou-Amélie
+  - family: Leblond
+    given: Mathieu
+  - family: Beauchesne
+    given: David
+  container-title: Le Naturaliste canadien
+  doi: 10.7202/1009105ar
+  id: St_Laurent_2012
+  issn: 0028-0798
+  issue: 2
+  issued: 2012-05
+  page: 42-47
+  publisher: Consortium Erudit
+  title: Synthèse des connaissances relatives aux impacts des routes sur
+    l'écologie du caribou
+  type: article-journal
+  url: "http://dx.doi.org/10.7202/1009105ar"
+  volume: 136
+---
+

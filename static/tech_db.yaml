@@ -1,0 +1,227 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Cadotte
+    given: M
+  - family: Dussault
+    given: Christian
+  - family: St-Laurent
+    given: Martin-Hugues
+  id: beauchesne2014
+  issued: 2014
+  page: 44p.+vii
+  publisher: Ministère de la Forêt, de la Faune et des Parcs
+  title: Revue de littérature critique sur le contrôle des prédateurs
+    dans un contexte de conservation du caribou forestier au Québec.
+  type: report
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Faille
+    given: Geneviève
+  - family: Brêthes
+    given: Jean-Claude
+  id: beauchesne2014a
+  issued: 2014
+  page: 81p.+Annexes
+  publisher: Ministère du Développement durable, de l'Environnement, de
+    la Faune et des Parcs & Parcs Canada
+  title: Étude concernant une aire marine protégée aux îles de la
+    Madeleine. Volume 1. Rapport d'étude et analyse écologique
+  type: report
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Grant
+    given: Cindy
+  - family: Archambault
+    given: Philippe
+  id: beauchesne2022a
+  issued: 2022
+  publisher: Transport Canada
+  title: Cumulative effects assessment of marine vessel activities in
+    the St. Lawrence and the Saguenay River -- Pilot Project for
+    Transport Canada.
+  type: report
+  url: "https://effetscumulatifsnavigation.github.io/Report/"
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Grant
+    given: Cindy
+  - family: Archambault
+    given: Philippe
+  id: beauchesne2023b
+  issued: 2023
+  publisher: Fisheries and Oceans Canada
+  title: Cumulative effects of natural and human drivers on food webs in
+    the offshore Scotian Shelf Bioregion to support Marine Spatial
+    Planning
+  type: report
+  url: "https://ecosystem-assessments.github.io/nceadfo/report/"
+- author:
+  - family: Bellavance
+    given: Vincent
+  - family: Deslongchamps
+    given: Gabrièle
+  - family: Beauchesne
+    given: David
+  - family: Grant
+    given: Cindy
+  - family: Archambault
+    given: Philippe
+  id: bellavance2024
+  issued: 2024
+  page: xii + 81 p
+  publisher: Pêches et Océans Canada
+  title: "Activité 2 : Identification des habitats potentiels des plumes
+    de mer dans l'estuaire maritime et le golfe du Saint-Laurent"
+  title-short: Activité 2
+  type: report
+- author:
+  - family: Deslongchamps
+    given: Gabrièle
+  - family: Bellavance
+    given: Vincent
+  - family: Beauchesne
+    given: David
+  - family: Grant
+    given: Cindy
+  - family: Archambault
+    given: Philippe
+  id: deslongchamps2024
+  issued: 2024
+  page: 101 p.
+  publisher: Pêches et Océans Canada
+  title: "Activité 1 : Évaluation de la vulnérabilité des coraux et des
+    éponges de l'estuaire maritime et du golfe du Saint-Laurent face aux
+    différents stresseurs"
+  title-short: Activité 1
+  type: report
+- author:
+  - family: Grant
+    given: Cindy
+  - family: Faille
+    given: Geneviève
+  - family: Beauchesne
+    given: David
+  id: grant2014
+  issued: 2014
+  page: xv+143p.
+  publisher: Ministère du Développement durable, de l'Environnement, de
+    la Faune et des Parcs & Parcs Canada
+  title: Étude concernant une aire marine protégée aux îles de la
+    Madeleine. Volume 3. Atlas cartographique des îles de la Madeleine
+  type: report
+- author:
+  - family: Grant
+    given: Cindy
+  - family: Monpert
+    given: Coralie
+  - family: Rondeau
+    given: Marie-Hélène
+  - family: Beauchesne
+    given: David
+  - family: Stoeffler
+    given: Camille
+  id: grant2015
+  issued: 2015
+  page: 46p.+v
+  title: Cartographie de bancs de laminaires à l'aide de méthodes
+    acoustiques
+  type: report
+- author:
+  - family: Lachance
+    given: Sarah-Claude
+  - family: Beauchesne
+    given: David
+  id: lachance2017
+  issued: 2017
+  page: 101 p.
+  publisher: Ministère du Développement Durable et de la Lutte contre
+    les Changements Climatiques
+  title: "Étude de planification systématique de la conservation à
+    l'aide de l'outil Marxan : Rapport final d'analyse d'une étude de
+    cas sur le territoire continental du Plan Nord (Québec)"
+  title-short: Étude de planification systématique de la conservation à
+    l'aide de l'outil Marxan
+  type: report
+- author:
+  - family: Renaud
+    given: Limoilou-Amélie
+  - family: Leblond
+    given: Mathieu
+  - family: Beauchesne
+    given: David
+  - family: St-Laurent
+    given: Martin-Hugues
+  id: renaud2010
+  issued: 2010
+  page: 21 p.
+  title: Synthèse des connaissances relatives aux impacts du réseau
+    routier sur l'écologie du caribou forestier. Revue de littérature
+    présentée à l'équipe de rétablissement provinciale du caribou
+    forestier.
+  type: report
+- author:
+  - family: St-Laurent
+    given: Martin-Hugues
+  - family: Beauchesne
+    given: David
+  - family: Dussault
+    given: Christian
+  - family: Lesmerises
+    given: Frédéric
+  id: st-laurent2014
+  issued: 2014
+  page: 41p.+ii
+  publisher: Ministère de la Forêt, de la Faune et des Parcs
+  title: Évaluation des impacts des chemins forestiers sur l'écologie du
+    caribou forestier au Québec
+  type: report
+- accessed: 2024-04-19
+  annote: "Last Modified: 2013-04-03"
+  author:
+  - family: Stoyel
+    given: Quentin
+  - family: Finnis
+    given: Stephen
+  - family: Gomez
+    given: Catalina
+  - family: Lazin
+    given: Gordana
+  - family: Daigle
+    given: Rémi M.
+  - family: Brager
+    given: Lindsay
+  - family: Hamer
+    given: Adrian
+  - family: Smith
+    given: Charlotte
+  - family: Beauchesne
+    given: David
+  - family: Cazelles
+    given: Kevin
+  - family: Butler
+    given: Sean
+  genre: Canadian Technical Report ofFisheries and Aquatic Sciences
+  id: stoyel2022
+  issued: 2022
+  language: en-US
+  number: 3495
+  page: vi+27p.
+  title: An open, efficient, and transparent spatial reproducible
+    reporting tool for data discovery and science advice
+    /Fs97-6/3495E-PDF - Government of Canada Publications - Canada.ca
+  title-short: An open, efficient, and transparent spatial reproducible
+    reporting tool for data discovery and science advice / Quentin
+    Stoyel, Stephen Finnis, Catalina Gomez, Gordana Lazin, Rémi Daigle,
+    Lindsay Brager, Adrian Hamer, Charlotte Smith, David Beauchesne,
+    Kevin Cazelles, Sean Butler.
+  type: report
+  url: "https://publications.gc.ca/site/eng/9.912885/publication.html"
+---
+
