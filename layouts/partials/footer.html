@@ -1,7 +1,32 @@
 <footer class="footer">
-    <div class="content has-text-centered">
-      <p>
-        {{ .Site.Params.footer | safeHTML }}
-      </p>
+  <div class="columns is-desktop is-vcentered">
+    <div class="column is-3-desktop is-offset-2">
+      <div class="content">
+        <h3>inSileco Inc.</h3>
+        <h6>{{ .Site.Params.subtitle }}</h6>
+      </div>
     </div>
+    <div class="column is-2-desktop">
+
+      <div id="contact" class="content">
+        <h3>Contact</h3>
+        <p>
+          <ion-icon name="mail-outline"></ion-icon>
+          <a href="mailto:info@insileco.io?subject=Contact&amp;body=Dear%20inSileco%20Team%2C%20%0A%0A">
+            info@insileco.io
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="column is-3-desktop">
+      <div class="content has-text-centered">
+        <p>
+          {{ .Site.Params.footer | safeHTML }}
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+
 </footer>

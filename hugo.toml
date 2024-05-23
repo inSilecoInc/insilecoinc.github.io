@@ -13,13 +13,13 @@ custom_js = []
     weight = 1
     contentDir = "content/fr"
     [languages.fr.params]
-        subtitle = "Gestion écosystémique & Science des données"
+        subtitle = "Gestion écosystémique & Science des données en biodiversité"
         keywords = ["Solutions", "Accompagnement", "Formations"]
         title_expertise = "Notre expertise"
         subtitle_expertise = "Quand la science des données rencontre la gestion environnementale"
         title_team = "Notre équipe"
         subtitle_team = ""
-        footer = 'Le code source de ce site est sous licence <a href="http://opensource.org/licenses/mit-license.php">MIT</a> et disponible sur <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco Inc. 2024'
+        footer = 'Le code source de ce site est disponible sur <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a> sous licence <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.</br>&copy; inSileco Inc. 2024'
     [[languages.fr.menu.main]]
         name = "Mission"
         url = "#mission"
@@ -53,13 +53,13 @@ custom_js = []
     weight = 2
     contentDir = "content/en"
     [languages.en.params]
-        subtitle = "Environmental management & Data science"
+        subtitle = "Environmental management & Biodiversity Data science"
         keywords = ["Solutions", "Support", "Training"]
         title_expertise = "Our expertise"
         subtitle_expertise = "Where data science meets environmental management"
         title_team = "Our team"
         subtitle_team = ""
-        footer = 'The source code of this website is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a> and available on <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a>. &copy; inSileco Inc. 2024.'
+        footer = 'The source code of this website is available on <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a> licensed under <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.</br>&copy; inSileco Inc. 2024.'
     [[languages.en.menu.main]]
         name = "Mission"
         url = "#mission"
