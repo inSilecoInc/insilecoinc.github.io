@@ -62,3 +62,15 @@ body {
 .card .card-image .image img {
   height: 200px;
 }
+
+.pubs {
+    padding-bottom: 2rem;
+    padding-top: 0.25rem;
+}
+
+
+#team {
+    /* background-color: #fafafa; */
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
