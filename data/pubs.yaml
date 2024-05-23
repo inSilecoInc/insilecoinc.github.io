@@ -9,7 +9,7 @@ references:
   id: Cazelles_2023
   issn: 2397-334X
   issue: 2
-  issued: 2023-11
+  issued: 2023
   page: 184-185
   publisher: Springer Science; Business Media LLC
   title: Isolating interactions from co-occurrences
@@ -180,7 +180,7 @@ references:
     given: Joël
   doi: 10.21203/rs.3.rs-3026284/v1
   id: Saulnier_Talbot_2023
-  issued: 2023-08
+  issued: 2023
   publisher: Research Square Platform LLC
   title: State shifts and divergent sensitivities to climate warming
     across northern ecosystems
@@ -220,7 +220,7 @@ references:
   id: Gutgesell_2022
   issn: 1525-3244
   issue: 5
-  issued: 2022-02
+  issued: 2022
   page: 416-430
   publisher: Oxford University Press (OUP)
   title: On the dynamic nature of omnivory in a changing world
@@ -291,7 +291,7 @@ references:
   id: Galiana_2022
   issn: 2397-334X
   issue: 3
-  issued: 2022-01
+  issued: 2022
   page: 307-314
   publisher: Springer Science; Business Media LLC
   title: Ecological network complexity scales with area
@@ -322,7 +322,7 @@ references:
   id: Poisot_2021
   issn: 1365-2699
   issue: 7
-  issued: 2021-04
+  issued: 2021
   page: 1552-1563
   publisher: Wiley
   title: Global knowledge gaps in species interaction networks data
@@ -352,7 +352,7 @@ references:
     given: A.
   doi: 10.1101/2020.04.20.050302
   id: McCann_2020
-  issued: 2020-04
+  issued: 2020
   publisher: Cold Spring Harbor Laboratory
   title: Ecosystem entanglement and the propagation of nutrient-driven
     instability
@@ -387,7 +387,7 @@ references:
   id: McCann_2020
   issn: 1461-0248
   issue: 3
-  issued: 2020-11
+  issued: 2020
   page: 398-414
   publisher: Wiley
   title: Landscape modification and nutrient‐driven instability at a
@@ -413,7 +413,7 @@ references:
   id: Cazelles_2021
   issn: 2304-8158
   issue: 4
-  issued: 2021-03
+  issued: 2021
   page: 717
   publisher: MDPI AG
   title: "Spatial fingerprinting: Horizontal fusion of multi-dimensional
@@ -437,7 +437,7 @@ references:
   id: Blanchet_2020
   issn: 1461-0248
   issue: 7
-  issued: 2020-05
+  issued: 2020
   page: 1050-1063
   publisher: Wiley
   title: Co‐occurrence is not evidence of ecological interactions
@@ -460,7 +460,7 @@ references:
   id: Warne_2020
   issn: 1944-8007
   issue: 12
-  issued: 2020-06
+  issued: 2020
   publisher: American Geophysical Union (AGU)
   title: Geography and morphology affect the ice duration dynamics of
     northern hemisphere lakes worldwide
@@ -486,7 +486,7 @@ references:
   id: Solarik_2019
   issn: 1365-2745
   issue: 3
-  issued: 2019-11
+  issued: 2019
   page: 1155-1173
   publisher: Wiley
   title: Priority effects will impede range shifts of temperate tree
@@ -515,7 +515,7 @@ references:
     given: Steve
   doi: 10.1101/2020.01.27.921429
   id: Poisot_2020
-  issued: 2020-01
+  issued: 2020
   publisher: Cold Spring Harbor Laboratory
   title: Environmental biases in the study of ecological networks at the
     planetary scale
@@ -538,7 +538,7 @@ references:
   id: Brice_2019
   issn: 1466-8238
   issue: 11
-  issued: 2019-07
+  issued: 2019
   page: 1668-1681
   publisher: Wiley
   title: Disturbances amplify tree community responses to climate change
@@ -553,7 +553,7 @@ references:
     given: Steve
   doi: 10.59350/51nby-5v347
   id: Cazelles_2019
-  issued: 2019-10
+  issued: 2019
   publisher: Front Matter
   title: "Rmangal: Making ecological networks easily accessible"
   title-short: Rmangal
@@ -589,7 +589,7 @@ references:
   id: Cazelles_2019
   issn: 1365-2486
   issue: 12
-  issued: 2019-10
+  issued: 2019
   page: 4222-4233
   publisher: Wiley
   title: "Homogenization of freshwater lakes: Recent compositional
@@ -635,7 +635,7 @@ references:
   id: Albouy_2019
   issn: 2397-334X
   issue: 8
-  issued: 2019-07
+  issued: 2019
   page: 1153-1161
   publisher: Springer Science; Business Media LLC
   title: The marine fish food web is globally connected
@@ -651,7 +651,7 @@ references:
   doi: 10.24072/pci.ecology.100017
   id: Cazelles_2019
   issn: 2606-4979
-  issued: 2019-04
+  issued: 2019
   page: 100017
   publisher: Peer Community In
   title: Diversity-stability and the structure of perturbations
@@ -672,7 +672,7 @@ references:
     given: Kevin S.
   doi: 10.1101/572925
   id: Bartley_2019
-  issued: 2019-03
+  issued: 2019
   publisher: Cold Spring Harbor Laboratory
   title: Thermal preference influences depth use but not biomass of
     predatory fishes in response to lake morphometry
@@ -702,7 +702,7 @@ references:
   id: Bartley_2019
   issn: 2397-334X
   issue: 3
-  issued: 2019-02
+  issued: 2019
   page: 345-354
   publisher: Springer Science; Business Media LLC
   title: Food web rewiring in a changing world
@@ -718,7 +718,7 @@ references:
     given: Jonas
   doi: 10.59350/4q40p-bxr56
   id: Bartomeus_2018
-  issued: 2018-12
+  issued: 2018
   publisher: Front Matter
   title: Rcites - the story behind the package
   type: article-journal
@@ -741,7 +741,7 @@ references:
   id: Wheeler_2019
   issn: 1523-1739
   issue: 4
-  issued: 2019-01
+  issued: 2019
   page: 861-872
   publisher: Wiley
   title: Identifying key needs for the integration of social--ecological
@@ -761,7 +761,7 @@ references:
   id: Geschke_2018
   issn: 2475-9066
   issue: 31
-  issued: 2018-11
+  issued: 2018
   page: 1091
   publisher: The Open Journal
   title: "Rcites: An r package to access the CITES speciesplus database"
@@ -791,7 +791,7 @@ references:
   id: Galiana_2018
   issn: 2397-334X
   issue: 5
-  issued: 2018-04
+  issued: 2018
   page: 782-790
   publisher: Springer Science; Business Media LLC
   title: The spatial scaling of species interaction networks
@@ -838,7 +838,7 @@ references:
   id: MacDougall_2018
   issn: 2041-1723
   issue: 1
-  issued: 2018-03
+  issued: 2018
   publisher: Springer Science; Business Media LLC
   title: Context-dependent interactions and the regulation of species
     richness in freshwater fish
@@ -882,7 +882,7 @@ references:
   doi: 10.3389/fevo.2017.00175
   id: Legagneux_2018
   issn: 2296-701X
-  issued: 2018-01
+  issued: 2018
   publisher: Frontiers Media SA
   title: "Our house is burning: Discrepancy in climate change vs.
     Biodiversity coverage in the media as compared to scientific
@@ -909,7 +909,7 @@ references:
   id: Kopelke_2017
   issn: 1939-9170
   issue: 6
-  issued: 2017-05
+  issued: 2017
   page: 1730-1730
   publisher: Wiley
   title: Food‐web structure of willow‐galling sawflies and their natural
@@ -937,7 +937,7 @@ references:
   id: Massol_2017
   isbn: 9780128043387
   issn: 0065-2504
-  issued: 2017-03
+  issued: 2017
   page: 183-262
   publisher: Elsevier
   title: Island biogeography of food webs
@@ -957,7 +957,7 @@ references:
   id: Cazelles_2016
   issn: 1600-0587
   issue: 10
-  issued: 2016-01
+  issued: 2016
   page: 921-931
   publisher: Wiley
   title: On the integration of biotic interaction and environmental
@@ -986,7 +986,7 @@ references:
   id: Poisot_2015
   issn: 2041-210X
   issue: 3
-  issued: 2015-10
+  issued: 2015
   page: 303-312
   publisher: Wiley
   title: The structure of probabilistic networks
@@ -1032,7 +1032,7 @@ references:
   id: Le_Stradic_2015
   issn: 1442-9993
   issue: 5
-  issued: 2015-02
+  issued: 2015
   page: 537-546
   publisher: Wiley
   title: Diversity of germination strategies and seed dormancy in
@@ -1049,7 +1049,7 @@ references:
   doi: 10.1016/j.ijid.2014.03.873
   id: Cazelles_2014
   issn: 1201-9712
-  issued: 2014-04
+  issued: 2014
   page: 217
   publisher: Elsevier BV
   title: Major urban centers have weak influence on the timing of dengue
@@ -1061,7 +1061,7 @@ references:
   - family: Cazelles
     given: Bernard
   - family: Cazelles
-    given: Kévin
+    given: Kevin
   - family: Chavez
     given: Mario
   container: Journal of The Royal Society Interface
@@ -1069,7 +1069,7 @@ references:
   id: Cazelles_2014
   issn: 1742-5662
   issue: 91
-  issued: 2014-02
+  issued: 2014
   page: 20130585
   publisher: The Royal Society
   title: "Wavelet analysis in ecology and epidemiology: Impact of
@@ -1091,7 +1091,7 @@ references:
   doi: 10.1016/j.ecolmodel.2012.08.008
   id: Cazelles_2013
   issn: 0304-3800
-  issued: 2013-01
+  issued: 2013
   page: 165-173
   publisher: Elsevier BV
   title: "Soil fungal dynamics: Parameterisation and sensitivity
@@ -1144,7 +1144,7 @@ references:
   doi: 10.3389/frsen.2023.1135501
   id: Huot_2023
   issn: 2673-6187
-  issued: 2023-06
+  issued: 2023
   publisher: Frontiers Media SA
   title: Machine learning for underwater laser detection and
     differentiation of macroalgae and coral
@@ -1164,7 +1164,7 @@ references:
   doi: 10.3389/fmars.2021.720710
   id: Isabel_2021
   issn: 2296-7745
-  issued: 2021-10
+  issued: 2021
   publisher: Frontiers Media SA
   title: Detection of ecological thresholds and selection of indicator
     taxa for epibenthic communities exposed to multiple pressures
@@ -1190,7 +1190,7 @@ references:
   id: Beauchesne_2021
   issn: 1461-0248
   issue: 10
-  issued: 2021-07
+  issued: 2021
   page: 2219-2237
   publisher: Wiley
   title: On the sensitivity of food webs to multiple stressors
@@ -1222,7 +1222,7 @@ references:
   doi: 10.7717/peerj.9616
   id: Fajardo_2021
   issn: 2167-8359
-  issued: 2021-01
+  issued: 2021
   page: e9616
   publisher: PeerJ
   title: "Aichi target 18 beyond 2020: Mainstreaming traditional
@@ -1255,7 +1255,7 @@ references:
   doi: 10.7717/peerj.8171
   id: Dreujou_2020
   issn: 2167-8359
-  issued: 2020-02
+  issued: 2020
   page: e8171
   publisher: PeerJ
   title: "Holistic environmental approaches and aichi biodiversity
@@ -1308,7 +1308,7 @@ references:
   doi: 10.3389/fmars.2020.00383
   id: Beauchesne_2020
   issn: 2296-7745
-  issued: 2020-06
+  issued: 2020
   publisher: Frontiers Media SA
   title: Characterizing exposure to and sharing knowledge of drivers of
     environmental change in the st. Lawrence system in canada
@@ -1329,7 +1329,7 @@ references:
   id: Beauchesne_2016
   issn: 0028-0798
   issue: 2
-  issued: 2016-06
+  issued: 2016
   page: 45-55
   publisher: Consortium Erudit
   title: "L'évaluation des impacts cumulés dans l'estuaire et le golfe
@@ -1351,7 +1351,7 @@ references:
   doi: 10.1016/j.biocon.2014.03.002
   id: Beauchesne_2014
   issn: 0006-3207
-  issued: 2014-04
+  issued: 2014
   page: 190-199
   publisher: Elsevier BV
   title: "Thresholds in the capacity of boreal caribou to cope with
@@ -1376,7 +1376,7 @@ references:
   id: Beauchesne_2013
   issn: 1932-6203
   issue: 11
-  issued: 2013-11
+  issued: 2013
   page: e77514
   publisher: Public Library of Science (PLoS)
   title: Disentangling woodland caribou movements in response to
@@ -1398,7 +1398,7 @@ references:
   id: St_Laurent_2012
   issn: 0028-0798
   issue: 2
-  issued: 2012-05
+  issued: 2012
   page: 42-47
   publisher: Consortium Erudit
   title: Synthèse des connaissances relatives aux impacts des routes sur
@@ -1406,5 +1406,171 @@ references:
   type: article-journal
   url: "http://dx.doi.org/10.7202/1009105ar"
   volume: 136
+- author:
+  - family: Thuiller
+    given: Wilfried
+  - family: Münkemüller
+    given: Tamara
+  - family: Schiffers
+    given: Katja H
+  - family: Georges
+    given: Damien
+  - family: Dullinger
+    given: Stefan
+  - family: Eckhart
+    given: Vincent M
+  - family: Edwards Jr
+    given: Thomas C
+  - family: Gravel
+    given: Dominique
+  - family: Kunstler
+    given: Georges
+  - family: Merow
+    given: Cory
+  - literal: others
+  container: Ecography
+  id: thuiller2014does
+  issue: 12
+  issued: 2014
+  page: 1155-1166
+  publisher: Blackwell Publishing Ltd Oxford, UK
+  title: Does probability of occurrence relate to population dynamics?
+  type: article-journal
+  volume: 37
+- author:
+  - family: Marchese
+    given: Christian
+  - family: Albouy
+    given: Camille
+  - family: Tremblay
+    given: Jean-Éric
+  - family: Dumont
+    given: Dany
+  - family: D'Ortenzio
+    given: Fabrizio
+  - family: Vissault
+    given: Steve
+  - family: Bélanger
+    given: Simon
+  container: Polar Biology
+  id: marchese2017changes
+  issue: 9
+  issued: 2017
+  page: 1721-1737
+  publisher: Springer Berlin Heidelberg
+  title: "Changes in phytoplankton bloom phenology over the north water
+    (NOW) polynya: A response to changing environmental conditions"
+  title-short: Changes in phytoplankton bloom phenology over the north
+    water (NOW) polynya
+  type: article-journal
+  volume: 40
+- author:
+  - family: Talluto
+    given: Matthew V
+  - family: Boulangeat
+    given: Isabelle
+  - family: Vissault
+    given: Steve
+  - family: Thuiller
+    given: Wilfried
+  - family: Gravel
+    given: Dominique
+  container: Nature ecology & evolution
+  id: talluto2017extinction
+  issue: 7
+  issued: 2017
+  page: 0182
+  publisher: Nature Publishing Group UK London
+  title: Extinction debt and colonization credit delay range shifts of
+    eastern north american trees
+  type: article-journal
+  volume: 1
+- author:
+  - family: Becker-Scarpitta
+    given: Antoine
+  - family: Vissault
+    given: Steve
+  - family: Vellend
+    given: Mark
+  container: Global change biology
+  id: becker2019four
+  issue: 5
+  issued: 2019
+  page: 1629-1641
+  title: Four decades of plant community change along a continental
+    gradient of warming
+  type: article-journal
+  volume: 25
+- author:
+  - family: Brice
+    given: Marie-Hélène
+  - family: Vissault
+    given: Steve
+  - family: Vieira
+    given: Willian
+  - family: Gravel
+    given: Dominique
+  - family: Legendre
+    given: Pierre
+  - family: Fortin
+    given: Marie-Josée
+  container: Global Change Biology
+  id: brice2020moderate
+  issue: 8
+  issued: 2020
+  page: 4418-4435
+  title: Moderate disturbances accelerate forest transition dynamics
+    under climate change in the temperate--boreal ecotone of eastern
+    north america
+  type: article-journal
+  volume: 26
+- author:
+  - family: Beauchesne
+    given: David
+  - family: Daigle
+    given: Rémi M
+  - family: Vissault
+    given: Steve
+  - family: Gravel
+    given: Dominique
+  - family: Bastien
+    given: Andréane
+  - family: Bélanger
+    given: Simon
+  - family: Bernatchez
+    given: Pascal
+  - family: Blais
+    given: Marjolaine
+  - family: Bourdages
+    given: Hugo
+  - family: Chion
+    given: Clément
+  - literal: others
+  container: Frontiers in Marine Science
+  id: beauchesne2020characterizing
+  issued: 2020
+  page: 383
+  publisher: Frontiers Media SA
+  title: Characterizing exposure to and sharing knowledge of drivers of
+    environmental change in the st. Lawrence system in canada
+  type: article-journal
+  volume: 7
+- author:
+  - family: Vissault
+    given: Steve
+  - family: Talluto
+    given: Matthew V
+  - family: Boulangeat
+    given: Isabelle
+  - family: Gravel
+    given: Dominique
+  container: Journal of Biogeography
+  id: vissault2020slow
+  issue: 12
+  issued: 2020
+  page: 2645-2656
+  title: Slow demography and limited dispersal constrain the expansion
+    of north-eastern temperate forests under climate change
+  type: article-journal
+  volume: 47
 ---
-

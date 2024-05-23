@@ -25,7 +25,7 @@ custom_js = []
         url = "#mission"
         weight = 1
     [[languages.fr.menu.main]]
-        name = "Notre expertise"
+        name = "Expertise"
         url = "#expertise"
         weight = 2
     [[languages.fr.menu.main]]
@@ -38,7 +38,7 @@ custom_js = []
         weight = 4
     [[languages.fr.menu.main]]
         name = "Publications"
-        url = "/publications/"
+        url = "publications"
         weight = 5
     [[languages.fr.menu.main]]
         name = "Blogue"
@@ -65,7 +65,7 @@ custom_js = []
         url = "#mission"
         weight = 1
     [[languages.en.menu.main]]
-        name = "Our expertise"
+        name = "Expertise"
         url = "#expertise"
         weight = 2
     [[languages.en.menu.main]]
@@ -78,7 +78,7 @@ custom_js = []
         weight = 4
     [[languages.en.menu.main]]
         name = "Publications"
-        url = "/publications/"
+        url = "publications"
         weight = 5
     [[languages.en.menu.main]]
         name = "Blog"
