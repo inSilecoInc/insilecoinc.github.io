@@ -11,8 +11,9 @@
         {{ $let := .given | truncate 1 "." }}
         {{ if or (and (eq .family "Beauchesne") (eq $let $letd)) (and (eq .family "Cazelles") (eq $let $letk)) (and (eq
         .family "Vissault") (eq $let $lets)) }}
-        <b><span style="color: {{ $.Site.Params.col_emphase }};">
-              {{ .family }} {{ $let }}</span></b>{{ if eq $len2 $i }}.{{ else }},{{ end }}
+          <b><span style="color: {{ $.Site.Params.col_emphase }};">
+              {{ .family }} {{ $let }}
+          </span></b>{{ if eq $len2 $i }}.{{ else }},{{ end }}
         {{ else }}
           {{ .family }} {{ $let }}{{ if eq $len2 $i }}{{ else }},{{ end }}
         {{ end }}
@@ -22,7 +23,7 @@
         {{ if .container }}
           {{ .container }}
         {{ if .volume }}
-          <em>{{ .volume }}</em>{{ if .issue }} ({{ .issue }}).{{ end }}
+          <em>{{ .volume }}</em>{{ if .issue }} ({{ .issue }}){{ end }}.
         {{ end }}
         {{ end }}
         {{ if .doi }}<i class='ai ai-doi'></i> <a href="{{ .url }}">{{ .doi }}</a>{{ end }}
