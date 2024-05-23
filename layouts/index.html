@@ -1,11 +1,9 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 {{ partial "mission.html" . }}
-<div class="content mx-6">
-    {{ partial "expertise.html" . }}
-    {{ partial "team.html" . }}
-    {{ partial "approach.html" . }}
-</div>
+{{ partial "team.html" . }}
+{{ partial "expertise.html" . }}
+{{ partial "approach.html" . }}
 {{ end }}
 
 {{ define "footer" }}

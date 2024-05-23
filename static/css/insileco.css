@@ -68,13 +68,18 @@ body {
     padding-top: 0.25rem;
 }
 
+footer {
+    background-color: #f6f6f6 !important;
+}
 
-#team {
-    /* background-color: #fafafa; */
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+#expertise {
+    background-color: #f6f6f6;
 }
 
 .approach_img {
     margin: 0.5rem; 
+}
+
+.card-image img {
+    object-fit: contain;
 }

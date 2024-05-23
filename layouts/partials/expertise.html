@@ -5,75 +5,82 @@
 {{ end }}
 {{ $categories := (uniq $categories) }}
 
-<div id="expertise" class="columns is-multiline is-align-items-stretch">
-    <div class="column is-full has-text-centered content-text">
-        <h1>{{ .Site.Params.title_expertise }}</h1>
-        <p>{{ .Site.Params.subtitle_expertise }}</p>
-    </div>
+<div id="expertise">
+    <div class="columns is-flex-direction-row is-multiline is-align-items-stretch content m-6 py-6">
+        <div class="column is-full has-text-centered content-text">
+            <h1>{{ .Site.Params.title_expertise }}</h1>
+        </div>
+        <div class="column is-2-desktop"></div>
+        <div class="column is-6-full-hd is-8-desktop is-10-tablet is-mobile-12 px-2 content-text has-text-justified">
+            <p>{{ .Site.Params.subtitle_expertise }}</p>
+        </div>
+        <div class="column is-2-desktop"></div>
 
-    <div id="projects_checkboxes" class="column is-full has-text-centered content-text">
-        {{ range $categories }}
-        <label id="{{ . | lower }}" class="checkbox is-size-4 ml-4">
-            <input type="checkbox" checked name="{{ . | lower }}"
-                onchange="filterProjectCards(getProjectTagsChecked())" /> {{ . }}
-        </label>
-        {{ end }}
-    </div>
-    {{ range $data }}
-    {{ $card_class := delimit
-    (apply
-    (apply .categories "printf" "project_card_%s" ".")
-    "lower" "."
-    ) " "
-    }}
-    <div class="column is-one-quarter-fullhd is-one-third-desktop is-half-tablet is-full-mobile">
-        <div class="card project_card {{ $card_class }}">
-            <header class="card-header approach-box">
-                <p class="card-header-title has-text-white">
-                    {{ .name }}
-                </p>
-            </header>
-            <div class="card-content">
-                {{/* <div class="metadata_projects">
-                    <ion-icon name="calendar-number-outline"></ion-icon>
-                </div> */}}
-                <div class="columns">
-                    <div class="column">
-                        {{ range .categories }}
-                        <span class="tag is-warning is-medium">{{ . }}</span>
-                        {{ end }}
-                    </div>
-                    <div class="column">
-                        <div class="has-text-right">
-                            {{ with .gh }}
-                            <a href="https://github.com/{{ . }}" target="_blank" class="is-size-4"><ion-icon
-                                    name="logo-github"></ion-icon></a>&nbsp;
-                            {{ end }}
-                            {{ with .url }}
-                            <a href="{{ . }}" target="_blank" class="is-size-4"><ion-icon
-                                    name="globe-outline"></ion-icon></a>
+
+        <div id="projects_checkboxes" class="column is-full has-text-centered content-text">
+            {{ range $categories }}
+            <label id="{{ . | lower }}" class="checkbox is-size-4 ml-4">
+                <input type="checkbox" checked name="{{ . | lower }}"
+                    onchange="filterProjectCards(getProjectTagsChecked())" /> {{ . }}
+            </label>
+            {{ end }}
+        </div>
+        {{ range $data }}
+        {{ $card_class := delimit
+        (apply
+        (apply .categories "printf" "project_card_%s" ".")
+        "lower" "."
+        ) " "
+        }}
+        <div class="column is-one-quarter-fullhd is-one-third-desktop is-half-tablet is-full-mobile">
+            <div class="card project_card {{ $card_class }}">
+                <header class="card-header approach-box">
+                    <p class="card-header-title has-text-white">
+                        {{ .name }}
+                    </p>
+                </header>
+                <div class="card-content">
+                    {{/* <div class="metadata_projects">
+                        <ion-icon name="calendar-number-outline"></ion-icon>
+                    </div> */}}
+                    <div class="columns">
+                        <div class="column">
+                            {{ range .categories }}
+                            <span class="tag is-warning is-medium">{{ . }}</span>
                             {{ end }}
                         </div>
+                        <div class="column">
+                            <div class="has-text-right">
+                                {{ with .gh }}
+                                <a href="https://github.com/{{ . }}" target="_blank" class="is-size-4"><ion-icon
+                                        name="logo-github"></ion-icon></a>&nbsp;
+                                {{ end }}
+                                {{ with .url }}
+                                <a href="{{ . }}" target="_blank" class="is-size-4"><ion-icon
+                                        name="globe-outline"></ion-icon></a>
+                                {{ end }}
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="card-image mb-3">
-                    <figure class="image is-4by3">
-                        <img src={{ .pict |
-                            default "https://images.squarespace-cdn.com/content/v1/642b03cefb8ada280f4cdd20/1682615563196-HLX9587CP1AJEHIM4WBM/charlie-deets-QNwET9cMlJU-unsplash.jpg?format=2500w"
-                            }} alt="Placeholder image">
-                    </figure>
-                </div>
-                <div class="content has-text-justified">
-                    {{ with .description }}
-                    <ion-icon name="information-circle-outline"></ion-icon> {{ . }}
-                    {{ end }}
-                    <br>
-                    {{ range .tags }}
-                    <span class="tag is-primary">{{ . }}</span>
-                    {{ end }}
+                    <div class="card-image mb-3">
+                        <figure class="image is-4by3">
+                            <img src={{ .pict |
+                                default "https://images.squarespace-cdn.com/content/v1/642b03cefb8ada280f4cdd20/1682615563196-HLX9587CP1AJEHIM4WBM/charlie-deets-QNwET9cMlJU-unsplash.jpg?format=2500w"
+                                }} alt="Placeholder image">
+                        </figure>
+                    </div>
+                    <div class="content has-text-justified">
+                        {{ with .description }}
+                        <ion-icon name="information-circle-outline"></ion-icon> {{ . }}
+                        {{ end }}
+                        <br>
+                        {{ range .tags }}
+                        <span class="tag is-primary">{{ . }}</span>
+                        {{ end }}
+                    </div>
                 </div>
             </div>
         </div>
+        {{ end }}
     </div>
-    {{ end }}
 </div>
