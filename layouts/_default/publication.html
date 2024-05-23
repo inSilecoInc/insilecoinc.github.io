@@ -22,8 +22,11 @@
     </div>
 </div>
 
-<div class="content mx-auto" style="width: 70%;">
-    {{ .Content }}
+<div class="columns">
+    <div class="column is-8-desktop is-offset-2 p-2">
+        <div class="content">{{ .Content }}</div>
+    </div>
 </div>
+
 
 {{ end }}
