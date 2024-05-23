@@ -1,14 +1,14 @@
 <footer class="footer">
   <div class="columns is-desktop is-vcentered">
-    <div class="column is-3-desktop is-offset-2">
-      <div class="content">
+    <div class="column is-1"></div>
+    <div class="column is-3-desktop is-12-mobile">
+      <div class="content has-text-centered">
         <h3>inSileco Inc.</h3>
         <h6>{{ .Site.Params.subtitle }}</h6>
       </div>
     </div>
-    <div class="column is-2-desktop">
-
-      <div id="contact" class="content">
+    <div class="column is-3-desktop is-12-mobile">
+      <div id="contact" class="content has-text-centered">
         <h3>Contact</h3>
         <p>
           <ion-icon name="mail-outline"></ion-icon>
@@ -18,7 +18,7 @@
         </p>
       </div>
     </div>
-    <div class="column is-3-desktop">
+    <div class="column is-4-desktop is-12-mobile">
       <div class="content has-text-centered">
         <p>
           {{ .Site.Params.footer | safeHTML }}

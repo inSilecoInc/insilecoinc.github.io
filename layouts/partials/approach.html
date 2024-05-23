@@ -1,13 +1,15 @@
-<div id ="approach" class="columns is-multiline is-mobile is-vcentered is-narrow">
+<div id ="approach" class="columns is-multiline is-vcentered is-narrow">
     {{ $appr := index .Site.Data .Site.Language.Lang "home" "approach" }}
     {{ with $appr }}
     <div class="column is-full has-text-centered content-text">
-        <h2>{{ .title }}</h2>
+        <h1>{{ .title }}</h1>
     </div>
-    <div class="column is-3 is-offset-3">
-        <img style="float: right;" src="/img/digital-product-manager.svg"/> 
+    <div class="column is-4 is-mobile-6 is-offset-2">
+        <div class="approach_img">
+            <img src="/img/digital-product-manager.svg"/> 
+        </div>
     </div>
-    <div class="column is-3">
+    <div class="column is-4 is-mobile-6">
         <article class="message is-primary">
             <div class="message-header">
               <h5 class="has-text-white mb-0">{{ .step1.name }}</h5>
@@ -17,7 +19,7 @@
             </div>
           </article>
     </div>
-    <div class="column is-3 is-offset-3">
+    <div class="column is-4 is-mobile-6 is-offset-2">
         <article class="message is-primary">
             <div class="message-header">
               <h5 class="has-text-white mb-0">{{ .step2.name }}</h5>
@@ -27,13 +29,17 @@
             </div>
         </article>
     </div>
-    <div class="column is-3">
-        <img style="float: left;" src="/img/back-end-engineer.svg"/> 
+    <div class="column is-4 is-mobile-6">
+        <div class="approach_img">
+            <img src="/img/back-end-engineer.svg"/> 
+        </div>
     </div>
-    <div class="column is-3 is-offset-3">
-        <img style="float: right;" src="/img/digital-product-manager.svg"/> 
+    <div class="column is-4 is-mobile-6 is-offset-2">
+        <div class="approach_img">
+            <img src="/img/digital-product-manager.svg"/> 
+        </div>
     </div>
-    <div class="column is-3">
+    <div class="column is-4 is-mobile-6">
         <article class="message is-primary">
             <div class="message-header">
               <h5 class="has-text-white mb-0">{{ .step3.name }}</h5>
@@ -43,7 +49,7 @@
             </div>
         </article>
     </div>
-    <div class="column is-3 is-offset-3">
+    <div class="column is-4 is-mobile-6 is-offset-2">
         <article class="message is-primary">
             <div class="message-header">
               <h5 class="has-text-white mb-0">{{ .step4.name }}</h5>
@@ -53,8 +59,10 @@
             </div>
         </article>
     </div>
-    <div class="column is-3">
-        <img style="float: left;" src="/img/operations-engineer.svg"/> 
+    <div class="column is-4 is-mobile-6">
+        <div class="approach_img">
+            <img src="/img/operations-engineer.svg"/> 
+        </div>
     </div>
     {{ end }}
 </div>

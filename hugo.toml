@@ -37,17 +37,21 @@ custom_js = []
         url = "#approach"
         weight = 4
     [[languages.fr.menu.main]]
+        name = "Portfolio"
+        url = "portfolio"
+        weight = 5
+    [[languages.fr.menu.main]]
         name = "Publications"
         url = "publications"
-        weight = 5
+        weight = 6
     [[languages.fr.menu.main]]
         name = "Blogue"
         url = "https://blog.insileco.io"
-        weight = 6
+        weight = 7
     [[languages.fr.menu.main]]
         name = "Contactez-nous"
         url = "#contact"
-        weight = 7
+        weight = 8
   [languages.en]
     languageCode = "en-ca"
     weight = 2
@@ -77,17 +81,21 @@ custom_js = []
         url = "#approach"
         weight = 4
     [[languages.en.menu.main]]
+        name = "Portfolio"
+        url = "portfolio"
+        weight = 5
+    [[languages.en.menu.main]]
         name = "Publications"
         url = "publications"
-        weight = 5
+        weight = 6
     [[languages.en.menu.main]]
         name = "Blog"
         url = "https://blog.insileco.io"
-        weight = 6
+        weight = 7
     [[languages.en.menu.main]]
         name = "Contact us"
         url = "#contact"
-        weight = 7
+        weight = 8
 
 [params]
 col_emphase = "#b4637a"

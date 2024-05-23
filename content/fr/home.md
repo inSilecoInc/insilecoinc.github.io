@@ -1,3 +1,3 @@
 ---
-layouts: "/layouts/index.html"
+layout: "/layouts/index.html"
 ---
