@@ -9,7 +9,8 @@
 
 
 <div id="expertise">
-    <div class="columns is-multiline is-flex-direction-row is-align-items-stretch content m-6 py-6">
+    <div class="columns is-multiline is-flex-direction-eow is-align-items-stretch content m-6 py-6">
+
         <div class="column is-full has-text-centered content-text">
             <h1>{{ .Site.Params.title_expertise }}</h1>
         </div>
@@ -28,6 +29,8 @@
             </label>
             {{ end }}
         </div>
+
+
         {{ range sort $data "weight" }}
             {{ $card_class := delimit
             (apply
@@ -35,7 +38,7 @@
             "lower" "."
             ) " "
             }}
-            <div class="column  is-one-quarter-fullhd is-one-third-widescreen is-one-third-desktop is-half-touch is-half-tablet is-full-mobile">
+            <div class="column is-one-quarter-fullhd is-one-third-widescreen is-one-third-desktop is-half-touch is-half-tablet is-full-mobile">
                 <div class="card project_card {{ $card_class }}">
                     <header class="card-header approach-box">
                         <p class="card-header-title has-text-white">
@@ -46,11 +49,11 @@
                         <div class="columns">
                             <div class="column is-full">
                                 {{ range .categories }}
-                                    <span class="tag is-warning is-medium">{{ . }}</span>
+                                    <span class="tag is-warning is-medium mb-1">{{ . }}</span>
                                 {{ end }}
                             </div>
                         </div>
-                        <div class="card-image mb-3">
+                        <div class="card-image mb-4">
                             <figure class="image is-16by9">
                                 <img src={{ .pict |
                                     default "https://images.squarespace-cdn.com/content/v1/642b03cefb8ada280f4cdd20/1682615563196-HLX9587CP1AJEHIM4WBM/charlie-deets-QNwET9cMlJU-unsplash.jpg?format=2500w"
@@ -64,13 +67,16 @@
                             </ion-item>
                             {{ end }}
                             <br>
-                            {{ range .tags }}
-                            <span class="tag is-primary">{{ . }}</span>
-                            {{ end }}
+                            <div class = "mt-1">
+                                {{ range .tags }}
+                                <span class="tag is-primary mt-1 has-text-left">{{ . }}</span>
+                                {{ end }}
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         {{ end }}
+    
     </div>
 </div>

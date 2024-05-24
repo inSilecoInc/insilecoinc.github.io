@@ -16,7 +16,5 @@ instructors:
   - Kevin Cazelles
 location: remote
 description: | 
-  We provide expert services on frequentist and bayesian statistical methods to analyze data, estimate parameters, and make predictions for scientific research and data-driven decision-making
-url:
-gh: 
+  We provide expert services on frequentist and bayesian statistical methods to analyze data, estimate parameters, and make predictions for scientific research and data-driven decision-making.
 pict: /img/expertise/stats.svg

@@ -1,12 +1,13 @@
-name: Analyses et modélisation géospatiales
+name: Analyses géospatiales
 weight: 3
 client: ""
 categories:
   - Science-des-données
   - Environnement
 tags: 
-  - Rasters
-  - Vecteurs
+  - SIG
+  - Geocomputation
+  - Geostatitistiques
 date:
   - 2021-01-12
   - 2021-01-13
@@ -16,6 +17,4 @@ instructors:
 location: remote
 description: | 
   Nous fournissons du support pour l'analyse et la modélisation de données spatiales et offrons des conseils d'experts sur le traitement des données géospatiales, le développement de modèles prédictifs et la création de visualisations spatiales.
-url:
-gh: 
 pict: /img/expertise/geo-analysis.png

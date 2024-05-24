@@ -15,7 +15,5 @@ instructors:
   - Kevin Cazelles
 location: remote
 description: | 
-  Nous construisons ou vous assistons dans la création de flux de travail et de code standardisés et documentés pour gérer, analyser et modéliser vos données, et créons des outils de production de rapports interactifs pour promouvoir la transparence, la reproductibilité, la cohérence et la fiabilité de votre travail.
-url:
-gh: 
+  Nous construisons ou vous assistons dans la création de flux de travail et de codes standardisés et documentés pour gérer, analyser et modéliser vos données, et créons des outils de production de rapports interactifs pour promouvoir la transparence, la reproductibilité, la cohérence et la fiabilité de votre travail. 
 pict: /img/expertise/idea-pipeline.svg

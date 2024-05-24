@@ -1,12 +1,13 @@
-name: Geospatial analysis & modelling
+name: Geospatial analysis
 weight: 3
 client: ""
 categories:
   - Data-science
   - Environment
 tags: 
-  - Rasters
-  - Vectors
+  - GIS
+  - Geocomputation 
+  - Geostatitistics
 date:
   - 2021-01-12
   - 2021-01-13
@@ -15,7 +16,5 @@ instructors:
   - Kevin Cazelles
 location: remote
 description: | 
-  We provide support for spatial data analysis and modeling and offer expert guidance on processing geospatial data, developing predictive models, and creating visualizations.
-url:
-gh: 
+  We provide support for spatial data analysis, geostatistics and modeling and offer expert guidance on processing geospatial data, developing predictive models, and creating visualizations.
 pict: /img/expertise/geo-analysis.png

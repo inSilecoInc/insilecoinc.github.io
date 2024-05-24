@@ -16,6 +16,4 @@ instructors:
 location: remote
 description: | 
   We provide expert advice on data governance, scalable storage solutions, and efficient workflows to ensure the integrity, security, and accessibility of your data through standardized protocols. 
-url:
-gh: 
-pict: /img/expertise/database.svg
+pict: /img/expertise/database.png

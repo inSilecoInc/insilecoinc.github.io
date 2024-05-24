@@ -4,7 +4,7 @@ client: ""
 categories:
   - "Science-des-données"
 tags: 
-  - Tableaus de bord
+  - Tableaux de bord
   - R Shiny
   - Rapports dynamiques
 date:
@@ -15,7 +15,5 @@ instructors:
   - Kevin Cazelles
 location: remote
 description: | 
-  Nous concevons des applications Web personnalisées, des tableaux de bord interactifs et des rapports dynamiques intuitifs, conviviaux et offrant une visualisation et une exploration des données en temps réel, améliorant ainsi la prise de décision et l'intelligence économique des organisations.
-url:
-gh: 
+  Nous concevons des applications Web personnalisées, des tableaux de bord interactifs et des rapports dynamiques intuitifs, attrayants et offrant une visualisation et une exploration des données en temps réel, améliorant ainsi la prise de décision et l'intelligence économique des organisations.
 pict: /img/expertise/web-app.svg
