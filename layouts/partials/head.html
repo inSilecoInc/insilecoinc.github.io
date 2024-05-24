@@ -5,24 +5,30 @@
     <!-- load bulma css compiled with our customizations from scss -->
     {{ $cssOpts := (dict "includePaths" (slice "node_modules/bulma" "assets/scss")) }}
     {{ with $bulma := resources.Get "scss/main.scss" | toCSS $cssOpts }}
-        <style> {{ .Content | safeCSS }} </style>
+    <style>
+        {
+                {
+                .Content | safeCSS
+            }
+        }
+    </style>
     {{ end }}
 
     <link rel="stylesheet" href="/css/insileco.css">
 
-    {{/*  files in js/  */}}
+    {{/* files in js/ */}}
     {{ range os.ReadDir "/static/js" }}
-        {{ $path := printf "%s%s" "js/" .Name }}
-        <script defer language="javascript" type="text/javascript" 
-            src="{{ $path | urlize | relURL }}">
-        </script>
+    {{ $path := printf "%s%s" "js/" .Name }}
+    <script defer language="javascript" type="text/javascript" src="{{ $path | urlize | relURL }}">
+    </script>
     {{ end }}
 
 
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script data-goatcounter="https://insileco.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-    
+
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
