@@ -1,4 +1,5 @@
 name: Reproductibilité
+weight: 4
 client: ""
 categories:
   - Science-des-données
@@ -17,4 +18,4 @@ description: |
   Nous construisons ou vous assistons dans la création de flux de travail et de code standardisés et documentés pour gérer, analyser et modéliser vos données, et créons des outils de production de rapports interactifs pour promouvoir la transparence, la reproductibilité, la cohérence et la fiabilité de votre travail.
 url:
 gh: 
-pict: /img/portfolio/mapworld.jpg
+pict: /img/expertise/idea-pipeline.svg

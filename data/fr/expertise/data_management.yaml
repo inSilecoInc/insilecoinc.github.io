@@ -1,4 +1,5 @@
 name: Gestion de données
+weight: 9
 client: ""
 categories:
   - "Science-des-données"
@@ -17,4 +18,4 @@ description: |
   Nous fournissons des conseils d'experts sur la gouvernance des données, les solutions de stockage évolutives et les flux de travail efficaces pour garantir l'intégrité, la sécurité et l'accessibilité de vos données grâce à des protocoles standardisés.
 url:
 gh: 
-pict: /img/expertise/data_management.jpg
+pict: /img/expertise/database.svg

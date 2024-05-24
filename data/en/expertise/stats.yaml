@@ -1,4 +1,5 @@
 name: Statistical analyses
+weight: 2
 client: ""
 categories:
   - Data-science
@@ -18,4 +19,4 @@ description: |
   We provide expert services on frequentist and bayesian statistical methods to analyze data, estimate parameters, and make predictions for scientific research and data-driven decision-making
 url:
 gh: 
-pict: /img/expertise/stats.jpg
+pict: /img/expertise/stats.svg

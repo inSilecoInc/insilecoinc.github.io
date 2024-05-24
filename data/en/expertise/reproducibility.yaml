@@ -1,4 +1,5 @@
 name: Reproducibility
+weight: 4
 client: ""
 categories:
   - "Data-science"
@@ -17,4 +18,4 @@ description: |
   We build or assist you in building standardized, documented workflows and scripts to manage, analyze and model your data, and create interactive reporting tools to promote transparency, reproducibility, consistency and reliability in your work.
 url:
 gh: 
-pict: /img/portfolio/mapworld.jpg
+pict: /img/expertise/idea-pipeline.svg

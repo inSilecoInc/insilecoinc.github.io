@@ -1,4 +1,5 @@
 name: Ecosystem management
+weight: 8
 client: ""
 categories:
   - "Environment"
@@ -17,4 +18,4 @@ description: |
   Based on more than a decade of academic and professional experience, we provide expert advice and consulting services for ecosystem-based management, marine spatial planning, strategic conservation planning, environmental impact assessments and cumulative effects assessments.   
 url:
 gh: 
-pict: /img/expertise/ecosystem_management.png
+pict: /img/expertise/global-warming-data.svg

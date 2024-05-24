@@ -1,4 +1,5 @@
 name: Web application
+weight: 10
 client: ""
 categories:
   - "Data-science"
@@ -17,4 +18,4 @@ description: |
   We design custom web applications, interactive dashboards, and dynamic reports that are intuitive, user-friendly and offer real-time data visualization and exploration, enhancing decision-making and business intelligence for organizations.
 url:
 gh: 
-pict: /img/expertise/application.png
+pict: /img/expertise/web-app.svg

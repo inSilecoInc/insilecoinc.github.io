@@ -1,4 +1,5 @@
 name: Analyses et modélisation géospatiales
+weight: 3
 client: ""
 categories:
   - Science-des-données
@@ -17,4 +18,4 @@ description: |
   Nous fournissons du support pour l'analyse et la modélisation de données spatiales et offrons des conseils d'experts sur le traitement des données géospatiales, le développement de modèles prédictifs et la création de visualisations spatiales.
 url:
 gh: 
-pict: /img/portfolio/mapworld.jpg
+pict: /img/expertise/geo-analysis.png

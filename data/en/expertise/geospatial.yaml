@@ -1,4 +1,5 @@
 name: Geospatial analysis & modelling
+weight: 3
 client: ""
 categories:
   - Data-science
@@ -17,4 +18,4 @@ description: |
   We provide support for spatial data analysis and modeling and offer expert guidance on processing geospatial data, developing predictive models, and creating visualizations.
 url:
 gh: 
-pict: /img/portfolio/mapworld.jpg
+pict: /img/expertise/geo-analysis.png
