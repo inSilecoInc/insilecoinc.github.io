@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<div class="columns">
+    <div class="column is-8-desktop is-offset-2 p-2">
+        <div class="content">{{ .Content }}</div>
+    </div>
+</div>
+
+
+{{ partial "portfolio.html" . }}
+{{ end }}
