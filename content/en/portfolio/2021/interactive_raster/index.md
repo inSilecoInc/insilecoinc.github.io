@@ -1,20 +1,24 @@
-name: Interactive raster visualization with R
+---
+title: Interactive raster visualization with R
 client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-categories:
+categories: 
   - Workshop
 tags: 
-  - R 
+  - R
   - geocomputation
   - visualization
-date:
-  - 2021-01-12
-  - 2021-01-13
+date: 2021-01-12
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: remote
+location: Remote
 description: | 
   During this workshop, we showed the power of R tools to efficiently manipulate and visualize raster files.
-url: https://insileco.io/interactiveRaster/#1
-gh: https://github.com/inSilecoInc/interactiveRaster
-pict: /img/portfolio/mapworld.jpg
+gh: inSilecoInc/interactiveRaster
+ws: https://insileco.io/interactiveRaster/#1
+---
+
+
+## More details to come
+
+

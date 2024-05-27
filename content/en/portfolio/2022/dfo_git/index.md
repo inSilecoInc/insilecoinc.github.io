@@ -1,18 +1,23 @@
-name: Teamwork with git & GitHub
+---
+title: Teamwork with git & GitHub
 client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-categories:
+categories: 
   - Workshop
 tags: 
-  - git 
-  - GitHub
-date:
-  - 18-02-2022
+  - R
+  - géocomputation
+  - visualisation
+date: 2022-02-18
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: remote
+location: Remote
 description: | 
   During this workshop, we showed how to collaborate concretely and efficiently on projects with git and GitHub.
-url: https://insileco.io/learning_git/#1
 gh: inSilecoInc/learning_git
-pict: /img/portfolio/gitflow.png
+ws: https://insileco.io/learning_git/#1
+---
+
+
+## More details to come
+

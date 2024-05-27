@@ -1,10 +1,23 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
-<div class="content mx-6">
-    {{ .Content }}
-</div>
-{{ end }}
 
-{{ define "footer" }}
-    {{ partial "footer.html" . }}
+<div class="columns">
+    <div class="column is-8-desktop is-offset-2 p-2">
+
+        <div class="columns">
+            
+            <div class="column is-8 is-offset-2 p-6">
+                <figure class="image is-3by2">
+                    <img src="{{ .Permalink }}/img/cover.png" alt="Placeholder image">
+                </figure>
+            </div>
+        </div>
+
+        <div class="content">
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
 {{ end }}

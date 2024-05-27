@@ -1,0 +1,95 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<div class="columns">
+
+  <div class="column is-8-desktop is-offset-2 p-4">
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <div class="post_cards my-6">
+      <div class="columns is-multiline">
+
+        {{ range sort (where .Data.Pages "Section" "!=" "") ".Params.date" "desc"}}
+        <div class="column is-full">
+          <div class="card card_portfolio">
+
+            <header class="card-header approach-box">
+              <p class="card-header-title has-text-white">
+                {{ upper .Title }}
+                <span class="content has-text-right has-text-white p-2">
+                  <a href="{{ .Permalink }}">
+                    <ion-icon name="arrow-redo-outline" size="large"></ion-icon>
+                  </a>
+                </span>
+              </p>
+              <div class="content has-text-right has-text-white p-2">
+                {{ with .Params.date }}
+                <span class="date">
+                  {{ .Format "January 2, 2006" }}
+                </span>
+                {{ end }}
+                <br>
+                {{ with .Params.gh }}
+                <a href="https://github.com/{{ . }}">
+                  <ion-icon name="logo-github" size="large"></ion-icon>
+                </a>
+                {{ end }}
+                {{ with .Params.ws }}
+                <a href="{{ . }}">
+                  <ion-icon name="globe-outline" size="large"></ion-icon>
+                </a>
+                {{ end }}
+              </div>
+            </header>
+
+            <div class="card-content">
+              <div class="columns is-desktop">
+                <div class="column is-5">
+                  <figure class="image is-3by2">
+                    <img src="{{ .Permalink }}/img/cover.png" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="column is-7">
+                  <div class="content">
+                    {{ range .Params.categories }}
+                    <span class="tag is-warning is-medium my-2">{{ . }}</span>
+                    {{ end }}
+                    <br>
+                    {{ range .Params.tags }}
+                    <span class="tag is-primary has-text-left">
+                      {{ . }}
+                    </span>
+                    {{ end }}
+                  </div>
+                  <div class="content has-text-justified">
+                    <p>
+                      <ion-icon name="information-circle-outline"></ion-icon> {{ .Params.description }}
+                      <br>
+                      <ion-icon name="people-circle-outline"></ion-icon>
+                      {{ .Params.client }}
+                      <br>
+                      {{ with .Params.location }}
+                      <ion-icon name="location-outline"></ion-icon>{{ . }}
+                      {{ end }}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+
+        {{ end }}
+
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+
+{{ end }}

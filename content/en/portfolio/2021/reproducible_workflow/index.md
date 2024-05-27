@@ -1,21 +1,23 @@
-name: Reproducible Workflows
+---
+title: Reproducible Workflows
 client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
-categories:
+categories: 
   - Workshop
 tags: 
   - R 
   - R Markdown
   - reproducibility
-date:
-  - 2021-03-01
-  - 2021-03-02
+date: 2021-03-01
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: remote
+location: Remote
 description: | 
   During this workshop, we discussed issues related to reproducibility
   and we showed how to organize your work process with R.
-url: https://insilecoinc.github.io/workshop_reproducibility/ 
-gh: inSilecoInc/wksh_raster_CWS
-pict: 
+gh: inSilecoInc/workshop_reproducibility
+ws: https://insilecoinc.github.io/workshop_reproducibility/ 
+---
+
+
+## More details to come

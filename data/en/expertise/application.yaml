@@ -7,13 +7,6 @@ tags:
   - Dashboards
   - R Shiny
   - Dynamic reporting
-date:
-  - 2021-01-12
-  - 2021-01-13
-instructors:
-  - David Beauchesne
-  - Kevin Cazelles
-location: remote
 description: | 
   We design custom web applications, interactive dashboards, and dynamic reports that are intuitive, user-friendly and offer real-time data visualization and exploration, enhancing decision-making and business intelligence for organizations. 
 pict: /img/expertise/web-app.svg
