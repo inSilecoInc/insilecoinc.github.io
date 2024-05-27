@@ -42,7 +42,7 @@ custom_js = []
         weight = 4
     [[languages.fr.menu.main]]
         name = "Portfolio"
-        url = "portfolio"
+        url = "/portfolio/"
         weight = 5
     [[languages.fr.menu.main]]
         name = "Publications"
@@ -90,7 +90,7 @@ custom_js = []
         weight = 4
     [[languages.en.menu.main]]
         name = "Portfolio"
-        url = "portfolio"
+        url = "/portfolio/"
         weight = 5
     [[languages.en.menu.main]]
         name = "Publications"
