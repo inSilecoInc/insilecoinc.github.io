@@ -14,9 +14,11 @@ instructors:
 location: Remote
 description: | 
   During this workshop, we showed the power of R tools to efficiently manipulate and visualize raster files.
+gh: inSilecoInc/interactiveRaster
+ws: https://insileco.io/interactiveRaster/#1
 ---
 
 
-# More details to come
+## More details to come
 
 

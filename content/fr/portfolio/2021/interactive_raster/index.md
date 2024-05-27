@@ -14,9 +14,10 @@ instructors:
 location: À distance
 description: | 
   Lors de cet atelier, nous avons montré la puissance des outils R pour manipuler et visualiser efficacement les fichiers de type raster.
+gh: inSilecoInc/interactiveRaster
+ws: https://insileco.io/interactiveRaster/#1
 ---
 
 
-# Plus de détails à venir
-
+## Plus de détails à venir
 

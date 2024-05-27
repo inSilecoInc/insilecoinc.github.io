@@ -21,6 +21,10 @@ custom_js = []
         subtitle_team = ""
         footer = 'Le code source de ce site est disponible sur <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a> sous licence <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.</br>&copy; inSileco Inc. 2024'
     [[languages.fr.menu.main]]
+        name = "Acceuil"
+        url = "/"
+        weight = 1
+    [[languages.fr.menu.main]]
         name = "Mission"
         url = "#mission"
         weight = 1
@@ -64,6 +68,10 @@ custom_js = []
         title_team = "Our team"
         subtitle_team = ""
         footer = 'The source code of this website is available on <a href="https://github.com/inSilecoInc/insilecoinc.github.io">GitHub</a> licensed under <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.</br>&copy; inSileco Inc. 2024.'
+    [[languages.en.menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
     [[languages.en.menu.main]]
         name = "Mission"
         url = "#mission"
