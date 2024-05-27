@@ -8,13 +8,6 @@ tags:
   - GIS
   - Geocomputation 
   - Geostatitistics
-date:
-  - 2021-01-12
-  - 2021-01-13
-instructors:
-  - David Beauchesne
-  - Kevin Cazelles
-location: remote
 description: | 
   We provide support for spatial data analysis, geostatistics and modeling and offer expert guidance on processing geospatial data, developing predictive models, and creating visualizations.
 pict: /img/expertise/geo-analysis.png

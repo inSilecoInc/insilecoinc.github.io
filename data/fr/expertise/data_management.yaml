@@ -7,13 +7,6 @@ tags:
   - Données
   - Stockage
   - Meilleures pratiques
-date:
-  - 2021-01-12
-  - 2021-01-13
-instructors:
-  - David Beauchesne
-  - Kevin Cazelles
-location: remote
 description: | 
   Nous fournissons des conseils d'experts sur la gouvernance des données, les solutions de stockage évolutives et les flux de travail efficaces pour garantir l'intégrité, la sécurité et l'accessibilité de vos données grâce à des protocoles standardisés.
 pict: /img/expertise/database.png

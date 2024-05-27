@@ -6,14 +6,7 @@ categories:
 tags: 
   - Test d'hypothèse
   - Probabilités
-  - Bayes
-date:
-  - 2021-01-12
-  - 2021-01-13
-instructors:
-  - David Beauchesne
-  - Kevin Cazelles
-location: remote
+  - Bayesien
 description: | 
   Nous fournissons des services d'experts sur les méthodes statistiques fréquentistes et bayésiennes pour analyser les données, estimer les paramètres et faire des prédictions pour la recherche scientifique et la prise de décision basée sur les données.
 pict: /img/expertise/stats.svg
