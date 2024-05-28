@@ -2,7 +2,7 @@
 title: Augmenter votre collaborativité avec git et GitHub
 client: "Canadian Wildlife Service, Environment and Climate Change Canada"
 categories: 
-  - Workshop
+  - Atelier
 tags: 
   - R
   - géocomputation

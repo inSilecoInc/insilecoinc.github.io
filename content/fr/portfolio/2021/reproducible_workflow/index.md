@@ -2,7 +2,7 @@
 title: Rendre vos processus de travail reproductibles
 client: Bedford Institute of Oceanography, Fisheries and Oceans Canada
 categories: 
-  - Workshop
+  - Atelier
 tags: 
   - R 
   - R Markdown

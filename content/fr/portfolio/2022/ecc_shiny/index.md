@@ -2,7 +2,7 @@
 title: Déveloper des applications Shiny
 client: "Canadian Wildlife Service, Environment and Climate Change Canada"
 categories: 
-  - Workshop
+  - Atelier
 tags: 
   - R 
   - Shiny App
@@ -12,7 +12,7 @@ instructors:
   - Kevin Cazelles
 location: À distance
 description: | 
-  Lors de cette atelier nous avons montré comment construire des applications.
+  Lors de cet atelier nous avons montré comment construire des applications
   web Shiny.
 gh: inSilecoInc/cws-shiny-workshop
 ws: https://insileco.io/cws-shiny-workshop/#1
