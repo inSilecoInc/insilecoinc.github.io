@@ -6,7 +6,7 @@ categories:
 tags: 
   - R 
   - R Markdown
-  - reproducibility
+  - Reproducibility
 date: 2021-03-01
 instructors:
   - David Beauchesne

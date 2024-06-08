@@ -4,9 +4,9 @@ categories:
   - Shiny application
 tags: 
   - R
-  - geocomputation
-  - visualisation
-  - environmental drivers
+  - Geocomputation
+  - Visualisation
+  - Environmental drivers
   - St. Lawrence
 date: 2020-06-24
 instructors:
