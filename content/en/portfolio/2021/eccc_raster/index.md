@@ -5,8 +5,8 @@ categories:
   - Workshop
 tags: 
   - R
-  - géocomputation
-  - visualisation
+  - Géocomputation
+  - Visualisation
 date: 2021-03-23
 instructors:
   - David Beauchesne

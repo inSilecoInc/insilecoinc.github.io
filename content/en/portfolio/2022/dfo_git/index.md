@@ -5,8 +5,9 @@ categories:
   - Workshop
 tags: 
   - R
-  - géocomputation
-  - visualisation
+  - Git
+  - GitHub
+  - Code management
 date: 2022-02-18
 instructors:
   - David Beauchesne

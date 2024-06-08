@@ -5,8 +5,8 @@ categories:
   - Atelier
 tags: 
   - R
-  - géocomputation
-  - visualisation
+  - Géocomputation
+  - Visualisation
 date: 2021-01-12
 instructors:
   - David Beauchesne
