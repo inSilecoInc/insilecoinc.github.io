@@ -97,10 +97,10 @@ input[type="checkbox"] {
     height: 1.25rem;
 }
 
-.post_cards a {
+.card-header a {
     color: #ffe08a;
 } 
 
-.post_cards a:hover {
+.card-header a:hover {
     color: white;
 }

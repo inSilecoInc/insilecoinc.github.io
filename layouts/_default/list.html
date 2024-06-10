@@ -65,7 +65,7 @@
                   </div>
                   <div class="content has-text-justified">
                     <p>
-                      <ion-icon name="information-circle-outline"></ion-icon> {{ .Params.description }}
+                      <ion-icon name="information-circle-outline"></ion-icon> {{ .Params.description | markdownify }}
                       <br>
                       {{ with .Params.client }}
                       <span title="Client">
