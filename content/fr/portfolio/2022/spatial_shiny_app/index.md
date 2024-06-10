@@ -1,11 +1,11 @@
 ---
-title: Shiny App for spatial reproducible reporting
+title: Application Shiny pour la production de rapports reproductibles
 client: "Pêches et Océans Canada"
 categories: 
   - Application Shiny
 tags: 
   - Géocomputation
-  - Reporting
+  - Production de rapports
   - GitHub
 date: 2022-03-01
 instructors:
