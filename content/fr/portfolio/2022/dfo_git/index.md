@@ -5,8 +5,8 @@ categories:
   - Atelier
 tags: 
   - R
-  - géocomputation
-  - visualisation
+  - Git
+  - GitHub
 date: 2022-02-18
 instructors:
   - David Beauchesne
