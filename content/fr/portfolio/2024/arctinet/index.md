@@ -14,7 +14,7 @@ instructors:
 description: | 
   Le programme de recherche [ArcticNet](https://arcticnet.ca/) est un réseau canadien de plus de 230 chercheurs étudiant la santé humaine, les sciences naturelles et les sciences sociales de l'Arctique. Nous avons aidé les chercheurs principaux à adopter les meilleures pratiques en matière de gestion des données en examinant la gestion de leurs plans de données à la lumière des principes [FAIR](https://www.go-fair.org/fair-principles/).
 gh: 
-ws: 
+ws: https://arcticnet.ca/
 ---
 
 
