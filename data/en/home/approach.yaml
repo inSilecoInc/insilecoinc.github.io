@@ -3,21 +3,21 @@ title: "Our approach"
 step1: 
   name: First contact
   description: | 
-    Do you require consulting or training services?
-    Write to us at <a href="mailto:info@insileco.io">info@insileco.io</a>.
+     Whether you need support in data science, environmental analytics, or tailored solutions for your projects, inSileco is here to help. Get in touch with us at <a href="mailto:info@insileco.io">info@insileco.io</a> to discuss your requirements, and let us assist you in achieving your goals.
+
     
 step2: 
-  name: Step 2
+  name: "Step 2: initial meeting"
   description: | 
-    We offer you 30 minutes to discuss in order to fully understand your needs.
+    We offer you an initial meeting with no commitment to discuss your goals, challenges, and expectations. This conversation allows us to fully understand your needs and propose tailored solutions for your project.
     
 step3: 
-  name: Step 3
+  name: "Step 3: proposal for a structured action plan"
   description: | 
-    We analyze and offer a solution adapted to meet your needs.
+    At this stage, we swiftly evaluate the concrete steps we will take to outline a clear and actionable roadmap. We collaborate closely with you to ensure that our proposal is precisely tailored to your needs and delivered in a timely manner.
     
 step4: 
-  name: Step 4
+  name: "Step 4: implementation and quality assurance"
   description: | 
-    We work together to address or help you build the capacity required to meet needs.
+    This is where the core work takes place, ensuring that each step is executed with precision and efficiency. Through regular meetings and continuous feedback, we maintain the highest quality standards, refining our approach as needed to align with your expectations and deliver optimal results.
 

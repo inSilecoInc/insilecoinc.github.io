@@ -10,15 +10,15 @@
             <figure class="image is-inline-block">
                 <img class="is-rounded img-member" style="max-height:13rem" src="{{ .picture }}"/>
             </figure>
-            <h6 class="my-0">{{ .name.given }} {{ .name.family }}, {{ .title }}</h6>
-            <p class="is-size-6 mb-0">{{ .role }}</p>
-            <p class="is-size-6">
+            <h6 class="my-0 is-size-4">{{ .name.given }} {{ .name.family }}, {{ .title }}</h6>
+            <p class="is-size-5 mb-0">{{ .role }}</p>
+            <p class="is-size-4 mb-2">
                 {{with .social }}
                     {{ if .mail }}
                         <a href="mailto:{{ .mail }}" target="_blank"><ion-icon name="mail-outline"></ion-icon></a>
                     {{ end }}
                     {{ if .website }}
-                        <a href="{{ .website }}" target="_blank"><ion-icon name="globe-outline"></ion-icon></a>
+                        <a href="{{ .website }}" target="_blank"><ion-icon name="globe-outline" size=""></ion-icon></a>
                     {{ end }}
                     {{ if .github }}
                         <a href="https://github.com/{{ .github }}" target="_blank"><ion-icon name="logo-github"></ion-icon></a>
