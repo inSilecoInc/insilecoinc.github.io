@@ -6,7 +6,7 @@ tags:
   - Effets cumulatifs
   - Stresseurs environnementaux
   - Réseaux trophiques
-date: 2025-01-24
+date: 2024-04-18
 instructors:
   - David Beauchesne
 description: | 
