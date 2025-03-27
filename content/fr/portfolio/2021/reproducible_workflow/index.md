@@ -11,7 +11,6 @@ date: 2021-03-01
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: À distance
 description: | 
   Lors de cet atelier, nous avons discuté des enjeux liés à la reproductibilité et nous avons montré comment organiser son processus de travail avec R.
 gh: inSilecoInc/workshop_reproducibility

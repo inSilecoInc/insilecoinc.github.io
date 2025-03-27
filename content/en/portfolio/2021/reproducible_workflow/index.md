@@ -11,7 +11,6 @@ date: 2021-03-01
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: Remote
 description: | 
   During this workshop, we discussed issues related to reproducibility
   and we showed how to organize your work process with R.

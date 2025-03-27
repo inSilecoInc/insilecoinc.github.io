@@ -11,7 +11,6 @@ date: 2021-01-12
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: Remote
 description: | 
   During this workshop, we showed the power of R tools to efficiently manipulate and visualize raster files.
 gh: inSilecoInc/interactiveRaster

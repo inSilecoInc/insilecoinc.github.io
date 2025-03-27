@@ -10,7 +10,6 @@ date: 2022-11-24
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: Remote
 description: | 
   During this workshop we showed how to build Shiny web applications.
 gh: inSilecoInc/cws-shiny-workshop

@@ -5,13 +5,12 @@ categories:
   - Workshop
 tags: 
   - R
-  - Géocomputation
+  - Geocomputation
   - Visualisation
 date: 2021-03-23
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: Remote
 description: | 
   During this workshop, we showed, using concrete examples, how to manipulate and visualize spatial data with R.
 gh: inSilecoInc/wksh_raster_CWS

@@ -33,12 +33,12 @@
                 <div class="p-2">
                   {{ with .Params.gh }}
                   <a href="https://github.com/{{ . }}">
-                    <i class="fa-brands fa-github fa-2xl"></i>
+                    <i class="fa-brands fa-github fa-xl"></i>
                   </a>
                   {{ end }}
                   {{ with .Params.ws }}
                   <a href="{{ . }}">
-                    <i class="fa-solid fa-globe fa-2xl"></i>
+                    <i class="fa-solid fa-globe fa-xl"></i>
                   </a>
                   {{ end }}
                 </div>
@@ -54,31 +54,35 @@
                 </div>
                 <div class="column is-7">
                   <div class="content">
+                    <div class="mb-1">
                     {{ range .Params.categories }}
-                    <span class="tag is-warning is-medium my-2">{{ . }}</span>
+                      <span class="tag is-warning is-medium my-2">{{ . }}</span>
                     {{ end }}
-                    <br>
+                    </div>
+                    <div class="mb-1">
                     {{ range .Params.tags }}
                     <span class="tag is-primary has-text-left mx-1">
                       {{ . }}
                     </span>
                     {{ end }}
+                    </div>
                   </div>
                   <div class="content has-text-justified">
-                    <p>
+                    <div class="mb-2">
                       <i class="fa-solid fa-circle-info"></i> {{ .Params.description | markdownify }}
-                      <br>
+                    </div>
+                    <div class="mb-2" title="Client">
                       {{ with .Params.client }}
-                      <span title="Client">
                         <i class="fa-solid fa-circle-user"></i>
-                        {{ . }}
-                      </span>
+                      {{ . }}
                       {{ end }}
+                    </div>
+                    <div class="mb-2">
                       <br>
                       {{ with .Params.location }}
-                      <i class="fa-solid fa-location-dot"></i>{{ . }}
+                        <i class="fa-solid fa-location-dot"></i>{{ . }}
                       {{ end }}
-                    </p>
+                    </div>
                   </div>
                 </div>
               </div>

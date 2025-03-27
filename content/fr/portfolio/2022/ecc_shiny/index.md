@@ -10,7 +10,6 @@ date: 2022-11-24
 instructors:
   - David Beauchesne
   - Kevin Cazelles
-location: À distance
 description: | 
   Lors de cet atelier nous avons montré comment construire des applications
   web Shiny.
