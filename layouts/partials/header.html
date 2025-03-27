@@ -10,8 +10,8 @@
                 {{ range $index, $element := .Site.Params.keywords }}
                     <span>{{ $element }}</span>
                     {{ if ne (add $index 1) $len }}
-                        <span class="icon icon-seperator-inline">
-                            <ion-icon class="icon-seperator-inline" name="ellipse"></ion-icon>
+                        <span class="mx-3">
+                            <i class="fa-solid fa-circle fa-2xs"></i>
                         </span>
                     {{ end }}
                 {{ end }}
