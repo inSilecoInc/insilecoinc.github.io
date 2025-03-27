@@ -1,6 +1,6 @@
 ---
 title: Shiny App for the Fisheries Management Support System (FMSS)
-client: Ministère des ressources naturelles (Ontario)
+client: "Ministry of Natural Resources (Ontario)"
 categories: 
   - Shiny App
 tags: 

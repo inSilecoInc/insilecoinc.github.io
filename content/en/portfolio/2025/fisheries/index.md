@@ -1,5 +1,6 @@
 ---
 title: Mapping Commercial Fishing Pressure in Eastern Canada from Logbook Data (2000–2020)
+client: "Canadian Wildlife Service, Environment and Climate Change Canada"
 categories: 
   - "Cumulative effects assessment"
 tags: 

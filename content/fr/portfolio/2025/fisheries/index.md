@@ -1,5 +1,6 @@
 ---
 title: Cartographie de la pression exercée par la pêche commerciale à partir de journaux de bord (2000–2020)
+client: Canadian Wildlife Service, Environment and Climate Change Canada
 categories: 
   - "Évaluation des effets cumulatifs"
 tags: 

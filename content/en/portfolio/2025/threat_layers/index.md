@@ -1,5 +1,6 @@
 ---
 title: Mapping anthropogenic oil spills and offshore industrial activities in the northwest Atlantic to inform marine conservation and management
+client: "Canadian Wildlife Service, Environment and Climate Change Canada"
 categories: 
   - "Cumulative effects assessment"
 tags: 

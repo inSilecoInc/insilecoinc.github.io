@@ -1,5 +1,6 @@
 ---
 title: Cartographier les déversements pétroliers anthropiques et les activités industrielles en mer dans le nord-ouest de l’Atlantique pour éclairer la conservation et la gestion marines
+client: Canadian Wildlife Service, Environment and Climate Change Canada
 categories: 
   - "Évaluation des effets cumulatifs"
 tags: 

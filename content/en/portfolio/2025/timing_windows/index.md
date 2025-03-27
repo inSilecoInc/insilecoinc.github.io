@@ -1,5 +1,6 @@
 ---
 title: The Timing Windows project - A risk-based tool for protecting freshwater fish during critical life stages
+client: "University of Guelph & Fisheries and Oceans Canada"
 categories: 
   - "Shiny App"
 tags: 
