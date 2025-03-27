@@ -18,11 +18,11 @@
             <header class="card-header approach-box">
               <p class="card-header-title has-text-white">
                 {{ upper .Title }}
-                {{/*  <span class="content has-text-right has-text-white p-2">
+                {{/* <span class="content has-text-right has-text-white p-2">
                   <a href="{{ .Permalink }}">
-                    <ion-icon name="arrow-redo-outline" size="large"></ion-icon>
+                    <i class="fa-solid fa-arrow-right"></i>
                   </a>
-                </span>  */}}
+                </span> */}}
               </p>
               <div class="content has-text-right has-text-white p-2">
                 {{ with .Params.date }}
@@ -30,17 +30,18 @@
                   {{ .Format "January 2, 2006" }}
                 </span>
                 {{ end }}
-                <br>
-                {{ with .Params.gh }}
-                <a href="https://github.com/{{ . }}">
-                  <ion-icon name="logo-github" size="large"></ion-icon>
-                </a>
-                {{ end }}
-                {{ with .Params.ws }}
-                <a href="{{ . }}">
-                  <ion-icon name="globe-outline" size="large"></ion-icon>
-                </a>
-                {{ end }}
+                <div class="p-2">
+                  {{ with .Params.gh }}
+                  <a href="https://github.com/{{ . }}">
+                    <i class="fa-brands fa-github fa-2xl"></i>
+                  </a>
+                  {{ end }}
+                  {{ with .Params.ws }}
+                  <a href="{{ . }}">
+                    <i class="fa-solid fa-globe fa-2xl"></i>
+                  </a>
+                  {{ end }}
+                </div>
               </div>
             </header>
 
@@ -65,24 +66,24 @@
                   </div>
                   <div class="content has-text-justified">
                     <p>
-                      <ion-icon name="information-circle-outline"></ion-icon> {{ .Params.description | markdownify }}
+                      <i class="fa-solid fa-circle-info"></i> {{ .Params.description | markdownify }}
                       <br>
                       {{ with .Params.client }}
                       <span title="Client">
-                        <ion-icon name="people-circle-outline"></ion-icon>
+                        <i class="fa-solid fa-circle-user"></i>
                         {{ . }}
                       </span>
                       {{ end }}
                       <br>
                       {{ with .Params.location }}
-                      <ion-icon name="location-outline"></ion-icon>{{ . }}
+                      <i class="fa-solid fa-location-dot"></i>{{ . }}
                       {{ end }}
                     </p>
                   </div>
                 </div>
               </div>
             </div>
-            
+
           </div>
         </div>
 

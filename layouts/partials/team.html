@@ -15,22 +15,22 @@
             <p class="is-size-4 mb-2">
                 {{with .social }}
                     {{ if .mail }}
-                        <a href="mailto:{{ .mail }}" target="_blank"><ion-icon name="mail-outline"></ion-icon></a>
+                        <a href="mailto:{{ .mail }}" target="_blank"><i class="fa-solid fa-envelope"></i></a>
                     {{ end }}
                     {{ if .website }}
-                        <a href="{{ .website }}" target="_blank"><ion-icon name="globe-outline" size=""></ion-icon></a>
+                        <a href="{{ .website }}" target="_blank"><i class="fa-solid fa-globe"></i></a>
                     {{ end }}
                     {{ if .github }}
-                        <a href="https://github.com/{{ .github }}" target="_blank"><ion-icon name="logo-github"></ion-icon></a>
+                        <a href="https://github.com/{{ .github }}" target="_blank"><i class="fa-brands fa-github"></i></a>
                     {{ end }}
                     {{ if .linkedin }}
-                        <a href="https://www.linkedin.com/in/{{ .linkedin }}" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
+                        <a href="https://www.linkedin.com/in/{{ .linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
                     {{ end }}
                     {{ if .researchgate }}
-                        <a href="https://www.researchgate.net/profile/{{ .researchgate }}" target="_blank"><ion-icon class="ai ai-researchgate-square"></ion-icon></a>
+                        <a href="https://www.researchgate.net/profile/{{ .researchgate }}" target="_blank"><i class="fa-brands fa-researchgate"></i></a>
                     {{ end }}
                     {{ if .orcid }}
-                        <a href="https://orcid.org/{{ .orcid }}" target="_blank"><ion-icon class="ai ai-orcid"></ion-icon></a>
+                        <a href="https://orcid.org/{{ .orcid }}" target="_blank"><i class="fa-brands fa-orcid"></i></a>
                     {{ end }}
                 {{ end }}
             </p>
