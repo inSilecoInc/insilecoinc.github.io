@@ -29,12 +29,12 @@ custom_js = []
         url = "#mission"
         weight = 1
     [[languages.fr.menu.main]]
-        name = "Expertise"
-        url = "#expertise"
-        weight = 2
-    [[languages.fr.menu.main]]
         name = "Équipe"
         url = "#team"
+        weight = 2
+    [[languages.fr.menu.main]]
+        name = "Expertise"
+        url = "#expertise"
         weight = 3
     [[languages.fr.menu.main]]
         name = "Démarche"
@@ -77,12 +77,12 @@ custom_js = []
         url = "#mission"
         weight = 1
     [[languages.en.menu.main]]
-        name = "Expertise"
-        url = "#expertise"
-        weight = 2
-    [[languages.en.menu.main]]
         name = "Team"
         url = "#team"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "Expertise"
+        url = "#expertise"
         weight = 3
     [[languages.en.menu.main]]
         name = "Approach"

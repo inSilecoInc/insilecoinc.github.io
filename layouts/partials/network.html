@@ -1,0 +1,31 @@
+<section id="network" class="hero">
+    <div class="hero-body">
+        <div class="container">
+            <div class="has-text-centered mb-6">
+                <h1 class="title has-text-white">
+                    {{ index .Site.Data .Site.Language.Lang "network" "title" }}
+                </h1>
+            </div>
+            <div class="columns is-multiline is-vcentered is-mobile is-centered">
+                {{ range .Site.Data.network }}
+                <div class="column
+                    {{ if eq (len $.Site.Data.network) 1 }}
+                      is-narrow
+                    {{ else }}
+                      is-4-desktop is-6-tablet is-12-mobile
+                    {{ end }}">
+                    <div class="has-text-centered">
+                        <figure class="image is-inline-block"
+                            style="background-color:white; padding:1rem; border-radius:8px;">
+                            <a href="{{ .url }}" target="_blank" rel="noopener">
+                                <img src="{{ .logo }}" alt="{{ .name }}"
+                                    style="max-height:8rem; max-width:12rem; object-fit:contain; display:block; margin:0 auto;" />
+                            </a>
+                        </figure>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
