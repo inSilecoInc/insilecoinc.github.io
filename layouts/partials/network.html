@@ -3,7 +3,7 @@
         <div class="container">
             <div class="has-text-centered mb-6">
                 <h1 class="title has-text-white">
-                    {{ if eq .Site.Language.Lang "fr" }}Notre réseau{{ else }}Our network{{ end }}
+                    {{ index .Site.Data .Site.Language.Lang "network" "title" }}
                 </h1>
             </div>
             <div class="columns is-multiline is-vcentered is-mobile is-centered">
