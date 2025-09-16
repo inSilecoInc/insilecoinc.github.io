@@ -104,3 +104,10 @@ input[type="checkbox"] {
 .card-header a:hover {
     color: white;
 }
+
+
+/* HELPERS */
+
+.bg-white {
+    background-color: white;
+}
